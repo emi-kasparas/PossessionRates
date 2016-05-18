@@ -1,0 +1,1151 @@
+Country,City,CityCode,Type,Region,RegionCode
+Algeria,Algiers,AL01,tier2,North Centre,R015
+Algeria,Oran,AL02,tier2,North West,R017
+Algeria,Constantine,AL03,tier2,North East,R016
+Algeria,Annaba,AL04,tier2,North East,R016
+Algeria,Batna,AL05,tier2,High Plateau East,R013
+Algeria,Sétif,AL06,tier2,High Plateau Centre,R012
+Algeria,Sidi bel Abbès,AL07,tier2,North West,R017
+Algeria,Djelfa,AL08,tier2,High Plateau Centre,R012
+Algeria,Tibissah,AL09,tier2,High Plateau East,R013
+Argentina,Buenos Aires,AR01,tier1,Gran Buenos Aires,R021
+Argentina,Córdoba,AR02,tier2,Pampeana,R024
+Argentina,Mendoza,AR03,tier2,Cuyo,R020
+Argentina,Salta,AR04,tier2,Noroeste,R023
+Argentina,Santa Fe,AR05,tier2,Pampeana,R024
+Argentina,San Juan,AR06,tier2,Cuyo,R020
+Argentina,Rosario,AR07,tier2,Pampeana,R024
+Argentina,La Plata,AR08,tier2,Pampeana,R024
+Argentina,Mar del Plata,AR09,tier2,Pampeana,R024
+Argentina,San Miguel de Tucumán,AR10,tier2,Noroeste,R023
+Argentina,Resistencia,AR11,tier2,Noreste,R022
+Argentina,Santiago del Estero,AR12,tier2,Noroeste,R023
+Argentina,Corrientes,AR13,tier2,Noreste,R022
+Argentina,Posadas,AR14,tier2,Noreste,R022
+Australia,Sydney,AU01,tier1,New South Wales,R036
+Australia,Melbourne,AU02,tier1,Victoria,R042
+Australia,Brisbane,AU03,tier2,Queensland,R039
+Australia,Adelaide,AU04,tier2,South Australia,R040
+Australia,Perth,AU05,tier2,Western Australia,R043
+Australia,Darwin,AU06,tier2,Northern Territory,R037
+Australia,Canberra,AU07,tier2,Australian Capital Territory,R035
+Australia,Gold Coast,AU08,tier2,Queensland,R039
+Australia,Newcastle,AU09,tier2,New South Wales,R036
+Australia,Hobart,AU10,tier2,Tasmania,R041
+Austria,Graz,AT02,tier2,Steiermark,R031
+Austria,Linz,AT03,tier2,Oberosterreich,R029
+Austria,Salzburg,AT04,tier2,Salzburg,R030
+Austria,Innsbruck,AT05,tier2,Tirol,R032
+Austria,Klagenfurt,AT06,tier2,Karnten,R027
+Austria,Vienna,AT01,tier1,Wien/Burgenland/Niederosterreich,"R034,R026,R028"
+Azerbaijan,Ganja,AJ02,tier2,Ganja-Gazakh,R004
+Azerbaijan,Baku,AJ01,tier1,Baku city,R003
+Belarus,Gomel,BL02,tier2,Gomel,R048
+Belarus,Mogilev,BL03,tier2,Mogilev,R052
+Belarus,Vitebsk,BL04,tier2,Vitebsk,R053
+Belarus,Grodno,BL05,tier2,Grodno,R049
+Belarus,Brest,BL06,tier2,Brest,R047
+Belarus,Bobruysk,BL07,tier2,Mogilev,R052
+Belarus,Baranovich,BL08,tier2,Brest,R047
+Belarus,Minsk,BL01,tier1,Minsk City/Minsk,"R051,R050"
+Belgium,Ghent,BE03,tier2,Flemish,R045
+Belgium,Charleroi,BE04,tier2,Walloon,R046
+Belgium,Liege,BE05,tier2,Walloon,R046
+Belgium,Bruges,BE06,tier2,Flemish,R045
+Belgium,Namur,BE07,tier2,Walloon,R046
+Belgium,Mons,BE08,tier2,Walloon,R046
+Belgium,Antwerp,BE01,tier1,Flemish,R045
+Belgium,Brussels,BE02,tier1,Brussels-Capital/Flemish/Walloon,"R044,R045,R046"
+Bolivia,Santa Cruz,BV01,tier1,Santa Cruz,R075
+Bolivia,La Paz,BV02,tier2,La Paz,R071
+Bolivia,Cochabamba,BV03,tier2,Cochabamba,R070
+Bolivia,Oruro,BV04,tier2,Oruro,R072
+Bolivia,Sucre,BV05,tier2,Chuquisaca,R069
+Bolivia,Tarija,BV06,tier2,Tarija,R076
+Bolivia,Potosí,BV07,tier2,Potosi,R074
+Bosnia-Herzegovina,Sarajevo,BS01,tier1,Federation of Bosnia and Herzegovina,R060
+Bosnia-Herzegovina,Banja Luka,BS02,tier2,Republika Srpska,R061
+Brazil,Fortaleza metro,BR05,tier2,Northeast,R055
+Brazil,Manaus metro,BR07,tier2,North,R056
+Brazil,Recife metro,BR09,tier2,Northeast,R055
+Brazil,Belém metro,BR11,tier2,North,R056
+Brazil,Goiânia metro,BR12,tier2,Central-West,R054
+Brazil,São Luís metro,BR14,tier2,Northeast,R055
+Brazil,Maceió metro,BR15,tier2,Northeast,R055
+Brazil,Natal metro,BR16,tier2,Northeast,R055
+Brazil,Campo Grande metro,BR17,tier2,Northeast,R055
+Brazil,Teresina metro,BR18,tier2,Northeast,R055
+Brazil,João Pessoa metro,BR19,tier2,Northeast,R055
+Brazil,Aracaju metro,BR23,tier2,Northeast,R055
+Brazil,Salvador,BR03,tier1,Northeast,R055
+Brazil,Brasília metro,BR04,tier2,Central-West/Southeast,"R054,R057"
+Brazil,Belo Horizonte metro,BR06,tier2,Southeast,R057
+Brazil,Curitiba metro,BR08,tier2,South,R058
+Brazil,Porto Alegre metro,BR10,tier2,South,R058
+Brazil,Campinas metro,BR13,tier2,Southeast,R057
+Brazil,São José dos Campos metro,BR20,tier2,Southeast,R057
+Brazil,Ribeirão Preto metro,BR21,tier2,Southeast,R057
+Brazil,Sorocaba metro,BR22,tier2,Southeast,R057
+Brazil,Cuiabá metro,BR24,tier2,Central-West,R054
+Brazil,Londrina metro,BR25,tier2,South,R058
+Brazil,Vitória metro,BR26,tier2,Southeast,R057
+Brazil,Sao Paulo,BR01,tier1,Southeast,R057
+Brazil,Rio de Janeiro,BR02,tier1,Southeast,R057
+Bulgaria,Sofia,BU01,tier1,South-West,R067
+Bulgaria,Plovdiv,BU02,tier2,South Central,R065
+Bulgaria,Varna,BU03,tier2,North-East,R063
+Bulgaria,Burgas,BU04,tier2,South-East,R066
+Bulgaria,Ruse,BU05,tier2,North Central,R062
+Bulgaria,Stara Zagora,BU06,tier2,South-East,R066
+Bulgaria,Pleven,BU07,tier2,North-West,R064
+Cameroon,Douala,OO01,tier1,Littoral,R614
+Cameroon,Yaoundé,OO02,tier2,Centre,R611
+Cameroon,Bamenda,OO03,tier2,Northwest,R616
+Cameroon,Bafoussam,OO04,tier2,West,R619
+Cameroon,Garoua,OO05,tier2,North,R615
+Cameroon,Maroua,OO06,tier2,Far North,R613
+Cameroon,Ngaoundéré,OO07,tier2,Adamawa,R610
+Canada,Ottawa - Gatineau,CA04,tier2,Ontario/Quebec,"R085,R087"
+Canada,Quebec,CA07,tier2,Quebec,R087
+Canada,Hamilton,CA08,tier2,Ontario,R085
+Canada,London,CA10,tier2,Ontario,R085
+Canada,Kitchener,CA11,tier2,Ontario,R085
+Canada,Saint Catharines,CA13,tier2,Ontario,R085
+Canada,Halifax,CA14,tier2,Nova Scotia,R083
+Canada,Oshawa,CA15,tier2,Ontario,R085
+Canada,Windsor,CA16,tier2,Ontario,R085
+Canada,Sherbrooke,CA19,tier2,Quebec,R087
+Canada,St. John's,CA20,tier2,Newfoundland and Labrador,R081
+Canada,Toronto,CA01,tier1,Ontario,R085
+Canada,Montreal,CA02,tier1,Quebec,R087
+Canada,Calgary,CA05,tier2,Alberta,R077
+Canada,Edmonton,CA06,tier2,Alberta,R077
+Canada,Winnipeg,CA09,tier2,Manitoba,R079
+Canada,Victoria,CA12,tier2,British Columbia,R078
+Canada,Saskatoon,CA17,tier2,Saskatchewan,R088
+Canada,Regina,CA18,tier2,Saskatchewan,R088
+Canada,Vancouver,CA03,tier1,British Columbia,R078
+Chile,Santiago,CL01,tier1,Metropolitana,R108
+Chile,Valparaíso,CL02,tier2,Valparaiso,R110
+Chile,Antofagasta,CL03,tier2,Antofagasta,R098
+Chile,Temuco,CL04,tier2,Araucania,R099
+Chile,Rancagua,CL05,tier2,Libertador General Bernardo O'Higgins,R104
+Chile,Concepción,CL06,tier2,Bio-Bio,R102
+Chile,Arica,CL07,tier2,Arica-Parinacota,R100
+Chile,Iquique,CL08,tier2,Tarapaca,R109
+China,Chongqing,CN26,tier2,Chongqing,R114
+China,Lanzhou,CN56,tier2,Gansu,R116
+China,Guiyang,CN57,tier2,Guizhou,R119
+China,Xiangfan,CN79,tier2,Hubei,R124
+China,Changsha,CN43,tier2,Hunan,R125
+China,Kunming,CN40,tier2,Yunnan,R141
+China,Baotou,CN71,tier2,Inner Mongolia,R126
+China,Hohhot,CN55,tier2,Inner Mongolia,R126
+China,Chengdu,CN28,tier2,Sichuan,R137
+China,Urumqi,CN60,tier2,Xinjiang,R140
+China,Wuhan,CN24,tier1,Hubei,R124
+China,Hefei,CN66,tier2,Anhui,R112
+China,Huainan,CN49,tier2,Anhui,R112
+China,Liuzhou,CN53,tier2,Guangxi,R118
+China,Nanning,CN63,tier2,Guangxi,R118
+China,Shijiazhuang,CN45,tier2,Hebei,R121
+China,Luoyang,CN78,tier2,Henan,R123
+China,Zhengzhou,CN42,tier2,Henan,R123
+China,Xuzhou,CN72,tier2,Jiangsu,R127
+China,Nanchang,CN62,tier2,Jiangxi,R128
+China,Jinan,CN37,tier2,Shandong,R134
+China,Linyi,CN47,tier2,Shandong,R134
+China,Zibo,CN46,tier2,Shandong,R134
+China,Xian,CN30,tier2,Shanxi,R133
+China,Datong,CN52,tier2,Shanxi,R136
+China,Taiyuan,CN41,tier2,Shanxi,R136
+China,Tangshan,CN64,tier2,Hebei,R121
+China,Daqing,CN48,tier2,Heilongjiang,R122
+China,Harbin (Haerbin),CN33,tier2,Heilongjiang,R122
+China,Qiqihar,CN75,tier2,Heilongjiang,R122
+China,Changchun,CN38,tier2,Jilin,R129
+China,Jilin,CN69,tier2,Jilin,R129
+China,Anshan,CN73,tier2,Liaoning,R130
+China,Dalian,CN36,tier2,Liaoning,R130
+China,Fushun,CN74,tier2,Liaoning,R130
+China,Shenyang,CN27,tier2,Liaoning,R130
+China,Changzhou,CN67,tier2,Jiangsu,R127
+China,Nanjing,CN32,tier2,Jiangsu,R127
+China,Suzhou,CN59,tier2,Jiangsu,R127
+China,Wuxi,CN58,tier2,Jiangsu,R127
+China,Yantai,CN77,tier2,Shandong,R134
+China,Qingdao,CN39,tier2,Shandong,R134
+China,Weifang,CN76,tier2,Shandong,R134
+China,Taizhou,CN80,tier2,Zhejiang,R142
+China,Beijing,CN21,tier1,Beijing,R113
+China,Tianjin,CN23,tier1,Tianjin,R138
+China,Fuzhou,CN44,tier2,Fujian,R115
+China,Xiamen,CN68,tier2,Fujian,R115
+China,Dongguan,CN31,tier2,Guangdong,R117
+China,Foshan,CN29,tier2,Guangdong,R117
+China,Huizhou,CN50,tier2,Guangdong,R117
+China,Shantou,CN35,tier2,Guangdong,R117
+China,Zhongshan,CN70,tier2,Guangdong,R117
+China,Zhuhai,CN51,tier2,Guangdong,R117
+China,Haikou,CN54,tier2,Hainan,R120
+China,Hangzhou,CN34,tier2,Zhejiang,R142
+China,Ningbo,CN61,tier2,Zhejiang,R142
+China,Wenzhou,CN65,tier2,Zhejiang,R142
+China,Shanghai,CN20,tier1,Shanghai,R135
+China,Guangzhou,CN22,tier1,Guangdong,R117
+China,Shenzhen,CN25,tier1,Guangdong,R117
+Colombia,Bogota,CO01,tier1,Bogota/Central,"R145,R146"
+Colombia,Cali,CO02,tier2,Pacifica,R148
+Colombia,Medellín,CO03,tier2,Pacifica,R148
+Colombia,Barranquilla,CO04,tier2,Atlantica,R144
+Colombia,Cartagena,CO05,tier2,Atlantica,R144
+Colombia,Cúcuta,CO06,tier2,Central,R146
+Colombia,Bucaramanga,CO07,tier2,Central,R146
+Colombia,Pereira,CO08,tier2,Central,R146
+Colombia,Ibagué,CO09,tier2,Central,R146
+Colombia,Santa Marta,CO10,tier2,Atlantica,R144
+Croatia,Zagreb,CR01,tier1,Central Croatia,R149
+Croatia,Split,CR02,tier2,Dalmatia,R150
+Croatia,Rijeka,CR03,tier2,Istria and Northern Seacoast,R151
+Czech Republic,Brno,CS02,tier2,South Moravia,R163
+Czech Republic,Ostrava,CS03,tier2,Moravia-Silesia,R157
+Czech Republic,Plzen,CS04,tier2,Plzen,R160
+Czech Republic,Olomouc,CS05,tier2,Olomouc,R158
+Czech Republic,Prague,CS01,tier1,Prague/Central Bohemia,"R161,R153"
+Denmark,Aalborg,DK04,tier2,North,R185
+Denmark,Arhus,DK02,tier2,Central,R184
+Denmark,Esbjerg,DK05,tier2,Southern,R187
+Denmark,Odense,DK03,tier2,Southern,R187
+Denmark,Copenhagen,DK01,tier1,Capital,R183
+Dominican Republic,Santo Domingo,DR01,tier1,Ozama,R196
+Dominican Republic,Santiago,DR02,tier2,Cibao Norte,R190
+Dominican Republic,San Pedro de Macorís,DR03,tier2,Higuamo,R195
+Dominican Republic,La Romana,DR04,tier2,Del Yuma,R192
+Dominican Republic,San Francisco de Macorís,DR05,tier2,Cibao Nordeste,R188
+Dominican Republic,Puerto Plata,DR06,tier2,Cibao Norte,R190
+Dominican Republic,Higüey,DR07,tier2,Del Yuma,R192
+Ecuador,Guayaquil,EC01,tier1,Guayaquil/Resto Costa,"R200,R203"
+Ecuador,Quito,EC02,tier1,Quito/Resto Sierra,"R202,R204"
+Ecuador,Cuenca,EC03,tier2,Cuenca,R199
+Ecuador,Machala,EC04,tier2,Machala/Resto Costa,"R201,R203"
+Ecuador,Santo Domingo de los Colorados,EC05,tier2,Resto Sierra,R204
+Ecuador,Manta,EC06,tier2,Resto Costa,R203
+Ecuador,Portoviejo,EC07,tier2,Resto Costa,R203
+Ecuador,Ambato,EC08,tier2,Resto Sierra,R204
+Ecuador,Riobamba,EC09,tier2,Resto Sierra,R204
+Egypt,Cairo,EG01,tier1,Cairo/Giza/Kalyoubia,"R210,R216,R219"
+Egypt,Alexandria,EG02,tier2,Alexsandria,R205
+Egypt,Port Said,EG03,tier2,Port Said,R225
+Egypt,Suez,EG04,tier2,Suez,R230
+Egypt,El-Mahalla El-Kubra,EG05,tier2,Gharbia,R215
+Egypt,Tanta,EG06,tier2,Gharbia,R215
+Egypt,Mansoura,EG07,tier2,Dakahlia,R211
+Egypt,Asyut,EG08,tier2,Asyout,R207
+Estonia,Tartu,ET02,tier2,Tartu,R261
+Estonia,Tallinn,ET01,tier1,Harju,R250
+Finland,Helsinki,FI01,tier1,Helsinki-Uusimaa,R267
+Finland,Tampere,FI02,tier2,Western Finland,R269
+Finland,Turku,FI03,tier2,Southern Finland,R268
+Finland,Oulu,FI04,tier2,Northern and Eastern Finland,R266
+Finland,Lahti,FI05,tier2,Southern Finland,R268
+Finland,Kuopio,FI06,tier2,Northern and Eastern Finland,R266
+Finland,Jyväskylä,FI07,tier2,Western Finland,R269
+Finland,Pori,FI08,tier2,Western Finland,R269
+France,Bordeaux,FR07,tier2,South-West,R276
+France,Grenoble,FR11,tier2,Centre-East,R271
+France,Lille,FR04,tier2,North,R275
+France,Montpellier,FR10,tier2,Mediterranean,R274
+France,Nantes,FR08,tier2,West,R277
+France,Nice,FR05,tier2,Mediterranean,R274
+France,Rennes,FR13,tier2,West,R277
+France,Rouen-Elboeuf,FR14,tier2,Bassin Parisien,R270
+France,Strasbourg,FR09,tier2,East,R272
+France,Paris,FR01,tier1,Island of France,R273
+France,Marseille,FR02,tier1,Mediterranean,R274
+France,Lyon,FR03,tier1,Centre-East,R271
+France,Angers,FR22,tier2,West,R277
+France,Avignon,FR23,tier2,Mediterranean,R274
+France,Brest,FR25,tier2,West,R277
+France,Caen,FR20,tier2,Bassin Parisien,R270
+France,Clermont-Ferrand,FR16,tier2,Centre-East,R271
+France,Dijon,FR24,tier2,Bassin Parisien,R270
+France,Metz,FR15,tier2,East,R272
+France,Nancy,FR21,tier2,East,R272
+France,Orleans,FR19,tier2,Bassin Parisien,R270
+France,Saint-Etienne,FR17,tier2,Centre-East,R271
+France,Toulon,FR12,tier2,Mediterranean,R274
+France,Toulouse,FR06,tier2,South-West,R276
+France,Tours,FR18,tier2,Bassin Parisien,R270
+Georgia,Batumi,GG03,tier2,Adjara,R291
+Georgia,Kutaisi,GG02,tier2,Imereti,R293
+Georgia,Zugdidi,GG04,tier2,Samegrelo-Zemo Svaneti,R298
+Georgia,Tbilisi,GG01,tier1,Tbilisi/Kvemo Kartli,"R301,R295"
+Germany,Bremen,DE10,tier2,Bremen/Lower Saxony,"R171,R174"
+Germany,Dresden,DE11,tier2,Saxony,R179
+Germany,Düsseldorf,DE09,tier2,North Rhine-Westphalia,R176
+Germany,Hannover,DE13,tier2,Lower Saxony,R174
+Germany,Köln,DE04,tier2,North Rhine-Westphalia,R176
+Germany,Nürnberg-Fürth,DE14,tier2,Bavaria,R168
+Germany,Stuttgart,DE08,tier2,Baden-Württemberg,R167
+Germany,Berlin,DE01,tier1,Berlin/Branderburg,"R169,R170"
+Germany,Hamburg,DE02,tier1,Hamburg/Lower Saxony/Schleswig-Holstein,"R172,R174,R181"
+Germany,Munich,DE03,tier1,Bavaria,R168
+Germany,Frankfurt am Main,DE05,tier1,Hesse/Bavaria,"R173,R168"
+Germany,Augsburg,DE24,tier2,Bavaria,R168
+Germany,Bielefeld,DE19,tier2,North Rhine-Westphalia,R176
+Germany,Bochum,DE17,tier2,North Rhine-Westphalia,R176
+Germany,Bonn,DE16,tier2,North Rhine-Westphalia,R176
+Germany,Duisburg,DE15,tier2,North Rhine-Westphalia,R176
+Germany,Dortmund,DE07,tier2,North Rhine-Westphalia,R176
+Germany,Essen-Oberhausen,DE06,tier2,North Rhine-Westphalia,R176
+Germany,Karlsruhe,DE20,tier2,Baden-Württemberg,R167
+Germany,Leipzig,DE12,tier2,Saxony,R179
+Germany,Mannheim,DE22,tier2,Baden-Württemberg,R167
+Germany,Münster,DE21,tier2,North Rhine-Westphalia,R176
+Germany,Saarbrücken,DE25,tier2,Saarland,R178
+Germany,Wiesbaden,DE23,tier2,Hesse,R173
+Germany,Wuppertal,DE18,tier2,North Rhine-Westphalia,R176
+Greece,Larissa,GR04,tier2,Thessaly,R312
+Greece,Patras,GR03,tier2,West Greece ,R313
+Greece,Thessaloniki,GR02,tier2,Central Macedonia ,R304
+Greece,Athens,GR01,tier1,Attica,R302
+Guatemala,Guatemala City,GT01,tier1,Metropolitana/Central,"R316,R315"
+Guatemala,Quezaltenango,GT02,tier2,Suroccidente,R321
+Guatemala,Escuintla,GT03,tier2,Central,R315
+Guatemala,Chimaltenango,GT04,tier2,Central,R315
+Hungary,Debrecen,HU02,tier2,Northern Great Plain,R325
+Hungary,Miskolc,HU03,tier2,Northern Hungary,R326
+Hungary,Szeged,HU04,tier2,Southern Great Plain,R327
+Hungary,Pecs,HU05,tier2,Southern Transdanubia,R328
+Hungary,Gyor,HU06,tier2,Western Transdanubia,R329
+Hungary,Kecskemet,HU07,tier2,Southern Great Plain,R327
+Hungary,Szekesfehervar,HU08,tier2,Central Transdanubia,R324
+Hungary,Nyiregyhaza,HU09,tier2,Northern Great Plain,R325
+Hungary,Budapest,HU01,tier1,Central Hungary,R323
+India,Kanpur,IN29,tier2,Uttar Pradesh,R398
+India,Jaipur,IN30,tier2,Rajasthan,R394
+India,Lucknow,IN31,tier2,Uttar Pradesh,R398
+India,Nagpur,IN32,tier2,Maharashtra,R387
+India,Patna,IN33,tier2,Bihar,R374
+India,Indore,IN34,tier2,Madhya Pradesh,R386
+India,Vadodara,IN35,tier2,Gujarat,R379
+India,Coimbatore,IN36,tier2,Tamil Nadu,R396
+India,Bhopal,IN37,tier2,Madhya Pradesh,R386
+India,Kochi,IN39,tier2,Kerala,R385
+India,Kozhikode,IN56,tier2,Kerala,R385
+India,Thrissur,IN57,tier2,Kerala,R385
+India,Ghaziabad,IN55,tier2,Uttar Pradesh,R398
+India,Mumbai,IN20,tier1,Maharashtra,R387
+India,Delhi,IN21,tier1,Delhi,R376
+India,Bangalore,IN22,tier1,Karnataka,R384
+India,Kolkata,IN23,tier1,West Bengal,R400
+India,Chennai,IN24,tier2,Tamil Nadu,R396
+India,Hyderabad IN,IN25,tier2,Andhra Pradesh,R371
+India,Ahmedabad,IN26,tier2,Gujarat,R379
+India,Pune,IN27,tier2,Maharashtra,R387
+India,Surat,IN28,tier2,Gujarat,R379
+India,Ludhiana,IN38,tier2,Punjab,R393
+India,Vishakhapatnam,IN40,tier2,Andhra Pradesh,R371
+India,Agra,IN41,tier2,Uttar Pradesh,R398
+India,Varanasi,IN42,tier2,Uttar Pradesh,R398
+India,Madurai,IN43,tier2,Tamil Nadu,R396
+India,Meerut,IN44,tier2,Uttar Pradesh,R398
+India,Nasik,IN45,tier2,Maharashtra,R387
+India,Jamshedpur,IN46,tier2,Jharkhand,R383
+India,Jabalpur,IN47,tier2,Madhya Pradesh,R386
+India,Asansol,IN48,tier2,West Bengal,R400
+India,Dhanbad,IN49,tier2,Jharkhand,R383
+India,Faridabad,IN50,tier2,Haryana,R380
+India,Allahabad,IN51,tier2,Uttar Pradesh,R398
+India,Vijayawada,IN52,tier2,Andhra Pradesh,R371
+India,Amritsar,IN53,tier2,Punjab,R393
+India,Rajkot,IN54,tier2,Gujarat,R379
+India,Malappuram,IN58,tier2,Kerala,R385
+India,Thiruvananthapuram,IN59,tier2,Kerala,R385
+India,Kannur,IN60,tier2,Kerala,R385
+Indonesia,Jakarta,ID01,tier1,Dki Jakarta/Jawa Barat/Banten,"R335,R338,R332"
+Indonesia,Bandung,ID02,tier2,Jawa Barat,R338
+Indonesia,Malang,ID03,tier2,Jawa Timur,R340
+Indonesia,Surabaya,ID04,tier2,Jawa Timur,R340
+Indonesia,Semarang,ID05,tier2,Jawa Tengah,R339
+Indonesia,Palembang,ID06,tier2,Sumatera Selatan,R361
+Indonesia,Medan,ID07,tier2,Sumatera Utara,R362
+Indonesia,Makasssar,ID08,tier2,Sulawesi Selatah,R357
+Indonesia,Batam,ID09,tier2,Kepulauan Riau,R346
+Indonesia,Pekanbaru,ID10,tier2,Riau,R354
+Indonesia,Bandar Lampung,ID11,tier2,Lampung,R347
+Indonesia,Denpasar,ID12,tier2,Bali,R331
+Indonesia,Padang,ID13,tier2,Sumatera Barat,R360
+Indonesia,Samarinda,ID14,tier2,Kalinamtan Timur,R344
+Indonesia,Tasikmalaya,ID15,tier2,Jawa Barat,R338
+Indonesia,Banjarmasin,ID16,tier2,Kalimantan Selatan,R342
+Iran,Tehran,IR01,tier1,Tehran,R428
+Iran,Mashhad,IR02,tier2,Razavi Khorasan,R424
+Iran,Isfahan,IR03,tier2,Isfahan,R412
+Iran,Tabriz,IR04,tier2,East Azerbaijan,R405
+Iran,Karaj,IR05,tier2,Alborz,R401
+Iran,Shiraz,IR06,tier2,Fars,R406
+Iran,Ahvaz,IR07,tier2,Khuzestan,R415
+Iran,Qom,IR08,tier2,Qom,R423
+Ireland,Cork,IE02,tier2,South-West,R369
+Ireland,Limerick,IE03,tier2,Mid-West,R366
+Ireland,Galway,IE04,tier2,West,R370
+Ireland,Dublin,IE01,tier1,Dublin/Mid-East,"R364,R365"
+Israel,Jerusalem,IS01,tier1,Jerusalem,R438
+Israel,Tel Aviv,IS02,tier1,Petah Tikva/Ramla/Rehovot/Sharon/Tel Aviv/Ashqelon,"R441,R443,R444,R445,R446,R433"
+Israel,Haifa,IS03,tier2,Haifa/Hadera/Akko/Yizre'el,"R436,R435,R432,R442"
+Israel,Be'er Sheva,IS06,tier2,Beer Sheva/Ashqelon,"R434,R433"
+Italy,Turin,IT04,tier2,North-West,R450
+Italy,Genoa,IT05,tier2,North-West,R450
+Italy,Bologna,IT07,tier2,North-East,R449
+Italy,Verona,IT11,tier2,North-East,R449
+Italy,Venice,IT12,tier2,North-East,R449
+Italy,Padua,IT14,tier2,North-East,R449
+Italy,Treviso,IT15,tier2,North-East,R449
+Italy,Brescia,IT16,tier2,North-West,R450
+Italy,Milan,IT02,tier1,North-West,R450
+Italy,Naples,IT03,tier2,South,R451
+Italy,Palermo,IT06,tier2,Islands,R448
+Italy,Florence,IT08,tier2,Centre,R447
+Italy,Catania,IT09,tier2,Islands,R448
+Italy,Bari,IT10,tier2,South,R451
+Italy,Messina,IT13,tier2,Islands,R448
+Italy,Taranto,IT17,tier2,South,R451
+Italy,Rome,IT01,tier1,Centre,R447
+Japan,Fukuoka,JP04,tier2,Kyushu/Chugoku,"R469,R465"
+Japan,Hiroshima,JP10,tier2,Chugoku,R465
+Japan,Kagoshima,JP12,tier2,Kyushu,R469
+Japan,Kumamoto,JP11,tier2,Kyushu,R469
+Japan,Matsuyama,JP14,tier2,Shikoku,R471
+Japan,Niigata,JP08,tier2,Chubu,R464
+Japan,Okayama,JP07,tier2,Chugoku,R465
+Japan,Sapporo,JP05,tier2,Hokkaido,R466
+Japan,Sendai,JP06,tier2,Tohoku,R472
+Japan,Shizuoka,JP09,tier2,Chubu,R464
+Japan,Utsunomiya,JP15,tier2,Kanto,R468
+Japan,Tokyo,JP01,tier1,Kanto/Chubu,"R468,R464"
+Japan,Osaka,JP02,tier1,Kansai,R467
+Japan,Nagoya,JP03,tier1,Chubu/Kansai,"R464,R467"
+Jordan,Amman,JO01,tier1,Amman/Balqa/Zarqa,"R453,R455,R463"
+Jordan,Irbid,JO04,tier2,Irbid,R456
+Jordan,Aqaba,JO10,tier2,Aqaba,R454
+Kazakhstan,Almaty,KK01,tier1,Almaty city/Almaty,"R476,R475"
+Kazakhstan,Astana,KK02,tier2,Astana,R477
+Kazakhstan,Karaganda,KK03,tier2,Karagandy,R481
+Kazakhstan,Kostanay,KK04,tier2,Kostanay,R482
+Kazakhstan,Pavlodar,KK05,tier2,Pavlodar,R486
+Kazakhstan,Aktobe,KK06,tier2,Aktobe,R474
+Kazakhstan,Semey,KK07,tier2,Eastern Kazakhstan,R479
+Kazakhstan,Shymkent,KK08,tier2,Southern Kazakhstan,R487
+Kazakhstan,Taraz,KK09,tier2,Jambyl,R480
+Kazakhstan,Ust-Kamenogorsk,KK10,tier2,Eastern Kazakhstan,R479
+Kenya,Nairobi,KY01,tier1,Nairobi,R507
+Kenya,Mombasa,KY02,tier2,Coast,R505
+Kenya,Kisumu,KY03,tier2,Nyanza,R509
+Kenya,Nakuru,KY04,tier2,Rift Valley,R510
+Kenya,Eldoret,KY05,tier2,Rift Valley,R510
+Latvia,Riga,LA01,tier1,Riga/Pieriga,"R516,R515"
+Latvia,Liepaja,LA02,tier2,Kurzeme,R513
+Latvia,Daugavpils,LA03,tier2,Latgale,R514
+Lithuania,Kaunas,LT02,tier2,Kaunas,R521
+Lithuania,Klaip?da,LT03,tier2,Klaipeda,R522
+Lithuania,Panev?žys,LT05,tier2,Panevežys,R524
+Lithuania,Šiauliai,LT04,tier2,Šiauliai,R519
+Lithuania,Vilnius,LT01,tier1,Vilnius,R528
+Macedonia,Skopje,MD01,tier1,Skopje,R532
+Macedonia,Kumanovo,MD02,tier2,NorthEastern,R529
+Malaysia,Kuala Lumpur,MY01,tier1,Peninsular,R585
+Malaysia,Johor Bahru,MY02,tier2,Peninsular,R585
+Malaysia,Ipoh,MY03,tier2,Peninsular,R585
+Malaysia,Kuching,MY04,tier2,Sarawak,R587
+Malaysia,Kota Kinabalu,MY05,tier2,Sabah,R586
+Malaysia,Kota Bharu,MY06,tier2,Peninsular,R585
+Malaysia,Kuantan,MY07,tier2,Peninsular,R585
+Malaysia,Seremban,MY08,tier2,Peninsular,R585
+Malaysia,Georgetown,MY09,tier2,Peninsular,R585
+Malaysia,Malacca,MY10,tier2,Peninsular,R585
+Mexico,Aguascalientes,MX12,tier2,Aguascalientes,R553
+Mexico,Cancún,MX10,tier2,Quintana Roo,R575
+Mexico,Chihuahua,MX09,tier2,Chihuahua,R558
+Mexico,Guadalajara,MX02,tier2,Jalisco,R566
+Mexico,Juárez,MX04,tier2,Chihuahua,R558
+Mexico,León,MX06,tier2,Guanajuato,R563
+Mexico,Mérida,MX08,tier2,Yucatan,R583
+Mexico,Monterrey,MX07,tier2,Nuevo Leon,R571
+Mexico,Puebla,MX03,tier2,Puebla,"R573,R581"
+Mexico,San Luis Potosí,MX11,tier2,San Luis Potosi,R576
+Mexico,Tijuana,MX05,tier2,Baja California,R554
+Mexico,Mexico City,MX01,tier1,Federal District of Mexico City/Mexico/Hidalgo,"R561,R567,R565"
+Morocco,Casablanca,MO01,tier1,Grand Casablanca,R542
+Morocco,Rabat,MO02,tier2,Rabat - Sale - Zemmour - Zaer,R548
+Morocco,Fez,MO03,tier2,Fes - Boulemane,R540
+Morocco,Marrakech,MO04,tier2,Marrakech - Tensift - El-Haouz,R545
+Morocco,Agadir,MO05,tier2,Sous - Massa - Draa,R549
+Morocco,Tangier,MO06,tier2,Tanger - Tetouan,R551
+Morocco,Meknes,MO07,tier2,Meknes - Tafilalt,R546
+Morocco,Oujda,MO08,tier2,Oriental,R537
+Morocco,Kenitra,MO09,tier2,Gharb - Chrarda - Beni-Hsen,R541
+Morocco,Tétouan,MO10,tier2,Tanger - Tetouan,R551
+Netherlands,Apeldoorn,NL10,tier2,East,R594
+Netherlands,Breda,NL08,tier2,South,R596
+Netherlands,Eindhoven,NL05,tier2,South,R596
+Netherlands,Groningen,NL07,tier2,North,R595
+Netherlands,Nijmegen,NL09,tier2,East,R594
+Netherlands,The Hague,NL03,tier2,West,R597
+Netherlands,Tilburg,NL06,tier2,South,R596
+Netherlands,Utrecht,NL04,tier2,West,R597
+Netherlands,Amsterdam,NL01,tier1,West,R597
+Netherlands,Rotterdam,NL02,tier1,West,R597
+New Zealand,Auckland,NZ01,tier1,Auckland,R605
+New Zealand,Christchurch,NZ02,tier2,Canterbury,R606
+New Zealand,Wellington,NZ03,tier2,Wellington,R609
+New Zealand,Hamilton,NZ04,tier2,Rest of North,R607
+New Zealand,Dunedin,NZ05,tier2,Rest of South,R608
+New Zealand,Tauranga,NZ06,tier2,Rest of North,R607
+New Zealand,Napier-Hastings ,NZ08,tier2,Rest of North,R607
+Nigeria,Aba,NG10,tier2,South East,R591
+Nigeria,Abuja,NG05,tier2,North Central,R588
+Nigeria,Benin City,NG07,tier2,South South,R592
+Nigeria,Ibadan,NG02,tier2,South West,R593
+Nigeria,Ilorin,NG08,tier2,North Central,R588
+Nigeria,Kaduna,NG06,tier2,North West,R590
+Nigeria,Kano,NG03,tier2,North West,R590
+Nigeria,Maiduguri,NG09,tier2,North East,R589
+Nigeria,Port Harcourt,NG04,tier2,South South,R592
+Nigeria,Lagos,NG01,tier1,South West,R593
+Norway,Bergen,NO02,tier2,Western Norway,R604
+Norway,Stavanger/Sandnes,NO03,tier2,Agder and Rogaland,R598
+Norway,Trondheim,NO04,tier2,Trondelag,R603
+Norway,Fredrikstad/Sarpsborg,NO05,tier2,South Eastern Norway,R602
+Norway,Drammen,NO06,tier2,South Eastern Norway,R602
+Norway,Oslo,NO01,tier1,Oslo and Akershus,R601
+Pakistan,Lahore,PK02,tier2,Punjab,R637
+Pakistan,Faisalabad,PK03,tier2,Punjab,R637
+Pakistan,Rawalpindi,PK04,tier2,Islamabad/Punjab,"R641,R637"
+Pakistan,Multan,PK05,tier2,Punjab,R637
+Pakistan,Hyderabad,PK06,tier2,Sindh,R644
+Pakistan,Gujranwala,PK07,tier2,Punjab,R637
+Pakistan,Peshawar,PK08,tier2,North-West Frontier,R642
+Pakistan,Quetta,PK09,tier2,Balochistan,R639
+Pakistan,Karachi,PK01,tier1,Sindh,R644
+Peru,Lima,PU01,tier1,Lima Metropolitana,R661
+Peru,Arequipa,PU02,tier2,Costa Sur,R660
+Peru,Trujillo,PU03,tier2,Costa Centro,R658
+Peru,Chiclayo,PU04,tier2,Costa Norte,R659
+Peru,Piura,PU05,tier2,Costa Norte,R659
+Peru,Iquitos,PU06,tier2,Selva,R662
+Peru,Cusco,PU07,tier2,Sierra Sur,R665
+Peru,Chimbote,PU08,tier2,Costa Centro,R658
+Peru,Huancayo,PU09,tier2,Sierra Centro,R663
+Peru,Tacna,PU10,tier2,Costa Sur,R660
+Peru,Sullana,PU11,tier2,Costa Norte,R659
+Peru,Pucallpa,PU12,tier2,Selva,R662
+Philippines,Manila,PH01,tier1,National Capital/Central Luzon/Calabarzon,"R622,R625,R626"
+Philippines,Cebu,PH02,tier2,Central Visayas,R631
+Philippines,Davao City,PH03,tier2,Davao,R634
+Philippines,Cagayan de Oro,PH04,tier2,Northern Mindanao,R633
+Philippines,Zamboanga City,PH06,tier2,Zamboanga Peninsula,R628
+Philippines,General Santos City,PH08,tier2,Soccsksargen,R635
+Philippines,Bacolod,PH09,tier2,Western Visayas,R630
+Poland,Lodz,PL02,tier2,Central,R645
+Poland,Krakow,PL03,tier2,Southern,R650
+Poland,Wroclaw,PL04,tier2,South-Western,R649
+Poland,Poznan,PL05,tier2,North-Western,R647
+Poland,Gdansk,PL06,tier2,Northern,R648
+Poland,Szczecin,PL07,tier2,North-Western,R647
+Poland,Bydgoszcz,PL08,tier2,Northern,R648
+Poland,Lublin,PL09,tier2,Eastern,R646
+Poland,Katowice,PL10,tier2,Southern,R650
+Poland,Bialystok,PL11,tier2,Eastern,R646
+Poland,Czestochowa,PL13,tier2,Southern,R650
+Poland,Radom,PL14,tier2,Central,R645
+Poland,Torun,PL16,tier2,Northern,R648
+Poland,Kielce,PL17,tier2,Eastern,R646
+Poland,Warsaw,PL01,tier1,Central,R645
+Portugal,Porto,PT02,tier2,Norte,R657
+Portugal,Braga,PT03,tier2,Norte,R657
+Portugal,Coimbra,PT04,tier2,Centro,R654
+Portugal,Funchal,PT05,tier2,Madeira,R656
+Portugal,Lisbon,PT01,tier1,Lisboa,R655
+Romania,Bucharest,RO01,tier1,Bucuresti-Ilfov,R672
+Romania,Iasi,RO02,tier2,North-East,R674
+Romania,Cluj-Napoca,RO03,tier2,North-West,R675
+Romania,Timisoara,RO04,tier2,West,R679
+Romania,Constanta,RO05,tier2,South-East,R676
+Romania,Craiova,RO06,tier2,South-West,R678
+Romania,Galati,RO07,tier2,South-East,R676
+Romania,Brasov,RO08,tier2,Centre,R673
+Romania,Ploiesti,RO09,tier2,South,R677
+Romania,Braila,RO10,tier2,South-East,R676
+Russia,Nizhny Novgorod,RU04,tier2,Volga,R689
+Russia,Samara,RU06,tier2,Volga,R689
+Russia,Kazan,RU08,tier2,Volga,R689
+Russia,Rostov-on-Don,RU10,tier2,Southern,R687
+Russia,Ufa,RU11,tier2,Volga,R689
+Russia,Volgograd,RU12,tier2,Southern,R687
+Russia,Perm,RU13,tier2,Volga,R689
+Russia,Voronezh,RU15,tier2,Central,R682
+Russia,Toljatti,RU17,tier2,Volga,R689
+Russia,Krasnodar,RU18,tier2,Southern,R687
+Russia,Izhevsk,RU19,tier2,Volga,R689
+Russia,Uljanovsk,RU20,tier2,Volga,R689
+Russia,Yaroslavl,RU21,tier2,Central,R682
+Russia,Moscow,RU01,tier1,Central,R682
+Russia,Saint Petersburg,RU02,tier1,Northwestern,R685
+Russia,Yekaterinburg,RU05,tier2,Ural,R688
+Russia,Omsk,RU07,tier2,Siberian,R686
+Russia,Chelyabinsk,RU09,tier2,Ural,R688
+Russia,Krasnojarsk,RU14,tier2,Siberian,R686
+Russia,Saratov,RU16,tier2,Volga,R689
+Russia,Tyumen,RU22,tier2,Ural,R688
+Russia,Barnaul,RU23,tier2,Siberian,R686
+Russia,Khabarovsk,RU24,tier2,Far Eastern,R683
+Russia,Vladivostok,RU25,tier2,Far Eastern,R683
+Russia,Irkutsk,RU26,tier2,Siberian,R686
+Russia,Novosibirsk,RU03,tier1,Siberian,R686
+Saudi Arabia,Riyadh,SA01,tier1,Riyadh,R701
+Saudi Arabia,Jeddah,SA02,tier2,Makkah,R697
+Saudi Arabia,Mecca,SA03,tier2,Makkah,R697
+Saudi Arabia,Medina,SA04,tier2,Madinah,R696
+Saudi Arabia,Dammam,SA05,tier2,Eastern,R693
+Saudi Arabia,Ta'if,SA06,tier2,Makkah,R697
+Saudi Arabia,Tabuk,SA07,tier2,Tabuk,R702
+Saudi Arabia,Buraydah,SA08,tier2,Qasim,R700
+Saudi Arabia,Khamis Mushait,SA09,tier2,Asir,R692
+Saudi Arabia,Hofuf,SA10,tier2,Eastern,R693
+Saudi Arabia,Jubail,SA11,tier2,Eastern,R693
+Saudi Arabia,Najran,SA12,tier2,Najran,R698
+Saudi Arabia,Ha'il,SA13,tier2,Hail,R694
+Serbia,Novi sad,RS02,tier2,Vojvodina,R681
+Serbia,Niš,RS03,tier2,Central Serbia,R680
+Serbia,Kragujevac,RS04,tier2,Central Serbia,R680
+Serbia,Subotica,RS05,tier2,Vojvodina,R681
+Serbia,Belgrade,RS01,tier1,Central Serbia,R680
+Slovakia,Bratislava,SK01,tier1,Bratislava,R709
+Slovakia,Košice,SK02,tier2,Kosice,R710
+Slovakia,Prešov,SK03,tier2,Presov,R712
+Slovakia,Nitra,SK04,tier2,Nitra,R711
+Slovakia,Žilina,SK05,tier2,Zilina,R714
+Slovakia,Banská Bystrica,SK06,tier2,Banska Bystrica,R708
+Slovenia,Ljubljana,SV01,tier1,Osrednjeslovenska,R722
+Slovenia,Maribor,SV02,tier2,Podravska,R723
+South Africa,Durban,ZA03,tier2,KwaZulu-Natal,R900
+South Africa,Pretoria,ZA04,tier2,Gauteng,R899
+South Africa,Port Elizabeth,ZA05,tier2,Eastern Cape,R897
+South Africa,East London,ZA06,tier2,Eastern Cape,R897
+South Africa,Vereeniging,ZA07,tier2,Gauteng,R899
+South Africa,Pietermaritzburg,ZA08,tier2,Kwazulu-Natal,R900
+South Africa,Bloemfontein,ZA09,tier2,Free State,R898
+South Africa,Welkom,ZA10,tier2,Free State,R898
+South Africa,Richards Bay,ZA13,tier2,Kwazulu-Natal,R900
+South Africa,Emalahleni,ZA14,tier2,Mpumalanga,R902
+South Africa,Johannesburg,ZA01,tier1,Gauteng,R899
+South Africa,Cape Town,ZA02,tier1,Western Cape,R904
+South Korea,Seoul,KR01,tier1,Seoul/Incheon/Gyeonggi-do,"R503,R499,R496"
+South Korea,Busan,KR02,tier2,Busan/Gyeongsangnam-do,"R489,R498"
+South Korea,Daegu,KR03,tier2,Daegu,R492
+South Korea,Daejeon,KR04,tier2,Daejeon,R493
+South Korea,Gwangju,KR05,tier2,Gwangju,R495
+South Korea,Ulsan,KR06,tier2,Ulsan,R504
+South Korea,Changwon,KR07,tier2,Gyeongsangnam-do,R498
+South Korea,Cheongju,KR08,tier2,Chungcheongbuk-do,R490
+South Korea,Jeonju,KR09,tier2,Jeollabuk-do,R501
+South Korea,Chonan,KR10,tier2,Chungcheongnam-do,R491
+South Korea,Pohang,KR11,tier2,Chungcheongnam-do,R491
+Spain,Valencia,ES03,tier2,Comunidad Valenciana,R242
+Spain,Seville,ES04,tier2,Andalucia,R232
+Spain,Saragosa,ES05,tier2,Aragon,R233
+Spain,Malaga,ES06,tier2,Andalucia,R232
+Spain,Murcia,ES07,tier2,Murcia,R249
+Spain,Palma de Mallorca,ES08,tier2,Illes Balears,R245
+Spain,Las Palmas de Gran Canaria,ES09,tier2,Canarias,R234
+Spain,Bilbao,ES10,tier2,Pais Vasco,R247
+Spain,Cordoba,ES11,tier2,Andalucia,R232
+Spain,Valladolid,ES12,tier2,Castilla y Leon,R237
+Spain,Vigo,ES13,tier2,Galicia,R244
+Spain,Gijon,ES14,tier2,Principado de Asturias,R248
+Spain,A Coruna,ES15,tier2,Galicia,R244
+Spain,Madrid,ES01,tier1,Comunidad de Madrid,R240
+Spain,Barcelona,ES02,tier1,Cataluna,R238
+Sweden,Stockholm,SE01,tier1,Suburban municipalities/Commuter municipalities/Metropolitan municipalities/Large cities/Other municipalities,"R707,R703,R705,R704,R706"
+Sweden,Gothenburg,SE02,tier1,Suburban municipalities/Commuter municipalities/Metropolitan municipalities,"R707,R703,R705"
+Sweden,Malmö,SE03,tier2,Suburban municipalities/Large cities/Metropolitan municipalities/Commuter municipalities,"R707,R704,R705,R703"
+Sweden,Uppsala,SE04,tier2,Suburban municipalities/Large cities/Other municipalities,"R707,R704,R706"
+Sweden,Linköping,SE05,tier2,Other municipalities/Large cities/Commuter municipalities,"R706,R704,R703"
+Sweden,Västerås,SE06,tier2,Commuter municipalities/Large cities,"R703,R704"
+Sweden,Örebro,SE07,tier2,Other municipalities/Commuter municipalities/Suburban municipalities/Large cities,"R706,R703,R707,R704"
+Sweden,Norrköping,SE08,tier2,Other municipalities/Large cities/Suburban municipalities,"R706,R704,R707"
+Sweden,Helsingborg,SE09,tier2,Suburban municipalities/Large cities/Commuter municipalities/Other municipalities,"R707,R704,R703,R706"
+Sweden,Jönköping,SE10,tier2,Suburban municipalities/Large cities/Commuter municipalities/Other municipalities,"R707,R704,R703,R706"
+Switzerland,Basel,CH03,tier2,Northwestern Switzerland,R091
+Switzerland,Bern,CH04,tier2,Espace Mittelland,R090
+Switzerland,Lausanne,CH05,tier2,Lake Geneva,R093
+Switzerland,Lucerne,CH07,tier2,Central Switzerland,R095
+Switzerland,St. Gallen,CH06,tier2,Eastern Switzerland,R092
+Switzerland,Zurich,CH01,tier1,Zurich/Central Switzerland,"R096,R095"
+Switzerland,Geneva,CH02,tier1,Lake Geneva,R093
+Taiwan,Hsinchu,TW05,tier2,Hsinchu city/Hsinchu county,"R761,R762"
+Taiwan,Chiayi City,TW06,tier2,Chiayi city/Chiayi county,"R759,R760"
+Taiwan,Kaohsiung,TW02,tier2,Kaohsiung city,R764
+Taiwan,Taichung,TW03,tier2,Taichung city,R770
+Taiwan,Tainan,TW04,tier2,Tainan city,R772
+Taiwan,Taoyuan,TW07,tier2,Taoyuan county,R777
+Taiwan,Taipei,TW01,tier1,Keelung city/Taipei city/New Taipei city,"R765,R774,R775"
+Thailand,Bangkok,TH01,tier1,Bangkok/Central,"R729,R728"
+Thailand,Pattaya-Chonburi,TH04,tier2,Central,R728
+Thailand,Hat Yai,TH07,tier2,South,R732
+Thailand,Chiang Mai,TH05,tier2,North,R730
+Thailand,Nakhon Ratchasima,TH03,tier2,Northeast,R731
+Thailand,Nakhon Si Thammarat,TH12,tier2,South,R732
+Thailand,Khon Kaen,TH08,tier2,Northeast,R731
+Thailand,Rayong,TH09,tier2,Central,R728
+Thailand,Buriram,TH13,tier2,Northeast,R731
+Thailand,Surin,TH14,tier2,Northeast,R731
+Thailand,Phuket,TH15,tier2,South,R732
+Thailand,Maha Sarakham,TH16,tier2,Northeast,R731
+Thailand,Udon Thani,TH02,tier2,Northeast,R731
+Bahrain,Manama,BH01,tier1,none,none
+Costa Rica,San Jose,RI01,tier1,Central,R671
+Kuwait,Kuwait City,KW01,tier1,none,none
+Qatar,Doha,QT01,tier1,none,none
+Tunisia,Tunis,TU01,tier1,District Tunis,R753
+Tunisia,Safaqis,TU02,tier2,Centre-East,R751
+Tunisia,Sousse,TU03,tier2,Centre-East,R751
+Tunisia,Kairouan,TU04,tier2,Centre-West,R752
+Tunisia,Gabès,TU05,tier2,South-East,R756
+Tunisia,Binzart,TU06,tier2,North-East,R754
+Tunisia,Gafsa,TU07,tier2,South-West,R757
+Turkey,Izmir,TR03,tier2,Aegean,R739
+Turkey,Bursa,TR04,tier2,East Marmara,R743
+Turkey,Adana,TR05,tier2,Mediterranean,R750
+Turkey,Gaziantep,TR06,tier2,South-East Anatolia,R746
+Turkey,Konya,TR07,tier2,West Anatolia,R747
+Turkey,Antalya,TR08,tier2,Mediterranean,R750
+Turkey,Kayseri,TR09,tier2,Central Anatolia,R740
+Turkey,Mersin,TR10,tier2,Mediterranean,R750
+Turkey,Diyarbakir,TR11,tier2,South-East Anatolia,R746
+Turkey,Eskisehir,TR12,tier2,East Marmara,R743
+Turkey,Urfa,TR13,tier2,South-East Anatolia,R746
+Turkey,Samsun,TR14,tier2,West Black Sea,R748
+Turkey,Adapazari,TR15,tier2,East Marmara,R743
+Turkey,Kahramanmaras,TR16,tier2,Mediterranean,R750
+Turkey,Istanbul,TR01,tier1,Istanbul,R744
+Turkey,Ankara,TR02,tier1,West Anatolia,R747
+Turkmenistan,Ashgabat,TM01,tier2,Ashgabat city,R734
+Turkmenistan,Turkmenabat,TM02,tier2,Lebap,R737
+UAE,Dubai,UA01,tier1,Dubai/Sharjah/Ajman,"R782,R785,R781"
+UAE,Abu Dhabi,UA02,tier1,Abu Dhabi,R780
+UAE,Al Ain,UA03,tier2,Abu Dhabi,R780
+UAE,Fujairah,UA04,tier2,Fujairah,R783
+UAE,Ras al-Khaimah,UA06,tier2,Ras Al Khaimah,R784
+Ukraine,Kharkov,UK02,tier2,Kharkiv,R794
+Ukraine,Dnepropetrovsk,UK03,tier2,Dnipropetrovsk,R791
+Ukraine,Odessa,UK04,tier2,Odesa,R803
+Ukraine,Zaporizhya,UK06,tier2,Zaporizhzhya,R812
+Ukraine,Lviv,UK07,tier2,Lviv,R801
+Ukraine,Kryvyy Rih,UK08,tier2,Dnipropetrovsk,R791
+Ukraine,Mykolayiv,UK09,tier2,Mykolayiv,R802
+Ukraine,Mariupol,UK10,tier2,Donetsk,R792
+Ukraine,Vinnytsya,UK12,tier2,Vinnytsya,R809
+Ukraine,Kiev,UK01,tier1,Kyiv city/Kyiv,"R798,R799"
+UK,Liverpool,GB06,tier2,North West,R282
+UK,Sheffield,GB07,tier2,Yorks and The Humber,R289
+UK,Edinburgh,GB08,tier2,Scotland,R284
+UK,Bristol,GB09,tier2,South West,R286
+UK,Leicester,GB10,tier2,East Midlands,R279
+UK,Cardiff,GB11,tier2,Wales,R287
+UK,Belfast,GB12,tier2,Northern Ireland,R283
+UK,Nottingham,GB13,tier2,East Midlands,R279
+UK,Portsmouth/Southampton,GB14,tier2,South East,R285
+UK,Newcastle upon Tyne,GB15,tier2,North East,R281
+UK,Brighton,GB16,tier2,South East,R285
+UK,Middlesbrough,GB17,tier2,North East,R281
+UK,Bournemouth/Poole,GB18,tier2,South West,R286
+UK,Glasgow,GB01,tier1,Scotland,R284
+UK,Leeds,GB02,tier1,Yorks and The Humber,R289
+UK,London,GB03,tier1,London/South East/East,"R280,R285,R278"
+UK,Birmingham,GB04,tier1,West Midlands,R288
+UK,Manchester,GB05,tier1,North West,R282
+Uruguay,Montevideo,UY01,tier1,Montevideo/The Interior,"R865,R866"
+Uruguay,Salto,UY02,tier2,The Interior,R866
+Uruguay,Paysandú,UY03,tier2,The Interior,R866
+USA,"Atlanta, GA",US55,tier2,Georgia,R824
+USA,Boston,US40,tier1,Massachusetts/New Hampshire,"R835,R843"
+USA,Chicago,US22,tier1,Illinois/Indiana/Wisconsin,"R827,R828,R863"
+USA,"Dallas, TX",US27,tier2,Texas,R857
+USA,"Detroit, MI",US29,tier2,Michigan,R836
+USA,Houston,US23,tier1,Texas,R857
+USA,Los Angeles,US21,tier1,California,R818
+USA,Miami,US56,tier1,Florida,R823
+USA,"Minneapolis-Saint Paul, MN-WI",US60,tier2,Minnesota/Wisconsin,"R837,R863"
+USA,New York,US20,tier1,New York/New Jersey/Pennsylvania,"R846,R844,R852"
+USA,Philadelphia,US25,tier1,Pennsylvania/New Jersey/Delaware/Maryland,"R852,R844,R821,R834"
+USA,Phoenix,US24,tier1,Arizona,R816
+USA,"Riverside, CA",US66,tier2,California,R818
+USA,"San Diego, CA",US26,tier2,California,R818
+USA,San Francisco,US30,tier1,California,R818
+USA,"Seattle, WA",US41,tier2,Washington,R861
+USA,Washington,US42,tier1,District of Columbia/Virginia/Maryland/West Virginia,"R822,R860,R834,R862"
+USA,"Appleton, WI ",US91,tier2,Wisconsin,R863
+USA,"Bloomington, IL ",U111,tier2,Illinois,R827
+USA,"Bloomington, IN ",U112,tier2,Indiana,R828
+USA,"Champaign, IL ",U128,tier2,Illinois,R827
+USA,"Eau Claire, WI ",U157,tier2,Wisconsin,R863
+USA,"Elkhart, IN ",U160,tier2,Indiana,R828
+USA,"Jackson, MI ",U205,tier2,Michigan,R836
+USA,"Janesville, WI ",U209,tier2,Wisconsin,R863
+USA,"Lafayette, IN ",U225,tier2,Indiana,R828
+USA,"Monroe, MI ",U260,tier2,Michigan,R836
+USA,"Muskegon, MI ",U266,tier2,Michigan,R836
+USA,"Niles, MI ",U272,tier2,Michigan,R836
+USA,"Oshkosh, WI ",U279,tier2,Wisconsin,R863
+USA,"Racine, WI ",U294,tier2,Wisconsin,R863
+USA,"Saginaw, MI ",U303,tier2,Michigan,R836
+USA,"Springfield, IL ",U328,tier2,Illinois,R827
+USA,"Terre Haute, IN ",U338,tier2,Indiana,R828
+USA,"Battle Creek, MI ",U101,tier2,Michigan,R836
+USA,"Bay City, MI ",U102,tier2,Michigan,R836
+USA,"Carbondale, IL ",U125,tier2,Illinois,R827
+USA,"Decatur, IL ",U149,tier2,Illinois,R827
+USA,"Fond du Lac, WI ",U172,tier2,Wisconsin,R863
+USA,"Kankakee, IL ",U217,tier2,Illinois,R827
+USA,"La Crosse, WI-MN ",U223,tier2,Wisconsin/Minnesota,"R863,R837"
+USA,"Lima, OH ",U238,tier2,Ohio,R849
+USA,"Mansfield, OH ",U250,tier2,Ohio,R849
+USA,"Michigan City, IN ",U254,tier2,Indiana,R828
+USA,"Muncie, IN ",U265,tier2,Indiana,R828
+USA,"Sheboygan, WI ",U319,tier2,Wisconsin,R863
+USA,"Springfield, OH ",U331,tier2,Ohio,R849
+USA,"Wausau, WI ",U354,tier2,Wisconsin,R863
+USA,"Ann Arbor, MI ",US89,tier2,Michigan,R836
+USA,"Canton, OH ",U123,tier2,Ohio,R849
+USA,"Evansville, IN-KY ",U163,tier2,Indiana/Kentucky,"R828,R831"
+USA,"Flint, MI ",U169,tier2,Michigan,R836
+USA,"Fort Wayne, IN ",U175,tier2,Indiana,R828
+USA,"Green Bay, WI ",U185,tier2,Wisconsin,R863
+USA,"Kalamazoo, MI ",U216,tier2,Michigan,R836
+USA,"Lansing, MI ",U230,tier2,Michigan,R836
+USA,"Peoria, IL ",U285,tier2,Illinois,R827
+USA,"Rockford, IL ",U301,tier2,Illinois,R827
+USA,"South Bend, IN-MI ",U325,tier2,Indiana/Michigan,"R828,R836"
+USA,"Akron, OH ",US80,tier2,Ohio,R849
+USA,"Cincinnati, OH-KY-IN",US69,tier2,Ohio/Kentucky/Indiana,"R849,R831,R828"
+USA,"Cleveland, OH",US61,tier2,Ohio,R849
+USA,"Columbus, OH",US34,tier2,Ohio,R849
+USA,"Dayton, OH ",U147,tier2,Ohio,R849
+USA,"Grand Rapids, MI ",U183,tier2,Michigan,R836
+USA,"Indianapolis, IN",US32,tier2,Indiana,R828
+USA,"Madison, WI ",U248,tier2,Wisconsin,R863
+USA,"Milwaukee, WI",US47,tier2,Wisconsin,R863
+USA,"Toledo, OH ",U340,tier2,Ohio,R849
+USA,"Youngstown, OH-PA ",U367,tier2,Ohio/Pennsylvania,"R849,R852"
+USA,"Birmingham, AL",US75,tier2,Alabama,R814
+USA,"Chattanooga, TN-GA ",U132,tier2,Tennessee/Georgia,"R856,R824"
+USA,"Gulfport, MS ",U189,tier2,Mississippi,R838
+USA,"Huntsville, AL ",U201,tier2,Alabama,R814
+USA,"Jackson, MS ",U206,tier2,Mississippi,R838
+USA,"Kingsport, TN-VA ",U220,tier2,Tennessee/Virginia,"R856,R860"
+USA,"Knoxville, TN ",U222,tier2,Tennessee,R856
+USA,"Lexington, KY ",U237,tier2,Kentucky,R831
+USA,"Louisville, KY-IN",US36,tier2,Kentucky/Indiana,"R831,R828"
+USA,"Memphis, TN-MS-AR",US38,tier2,Tennessee/Mississippi/Arkansas,"R856,R838,R817"
+USA,"Mobile, AL ",U257,tier2,Alabama,R814
+USA,"Montgomery, AL ",U261,tier2,Alabama,R814
+USA,"Nashville, TN",US39,tier2,Tennessee,R856
+USA,"Anniston, AL ",US90,tier2,Alabama,R814
+USA,"Auburn, AL ",US95,tier2,Alabama,R814
+USA,"Bowling Green, KY ",U115,tier2,Kentucky,R831
+USA,"Clarksville, TN-KY ",U134,tier2,Tennessee/Kentucky,"R856,R831"
+USA,"Cleveland, TN ",U135,tier2,Tennessee,R856
+USA,"Daphne, AL ",U145,tier2,Alabama,R814
+USA,"Decatur, AL ",U148,tier2,Alabama,R814
+USA,"Dothan, AL ",U152,tier2,Alabama,R814
+USA,"Elizabethtown, KY ",U159,tier2,Kentucky,R831
+USA,"Florence, AL ",U171,tier2,Alabama,R814
+USA,"Gadsden, AL ",U176,tier2,Alabama,R814
+USA,"Hattiesburg, MS ",U195,tier2,Mississippi,R838
+USA,"Jackson, TN ",U207,tier2,Tennessee,R856
+USA,"Johnson City, TN ",U211,tier2,Tennessee,R856
+USA,"Morristown, TN ",U263,tier2,Tennessee,R856
+USA,"Owensboro, KY ",U280,tier2,Kentucky,R831
+USA,"Tuscaloosa, AL ",U343,tier2,Alabama,R814
+USA,"Albany, NY ",US83,tier2,New York,R846
+USA,"Allentown, PA-NJ ",US85,tier2,Pennsylvania/New Jersey,"R852,R844"
+USA,"Buffalo, NY",US77,tier2,New York,R846
+USA,"Harrisburg, PA ",U193,tier2,Pennsylvania,R852
+USA,"Lancaster, PA ",U229,tier2,Pennsylvania,R852
+USA,"Pittsburgh, PA",US68,tier2,Pennsylvania,R852
+USA,"Reading, PA ",U296,tier2,Pennsylvania,R852
+USA,"Rochester, NY",US78,tier2,New York,R846
+USA,"Scranton, PA ",U317,tier2,Pennsylvania,R852
+USA,"Syracuse, NY ",U336,tier2,New York,R846
+USA,"Trenton, NJ ",U342,tier2,New Jersey,R844
+USA,"York, PA ",U366,tier2,Pennsylvania,R852
+USA,"Altoona, PA ",US86,tier2,Pennsylvania,R852
+USA,"Atlantic City, NJ ",US94,tier2,New Jersey,R844
+USA,"Binghamton, NY ",U108,tier2,New York,R846
+USA,"Chambersburg, PA ",U127,tier2,Pennsylvania,R852
+USA,"East Stroudsburg, PA ",U156,tier2,Pennsylvania,R852
+USA,"Erie, PA ",U161,tier2,Pennsylvania,R852
+USA,"Gettysburg, PA ",U179,tier2,Pennsylvania,R852
+USA,"Glens Falls, NY ",U180,tier2,New York,R846
+USA,"Ithaca, NY ",U204,tier2,New York,R846
+USA,"Johnstown, PA ",U212,tier2,Pennsylvania,R852
+USA,"Kingston, NY ",U221,tier2,New York,R846
+USA,"Lebanon, PA ",U235,tier2,Pennsylvania,R852
+USA,"State College, PA ",U332,tier2,Pennsylvania,R852
+USA,"Utica, NY ",U345,tier2,New York,R846
+USA,"Vineland, NJ ",U348,tier2,New Jersey,R844
+USA,"Watertown, NY ",U353,tier2,New York,R846
+USA,"Williamsport, PA ",U360,tier2,Pennsylvania,R852
+USA,"Albuquerque, NM",US48,tier2,New Mexico,R845
+USA,"Boise City, ID ",U113,tier2,Idaho,R826
+USA,"Boulder, CO ",U114,tier2,Colorado,R819
+USA,"Colorado Springs, CO",US62,tier2,Colorado,R819
+USA,"Denver, CO",US44,tier2,Colorado,R819
+USA,"Fort Collins, CO ",U173,tier2,Colorado,R819
+USA,"Las Vegas, NV",US43,tier2,Nevada,R842
+USA,"Ogden, UT ",U277,tier2,Utah,R858
+USA,"Provo, UT ",U291,tier2,Utah,R858
+USA,"Reno, NV ",U298,tier2,Nevada,R842
+USA,"Salt Lake City, UT",US76,tier2,Utah,R858
+USA,"Tucson, AZ",US49,tier2,Arizona,R816
+USA,"Billings, MT ",U107,tier2,Montana,R840
+USA,"Coeur d'Alene, ID ",U136,tier2,Idaho,R826
+USA,"Farmington, NM ",U165,tier2,New Mexico,R845
+USA,"Flagstaff, AZ ",U168,tier2,Arizona,R816
+USA,"Grand Junction, CO ",U182,tier2,Colorado,R819
+USA,"Greeley, CO ",U184,tier2,Colorado,R819
+USA,"Idaho Falls, ID ",U202,tier2,Idaho,R826
+USA,"Lake Havasu City, AZ ",U227,tier2,Arizona,R816
+USA,"Las Cruces, NM ",U232,tier2,New Mexico,R845
+USA,"Logan, UT-ID ",U241,tier2,Utah/Idaho,"R858,R826"
+USA,"Missoula, MT ",U256,tier2,Montana,R840
+USA,"Prescott, AZ ",U290,tier2,Arizona,R816
+USA,"Pueblo, CO ",U292,tier2,Colorado,R819
+USA,"Santa Fe, NM ",U313,tier2,New Mexico,R845
+USA,"Sierra Vista, AZ ",U322,tier2,Arizona,R816
+USA,"St. George, UT ",U305,tier2,Utah,R858
+USA,"Yuma, AZ ",U369,tier2,Arizona,R816
+USA,"Bangor, ME ",U371,tier2,Maine,R833
+USA,"Barnstable Town, MA ",U372,tier2,Massachusetts,R835
+USA,"Bridgeport, CT ",U117,tier2,Connecticut,R820
+USA,"Burlington, VT ",U121,tier2,Vermont,R859
+USA,"Hartford, CT",US74,tier2,Connecticut,R820
+USA,"Lewiston, ME ",U236,tier2,Maine,R833
+USA,"Manchester, NH ",U249,tier2,New Hampshire,R843
+USA,"New Haven, CT ",U271,tier2,Connecticut,R820
+USA,"Norwich, CT ",U274,tier2,Connecticut,R820
+USA,"Pittsfield, MA ",U287,tier2,Massachusetts,R835
+USA,"Portland, ME ",U288,tier2,Maine,R833
+USA,"Providence, RI-MA",US72,tier2,Rhode Island/Massachusetts,"R853,R835"
+USA,"Springfield, MA ",U329,tier2,Massachusetts,R835
+USA,"Worcester, MA-CT ",U364,tier2,Massachusetts/Connecticut,"R835,R820"
+USA,"Anchorage, AK ",US88,tier2,Alaska,R815
+USA,"Bakersfield, CA ",U370,tier2,California,R818
+USA,"Eugene, OR ",U162,tier2,Oregon,R851
+USA,"Fresno, CA",US50,tier2,California,R818
+USA,"Honolulu, HI",US58,tier2,Hawaii,R825
+USA,"Modesto, CA ",U258,tier2,California,R818
+USA,"Oxnard, CA ",U281,tier2,California,R818
+USA,"Portland, OR-WA",US45,tier2,Oregon/Washington,"R851,R861"
+USA,"Sacramento, CA",US51,tier2,California,R818
+USA,"Salem, OR ",U307,tier2,Oregon,R851
+USA,"Salinas, CA ",U308,tier2,California,R818
+USA,"San Jose, CA",US71,tier2,California,R818
+USA,"Santa Maria, CA ",U314,tier2,California,R818
+USA,"Santa Rosa, CA ",U315,tier2,California,R818
+USA,"Spokane, WA ",U327,tier2,Washington,R861
+USA,"Stockton, CA ",U334,tier2,California,R818
+USA,"Vallejo, CA ",U347,tier2,California,R818
+USA,"Visalia, CA ",U349,tier2,California,R818
+USA,"Albany, OR ",US82,tier2,Oregon,R851
+USA,"Bellingham, WA ",U105,tier2,Washington,R861
+USA,"Bend, OR ",U106,tier2,Oregon,R851
+USA,"Bremerton, WA ",U116,tier2,Washington,R861
+USA,"Chico, CA ",U133,tier2,California,R818
+USA,"El Centro, CA ",U158,tier2,California,R818
+USA,"Hanford, CA ",U192,tier2,California,R818
+USA,"Kahului, HI ",U215,tier2,Hawaii,R825
+USA,"Kennewick, WA ",U218,tier2,Washington,R861
+USA,"Longview, WA ",U243,tier2,Washington,R861
+USA,"Madera, CA ",U247,tier2,California,R818
+USA,"Medford, OR ",U252,tier2,Oregon,R851
+USA,"Merced, CA ",U253,tier2,California,R818
+USA,"Mount Vernon, WA ",U264,tier2,Washington,R861
+USA,"Napa, CA ",U268,tier2,California,R818
+USA,"Olympia, WA ",U278,tier2,Washington,R861
+USA,"Redding, CA ",U297,tier2,California,R818
+USA,"San Luis Obispo, CA ",U311,tier2,California,R818
+USA,"Santa Cruz, CA ",U312,tier2,California,R818
+USA,"Wenatchee, WA ",U356,tier2,Washington,R861
+USA,"Yakima, WA ",U365,tier2,Washington,R861
+USA,"Yuba City, CA ",U368,tier2,California,R818
+USA,"Albany, GA ",US81,tier2,Georgia,R824
+USA,"Athens, GA ",US93,tier2,Georgia,R824
+USA,"Blacksburg, VA ",U110,tier2,Virginia,R860
+USA,"Burlington, NC ",U120,tier2,North Carolina,R847
+USA,"Charleston, WV ",U129,tier2,West Virginia,R862
+USA,"Charlottesville, VA ",U131,tier2,Virginia,R860
+USA,"Crestview, FL ",U142,tier2,Florida,R823
+USA,"Dover, DE ",U153,tier2,Delaware,R821
+USA,"Florence, SC ",U170,tier2,South Carolina,R854
+USA,"Gainesville, FL ",U177,tier2,Florida,R823
+USA,"Gainesville, GA ",U178,tier2,Georgia,R824
+USA,"Greenville, NC ",U187,tier2,North Carolina,R847
+USA,"Hagerstown, MD-WV ",U190,tier2,Maryland/West Virginia,"R834,R862"
+USA,"Hilton Head Island, SC ",U197,tier2,South Carolina,R854
+USA,"Jacksonville, NC ",U208,tier2,North Carolina,R847
+USA,"Lynchburg, VA ",U245,tier2,Virginia,R860
+USA,"Macon, GA ",U246,tier2,Georgia,R824
+USA,"Panama City, FL ",U283,tier2,Florida,R823
+USA,"Punta Gorda, FL ",U293,tier2,Florida,R823
+USA,"Rocky Mount, NC ",U302,tier2,North Carolina,R847
+USA,"Warner Robins, GA ",U351,tier2,Georgia,R824
+USA,"Wilmington, NC ",U361,tier2,North Carolina,R847
+USA,"Beckley, WV ",U104,tier2,West Virginia,R862
+USA,"Brunswick, GA ",U119,tier2,Georgia,R824
+USA,"California, MD ",U122,tier2,Maryland,R834
+USA,"Cumberland, MD-WV ",U143,tier2,Maryland/West Virginia,"R834,R862"
+USA,"Dalton, GA ",U144,tier2,Georgia,R824
+USA,"Goldsboro, NC ",U181,tier2,North Carolina,R847
+USA,"Harrisonburg, VA ",U194,tier2,Virginia,R860
+USA,"Homosassa Springs, FL ",U198,tier2,Florida,R823
+USA,"Morgantown, WV ",U262,tier2,West Virginia,R862
+USA,"New Bern, NC ",U270,tier2,North Carolina,R847
+USA,"Sebastian, FL ",U318,tier2,Florida,R823
+USA,"Staunton, VA ",U333,tier2,Virginia,R860
+USA,"Sumter, SC ",U335,tier2,South Carolina,R854
+USA,"Valdosta, GA ",U346,tier2,Georgia,R824
+USA,"Weirton, WV-OH ",U355,tier2,West Virginia/Ohio,"R862,R849"
+USA,"Wheeling, WV-OH ",U357,tier2,West Virginia/Ohio,"R862,R849"
+USA,"Winchester, VA-WV ",U362,tier2,Virginia/West Virginia,"R860,R862"
+USA,"Asheville, NC ",US92,tier2,North Carolina,R847
+USA,"Columbus, GA-AL ",U140,tier2,Georgia/Alabama,"R824,R814"
+USA,"Fayetteville, NC ",U166,tier2,North Carolina,R847
+USA,"Hickory, NC ",U196,tier2,North Carolina,R847
+USA,"Huntington, WV-KY-OH ",U200,tier2,West Virginia/Kentucky/Ohio,"R862,R831,R849"
+USA,"Myrtle Beach, SC-NC ",U267,tier2,South Carolina/North Carolina,"R854,R847"
+USA,"Naples, FL ",U269,tier2,Florida,R823
+USA,"Ocala, FL ",U275,tier2,Florida,R823
+USA,"Pensacola, FL ",U284,tier2,Florida,R823
+USA,"Port St. Lucie, FL ",U289,tier2,Florida,R823
+USA,"Roanoke, VA ",U299,tier2,Virginia,R860
+USA,"Salisbury, MD-DE ",U309,tier2,Maryland/Delaware,"R834,R821"
+USA,"Savannah, GA ",U316,tier2,Georgia,R824
+USA,"Spartanburg, SC ",U326,tier2,South Carolina,R854
+USA,"Tallahassee, FL ",U337,tier2,Florida,R823
+USA,"Augusta, GA-SC ",US96,tier2,Georgia/South Carolina,"R824,R854"
+USA,"Baltimore, MD",US67,tier2,Maryland,R834
+USA,"Cape Coral, FL ",U124,tier2,Florida,R823
+USA,"Charleston, SC ",U130,tier2,South Carolina,R854
+USA,"Charlotte, NC-SC",US35,tier2,North Carolina/South Carolina,"R847,R854"
+USA,"Columbia, SC ",U139,tier2,South Carolina,R854
+USA,"Deltona, FL ",U150,tier2,Florida,R823
+USA,"Durham, NC ",U155,tier2,North Carolina,R847
+USA,"Greensboro, NC ",U186,tier2,North Carolina,R847
+USA,"Greenville, SC ",U188,tier2,South Carolina,R854
+USA,"Jacksonville, FL",US31,tier2,Florida,R823
+USA,"Lakeland, FL ",U228,tier2,Florida,R823
+USA,"Norfolk-Virginia Beach, VA-NC",US53,tier2,Virginia/North Carolina,"R860,R847"
+USA,"North Port, FL ",U273,tier2,Florida,R823
+USA,"Orlando, FL",US70,tier2,Florida,R823
+USA,"Palm Bay, FL ",U282,tier2,Florida,R823
+USA,"Raleigh, NC",US54,tier2,North Carolina,R847
+USA,"Richmond, VA",US73,tier2,Virginia,R860
+USA,"Tampa, FL",US65,tier2,Florida,R823
+USA,"Winston, NC ",U363,tier2,North Carolina,R847
+USA,"Davenport, IA-IL ",U146,tier2,Iowa/Illinois,"R829,R827"
+USA,"Des Moines, IA ",U151,tier2,Iowa,R829
+USA,"Kansas City, MO-KS",US52,tier2,Missouri/Kansas,"R839,R830"
+USA,"Lincoln, NE ",U239,tier2,Nebraska,R841
+USA,"Omaha, NE-IA",US63,tier2,Nebraska/Iowa,"R841,R829"
+USA,"Saint Louis, MO-IL",US57,tier2,Missouri/Illinois,"R839,R827"
+USA,"Springfield, MO ",U330,tier2,Missouri,R839
+USA,"Wichita, KS ",U358,tier2,Kansas,R830
+USA,"Bismarck, ND ",U109,tier2,North Dakota,R848
+USA,"Cedar Rapids, IA ",U126,tier2,Iowa,R829
+USA,"Columbia, MO ",U138,tier2,Missouri,R839
+USA,"Duluth, MN-WI ",U154,tier2,Minnesota/Wisconsin,"R837,R863"
+USA,"Fargo, ND-MN ",U164,tier2,North Dakota/Minnesota,"R848,R837"
+USA,"Iowa City, IA ",U203,tier2,Iowa,R829
+USA,"Jefferson City, MO ",U210,tier2,Missouri,R839
+USA,"Joplin, MO ",U214,tier2,Missouri,R839
+USA,"Lawrence, KS ",U233,tier2,Kansas,R830
+USA,"Rapid City, SD ",U295,tier2,South Dakota,R855
+USA,"Rochester, MN ",U300,tier2,Minnesota,R837
+USA,"Sioux City, IA-NE-SD ",U323,tier2,Iowa/Nebraska/South Dakota,"R829,R841,R855"
+USA,"Sioux Falls, SD ",U324,tier2,South Dakota,R855
+USA,"St. Cloud, MN ",U304,tier2,Minnesota,R837
+USA,"St. Joseph, MO-KS ",U306,tier2,Missouri/Kansas,"R839,R830"
+USA,"Topeka, KS ",U341,tier2,Kansas,R830
+USA,"Waterloo, IA ",U352,tier2,Iowa,R829
+USA,"Austin, TX",US33,tier2,Texas,R857
+USA,"Baton Rouge, LA ",U100,tier2,Louisiana,R832
+USA,"Beaumont, TX ",U103,tier2,Texas,R857
+USA,"Brownsville, TX ",U118,tier2,Texas,R857
+USA,"Corpus Christi, TX ",U141,tier2,Texas,R857
+USA,"El Paso, TX",US37,tier2,Texas,R857
+USA,"Fayetteville, AR-MO ",U167,tier2,Arkansas/Missouri,"R817,R839"
+USA,"Killeen, TX ",U219,tier2,Texas,R857
+USA,"Lafayette, LA ",U224,tier2,Louisiana,R832
+USA,"Little Rock, AR ",U240,tier2,Arkansas,R817
+USA,"Lubbock, TX ",U244,tier2,Texas,R857
+USA,"McAllen, TX ",U251,tier2,Texas,R857
+USA,"New Orleans, LA",US59,tier2,Louisiana,R832
+USA,"Oklahoma City, OK",US46,tier2,Oklahoma,R850
+USA,"San Antonio, TX",US28,tier2,Texas,R857
+USA,"Shreveport, LA ",U321,tier2,Louisiana,R832
+USA,"Tulsa, OK",US64,tier2,Oklahoma,R850
+USA,"Abilene, TX ",US79,tier2,Texas,R857
+USA,"Alexandria, LA ",US84,tier2,Louisiana,R832
+USA,"Amarillo, TX ",US87,tier2,Texas,R857
+USA,"College Station, TX ",U137,tier2,Texas,R857
+USA,"Fort Smith, AR-OK ",U174,tier2,Arkansas/Oklahoma,"R817,R850"
+USA,"Hammond, LA ",U191,tier2,Louisiana,R832
+USA,"Houma, LA ",U199,tier2,Louisiana,R832
+USA,"Jonesboro, AR ",U213,tier2,Arkansas,R817
+USA,"Lake Charles, LA ",U226,tier2,Louisiana,R832
+USA,"Laredo, TX ",U231,tier2,Texas,R857
+USA,"Lawton, OK ",U234,tier2,Oklahoma,R850
+USA,"Longview, TX ",U242,tier2,Texas,R857
+USA,"Midland, TX ",U255,tier2,Texas,R857
+USA,"Monroe, LA ",U259,tier2,Louisiana,R832
+USA,"Odessa, TX ",U276,tier2,Texas,R857
+USA,"Pine Bluff, AR ",U286,tier2,Arkansas,R817
+USA,"San Angelo, TX ",U310,tier2,Texas,R857
+USA,"Sherman, TX ",U320,tier2,Texas,R857
+USA,"Texarkana, TX-AR ",U339,tier2,Texas/Arkansas,"R857,R817"
+USA,"Tyler, TX ",U344,tier2,Texas,R857
+USA,"Waco, TX ",U350,tier2,Texas,R857
+USA,"Wichita Falls, TX ",U359,tier2,Texas,R857
+Uzbekistan,Tashkent,UZ01,tier2,Tashkent,R879
+Uzbekistan,Namangan,UZ02,tier2,Namangan,R874
+Uzbekistan,Samarkand,UZ03,tier2,Samarkand,R876
+Uzbekistan,Andijon,UZ04,tier2,Andijan,R867
+Uzbekistan,Nukus,UZ05,tier2,Karakalpakstan,R871
+Uzbekistan,Qarshi,UZ06,tier2,Kashkadarya,R872
+Uzbekistan,Buhoro,UZ07,tier2,Bukhara,R868
+Uzbekistan,Kokand,UZ08,tier2,Ferghana,R870
+Venezuela,Caracas,VE01,tier1,Capital,R881
+Venezuela,Maracaibo,VE02,tier2,Zulian,R888
+Venezuela,Valencia,VE03,tier2,Central,R882
+Venezuela,Barquisimeto,VE04,tier2,Central Western,R883
+Venezuela,Guayana City,VE05,tier2,Guayana,R884
+Venezuela,Maracay,VE06,tier2,Central,R882
+Venezuela,Barcelona,VE07,tier2,North Eastern,R887
+Venezuela,Maturín,VE08,tier2,North Eastern,R887
+Venezuela,Ciudad Bolívar,VE09,tier2,Guayana,R884
+Venezuela,San Cristóbal,VE10,tier2,Andean,R880
+Venezuela,Barinas,VE11,tier2,Andean,R880
+Vietnam,Hanoi,VN02,tier2,Red River Delta,R894
+Vietnam,Da Nang,VN03,tier2,South Central Coast,R895
+Vietnam,Hai Phong,VN04,tier2,Red River Delta,R894
+Vietnam,Nha Trang,VN05,tier2,South Central Coast,R895
+Vietnam,Can Tho,VN06,tier2,Mekong River Delta,R890
+Vietnam,Hue,VN07,tier2,North Central Coast,R891
+Vietnam,Qui Nhon,VN08,tier2,South Central Coast,R895
+Vietnam,Vung Tau,VN09,tier2,South East,R896
+Vietnam,Rach Gia,VN10,tier2,Mekong River Delta,R890
+Vietnam,Nam Dinh,VN11,tier2,Red River Delta,R894
+Vietnam,Ho Chi Minh City,VN01,tier1,South East,R896

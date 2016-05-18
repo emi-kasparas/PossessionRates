@@ -1,0 +1,1151 @@
+CityCodeID,CityCode,CityName
+345,RU01,Moscow
+346,RU02,Saint Petersburg
+757,AJ01,Baku
+758,AJ02,Ganja
+760,AL01,Algiers
+761,AL02,Oran
+762,AL03,Constantine
+763,AL04,Annaba
+764,AL05,Batna
+765,AL06,Sétif
+766,AL07,Sidi bel Abbès
+767,AL08,Djelfa
+768,AL09,Tibissah
+769,AR01,Buenos Aires
+770,AR02,Córdoba
+771,AR03,Mendoza
+772,AR04,Salta
+773,AR05,Santa Fe
+774,AR06,San Juan
+775,AR07,Rosario
+776,AR08,La Plata
+777,AR09,Mar del Plata
+778,AR10,San Miguel de Tucumán
+779,AR11,Resistencia
+780,AR12,Santiago del Estero
+781,AR13,Corrientes
+782,AR14,Posadas
+783,AT01,Vienna
+784,AT02,Graz
+785,AT03,Linz
+786,AT04,Salzburg
+787,AT05,Innsbruck
+788,AT06,Klagenfurt
+789,AU01,Sydney
+790,AU02,Melbourne
+791,AU03,Brisbane
+792,AU04,Adelaide
+793,AU05,Perth
+794,AU06,Darwin
+795,AU07,Canberra
+796,AU08,Gold Coast
+797,AU09,Newcastle
+798,BE01,Antwerp
+799,BE02,Brussels
+800,BE03,Ghent
+801,BE04,Charleroi
+802,BE05,Liège
+803,BE06,Bruges
+804,BE07,Namur
+805,BE08,Mons
+806,BH01,Manama
+807,BL01,Minsk
+808,BL02,Gomel
+809,BL03,Mogilev
+810,BL04,Vitebsk
+811,BL05,Grodno
+812,BL06,Brest
+813,BL07,Babruysk 
+814,BL08,Baranovichi
+815,BR01,São Paulo
+816,BR02,Rio de Janeiro
+817,BR03,Salvador
+818,BR04,Brasília
+819,BR05,Fortaleza
+820,BR06,Belo Horizonte
+821,BR07,Manaus
+822,BR08,Curitiba
+823,BR09,Recife
+824,BR10,Porto Alegre
+825,BR11,Belém
+826,BR12,Goiânia
+827,BR13,Campinas
+828,BR14,São Luís
+829,BR15,Maceió
+830,BR16,Natal
+831,BR17,Campo Grande
+832,BR18,Teresina
+833,BR19,João Pessoa
+834,BR20,São José dos Campos
+835,BR21,Ribeirão Preto
+836,BR22,Sorocaba
+837,BR23,Aracaju
+838,BR24,Cuiabá
+839,BR25,Londrina
+840,BR26,Vitória
+841,BS01,Sarajevo
+842,BS02,Banja Luka
+843,BU01,Sofia
+844,BU02,Plovdiv
+845,BU03,Varna
+846,BU04,Burgas
+847,BU05,Ruse
+848,BU06,Stara Zagora
+849,BU07,Pleven
+850,BV01,Santa Cruz
+851,BV02,La Paz
+852,BV03,Cochabamba
+853,BV04,Oruro
+854,BV05,Sucre
+855,BV06,Tarija
+856,BV07,Potosí
+857,CA01,Toronto
+858,CA02,Montreal
+859,CA03,Vancouver
+860,CA04,Ottawa - Gatineau
+861,CA05,Calgary
+862,CA06,Edmonton
+863,CA07,Quebec
+864,CA08,Hamilton
+865,CA09,Winnipeg
+866,CA10,London
+867,CA11,Kitchener
+868,CA12,Victoria
+869,CA13,Saint Catharines
+870,CA14,Halifax
+871,CH01,Zurich
+872,CH02,Geneva
+873,CH03,Basel
+874,CH04,Bern
+875,CH05,Lausanne
+876,CH06,St. Gallen
+877,CH07,Lucerne
+878,CL01,Santiago
+879,CL02,Valparaíso
+880,CL03,Antofagasta
+881,CL04,Temuco
+882,CL05,Rancagua
+883,CL06,Concepción
+884,CL07,Arica
+885,CL08,Iquique
+886,CN20,Shanghai
+887,CN21,Beijing
+888,CN22,Guangzhou
+889,CN23,Tianjin
+890,CN24,Wuhan
+891,CN25,Shenzhen
+892,CN26,Chongqing
+893,CN27,Shenyang
+894,CN28,Chengdu
+895,CN29,Foshan
+896,CN30,Xi'an
+897,CN31,Dongguan
+898,CN32,Nanjing
+899,CN33,Harbin
+900,CN34,Hangzhou
+901,CN35,Shantou
+902,CN36,Dalian
+903,CN37,Jinan
+904,CN38,Changchun
+905,CN39,Qingdao
+906,CN40,Kunming
+907,CN41,Taiyuan
+908,CN42,Zhengzhou
+909,CN43,Changsha
+910,CN44,Fuzhou
+911,CN45,Shijiazhuang
+912,CN46,Zibo
+913,CN47,Linyi
+914,CN48,Daqing
+915,CN49,Huainan
+916,CN50,Huizhou
+917,CN51,Zhuhai
+918,CN52,Datong
+919,CN53,Liuzhou
+920,CN54,Haikou
+921,CN55,Hohhot
+922,CN56,Lanzhou
+923,CN57,Guiyang
+924,CN58,Wuxi
+925,CN59,Suzhou
+926,CN60,Ürümqi
+927,CN61,Ningbo
+928,CN62,Nanchang
+929,CN63,Nanning
+930,CN64,Tangshan
+931,CN65,Wenzhou
+932,CN66,Hefei
+933,CN67,Changzhou
+934,CN68,Xiamen
+935,CN69,Jilin
+936,CN70,Zhongshan
+937,CN71,Baotou
+938,CN72,Xuzhou
+939,CN73,Anshan
+940,CN74,Fushun
+941,CN75,Qiqihar
+942,CN76,Weifang
+943,CN77,Yantai
+944,CN78,Luoyang
+945,CN79,Xiangfan
+946,CN80,Taizhou
+947,CO01,Bogota
+948,CO02,Cali
+949,CO03,Medellín
+950,CO04,Barranquilla
+951,CO05,Cartagena
+952,CO06,Cúcuta
+953,CO07,Bucaramanga
+954,CO08,Pereira
+955,CO09,Ibagué
+956,CO10,Santa Marta
+957,CR01,Zagreb
+958,CR02,Split
+959,CR03,Rijeka
+960,CS01,Prague
+961,CS02,Brno
+962,CS03,Ostrava
+963,CS04,Plzen
+964,CS05,Olomouc
+965,DE01,Berlin
+966,DE02,Hamburg
+967,DE03,Munich
+968,DE04,Cologne
+969,DE05,Frankfurt am Main
+970,DE06,Essen
+971,DE07,Dortmund
+972,DE08,Stuttgart
+973,DE09,Düsseldorf
+974,DE10,Bremen
+975,DE11,Dresden
+976,DE12,Leipzig
+977,DE13,Hannover
+978,DE14,Nürnberg
+979,DE15,Duisburg
+980,DE16,Bonn
+981,DE17,Bochum
+982,DE18,Wuppertal
+983,DE19,Bielefeld
+984,DE20,Karlsruhe
+985,DE21,Münster
+986,DE22,Mannheim
+987,DE23,Wiesbaden
+988,DE24,Augsburg
+989,DE25,Saarbrucken
+990,DK01,Copenhagen
+991,DK02,Arhus
+992,DK03,Odense
+993,DK04,Aalborg
+994,DK05,Esbjerg
+995,DR01,Santo Domingo
+996,DR02,Santiago
+997,DR03,San Pedro de Macorís
+998,DR04,La Romana
+999,DR05,San Francisco de Macorís
+1000,DR06,Puerto Plata
+1001,DR07,Higüey
+1002,EC01,Guayaquil
+1003,EC02,Quito
+1004,EC03,Cuenca
+1005,EC04,Machala
+1006,EC05,Santo Domingo de los Colorados
+1007,EC06,Manta
+1008,EC07,Portoviejo
+1009,EC08,Ambato
+1010,EC09,Riobamba
+1011,EG01,Cairo
+1012,EG02,Alexandria
+1013,EG03,Port Said
+1014,EG04,Suez
+1015,EG05,El-Mahalla El-Kubra
+1016,EG06,Tanta
+1017,EG07,Mansoura
+1018,EG08,Asyut
+1019,ES01,Madrid
+1020,ES02,Barcelona
+1021,ES03,Valencia
+1022,ES04,Seville
+1023,ES05,Saragossa
+1024,ES06,Málaga
+1025,ES07,Murcia
+1026,ES08,Palma de Mallorca
+1027,ES09,Las Palmas de Gran Canaria
+1028,ES10,Bilbao
+1029,ES11,Córdoba
+1030,ES12,Valladolid
+1031,ES13,Vigo
+1032,ES14,Gijón
+1033,ES15,A Coruña
+1034,ET01,Tallinn
+1035,ET02,Tartu
+1036,FI01,Helsinki
+1037,FI02,Tampere
+1038,FI03,Turku
+1039,FI04,Oulu
+1040,FI05,Lahti
+1041,FI06,Kuopio
+1042,FI07,Jyväskylä
+1043,FI08,Pori
+1044,FR01,Paris
+1045,FR02,Marseille
+1046,FR03,Lyon
+1047,FR04,Lille
+1048,FR05,Nice
+1049,FR06,Toulouse
+1050,FR07,Bordeaux
+1051,FR08,Nantes
+1052,FR09,Strasbourg
+1053,FR10,Montpellier
+1054,FR11,Grenoble
+1055,FR12,Toulon
+1056,FR13,Rennes
+1057,FR14,Rouen-Elboeuf
+1058,FR15,Metz
+1059,FR16,Clermont-Ferrand
+1060,FR17,Saint-Etienne
+1061,FR18,Tours
+1062,FR19,Orleans
+1063,FR20,Caen
+1064,FR21,Nancy
+1065,FR22,Angers
+1066,FR23,Avignon
+1067,FR24,Dijon
+1068,FR25,Brest
+1069,GB01,Glasgow
+1070,GB02,Leeds
+1071,GB03,London
+1072,GB04,Birmingham
+1073,GB05,Manchester
+1074,GB06,Liverpool
+1075,GB07,Sheffield
+1076,GB08,Edinburgh
+1077,GB09,Bristol
+1078,GB10,Leicester
+1079,GB11,Cardiff
+1080,GB12,Belfast
+1081,GB13,Nottingham
+1082,GB14,Portsmouth/Southampton
+1083,GB15,Newcastle upon Tyne
+1084,GB16,Brighton
+1085,GB17,Middlesbrough
+1086,GB18,Bournemouth/Poole
+1087,GG01,Tbilisi
+1088,GG02,Kutaisi
+1089,GG03,Batumi
+1090,GG04,Zugdidi
+1091,GR01,Athens
+1092,GR02,Thessaloniki
+1093,GR03,Patras
+1094,GR04,Larissa
+1095,GT01,Guatemala City
+1096,GT02,Quezaltenango
+1097,GT03,Escuintla
+1098,GT04,Chimaltenango
+1099,HU01,Budapest
+1100,HU02,Debrecen
+1101,HU03,Miskolc
+1102,HU04,Szeged
+1103,HU05,Pécs
+1104,HU06,Gyor
+1105,HU07,Kecskemét
+1106,HU08,Székesfehérvár
+1107,HU09,Nyíregyháza
+1108,ID01,Jakarta
+1109,ID02,Bandung
+1110,ID03,Malang
+1111,ID04,Surabaya
+1112,ID05,Semarang
+1113,ID06,Palembang
+1114,ID07,Medan
+1115,ID08,Makasssar
+1116,ID09,Batam
+1117,ID10,Pekanbaru
+1118,ID11,Bandar Lampung
+1119,ID12,Denpasar
+1120,ID13,Padang
+1121,ID14,Samarinda
+1122,ID15,Tasikmalaya
+1123,ID16,Banjarmasin
+1124,IE01,Dublin
+1125,IE02,Cork
+1126,IE03,Limerick
+1127,IE04,Galway
+1128,IN20,Mumbai
+1129,IN21,Delhi
+1130,IN22,Bangalore 
+1131,IN23,Kolkata
+1132,IN24,Chennai
+1133,IN25,Hyderabad
+1134,IN26,Ahmedabad
+1135,IN27,Pune
+1136,IN28,Surat
+1137,IN29,Kanpur
+1138,IN30,Jaipur
+1139,IN31,Lucknow
+1140,IN32,Nagpur
+1141,IN33,Patna
+1142,IN34,Indore
+1143,IN35,Vadodara
+1144,IN36,Coimbatore
+1145,IN37,Bhopal
+1146,IN38,Ludhiana
+1147,IN39,Kochi
+1148,IN40,Visakhapatnam
+1149,IN41,Agra
+1150,IN42,Varanasi
+1151,IN43,Madurai
+1152,IN44,Meerut
+1153,IN45,Nasik
+1154,IN46,Jamshedpur
+1155,IN47,Jabalpur
+1156,IN48,Asansol
+1157,IN49,Dhanbad
+1158,IN50,Faridabad
+1159,IN51,Allahabad
+1160,IN52,Vijayawada
+1161,IN53,Amritsar
+1162,IN54,Rajkot
+1163,IR01,Tehran
+1164,IR02,Mashhad
+1165,IR03,Isfahan
+1166,IR04,Tabriz
+1167,IR05,Karaj
+1168,IR06,Shiraz
+1169,IR07,Ahvaz
+1170,IR08,Qom
+1171,IS01,Jerusalem
+1172,IS02,Tel Aviv
+1173,IS03,Haifa
+1176,IS06,Be'er Sheva
+1177,IT01,Rome
+1178,IT02,Milan
+1179,IT03,Naples
+1180,IT04,Turin
+1181,IT05,Genoa
+1182,IT06,Palermo
+1183,IT07,Bologna
+1184,IT08,Florence
+1185,IT09,Catania
+1186,IT10,Bari
+1187,IT11,Verona
+1188,IT12,Venice
+1189,IT13,Messina
+1190,IT14,Padua
+1191,IT15,Treviso
+1192,IT16,Brescia
+1193,IT17,Taranto
+1194,JO01,Amman
+1197,JO04,Irbid
+1203,JO10,Aqaba
+1204,JP01,Tokyo
+1205,JP02,Osaka
+1206,JP03,Nagoya
+1207,JP04,Fukuoka
+1208,JP05,Sapporo
+1209,JP06,Sendai
+1210,JP07,Okayama
+1211,JP08,Niigata
+1212,JP09,Shizuoka
+1213,JP10,Hiroshima
+1214,KK01,Almaty
+1215,KK02,Astana
+1216,KK03,Karaganda
+1217,KK04,Kostanay
+1218,KK05,Pavlodar
+1219,KK06,Aktobe
+1220,KK07,Semey
+1221,KK08,Shymkent
+1222,KK09,Taraz
+1223,KK10,Ust-Kamenogorsk
+1224,KR01,Seoul
+1225,KR02,Busan
+1226,KR03,Daegu
+1227,KR04,Daejeon
+1228,KR05,Gwangju
+1229,KR06,Ulsan
+1230,KR07,Changwon
+1231,KR08,Cheongju
+1232,KR09,Jeonju
+1233,KR10,Chonan
+1234,KR11,Pohang
+1235,KW01,Kuwait City
+1236,KY01,Nairobi
+1237,KY02,Mombasa
+1238,KY03,Kisumu
+1239,KY04,Nakuru
+1240,KY05,Eldoret
+1242,LA01,Riga
+1243,LA02,Liepaja
+1244,LA03,Daugavpils
+1245,LT01,Vilnius
+1246,LT02,Kaunas
+1247,LT03,Klaipeda 
+1248,LT04,Šiauliai
+1249,LT05,Panevežys
+1250,MD01,Skopje
+1251,MD02,Kumanovo
+1252,MO01,Casablanca
+1253,MO02,Rabat
+1254,MO03,Fez
+1255,MO04,Marrakech
+1256,MO05,Agadir
+1257,MO06,Tangier
+1258,MO07,Meknes
+1259,MO08,Oujda
+1260,MO09,Kenitra
+1261,MO10,Tétouan
+1262,MX01,Mexico City
+1263,MX02,Guadalajara
+1264,MX03,Puebla
+1265,MX04,Juárez
+1266,MX05,Tijuana
+1267,MX06,León
+1268,MX07,Monterrey
+1269,MX08,Mérida
+1270,MX09,Chihuahua
+1271,MX10,Cancún
+1272,MX11,San Luis Potosí
+1273,MX12,Aguascalientes
+1274,MY01,Kuala Lumpur
+1275,MY02,Johor Bahru
+1276,MY03,Ipoh
+1277,MY04,Kuching
+1278,MY05,Kota Kinabalu
+1279,MY06,Kota Bharu
+1280,MY07,Kuantan
+1281,MY08,Seremban
+1282,NG01,Lagos
+1283,NG02,Ibadan
+1284,NG03,Kano
+1285,NG04,Port Harcourt
+1286,NG05,Abuja
+1287,NG06,Kaduna
+1288,NG07,Benin City
+1289,NG08,Ilorin
+1290,NG09,Maiduguri
+1291,NG10,Aba
+1292,NL01,Amsterdam
+1293,NL02,Rotterdam
+1294,NL03,The Hague
+1295,NL04,Utrecht
+1296,NL05,Eindhoven
+1297,NL06,Tilburg
+1298,NL07,Groningen
+1299,NL08,Breda
+1300,NL09,Nijmegen
+1301,NL10,Apeldoorn
+1302,NO01,Oslo
+1303,NO02,Bergen
+1304,NO03,Stavanger/Sandnes
+1305,NO04,Trondheim
+1306,NO05,Fredrikstad/Sarpsborg
+1307,NO06,Drammen
+1308,NZ01,Auckland
+1309,NZ02,Christchurch
+1310,NZ03,Wellington
+1311,NZ04,Hamilton
+1312,NZ05,Dunedin
+1313,NZ06,Tauranga
+1315,OO01,Douala
+1316,OO02,Yaoundé
+1317,OO03,Bamenda
+1318,OO04,Bafoussam
+1319,OO05,Garoua
+1320,OO06,Maroua
+1321,OO07,Ngaoundéré
+1322,PH01,Manila
+1323,PH02,Cebu
+1324,PH03,Davao City
+1325,PH04,Cagayan de Oro
+1327,PH06,Zamboanga City
+1329,PH08,General Santos City
+1330,PH09,Bacolod
+1333,PK01,Karachi
+1334,PK02,Lahore
+1335,PK03,Faisalabad
+1336,PK04,Rawalpindi
+1337,PK05,Multan
+1338,PK06,Hyderabad
+1339,PK07,Gujranwala
+1340,PK08,Peshawar
+1341,PK09,Quetta
+1343,PL01,Warsaw
+1344,PL02,Lódz 
+1345,PL03,Kraków 
+1346,PL04,Wroclaw 
+1347,PL05,Poznan
+1348,PL06,Gdansk
+1349,PL07,Szczecin
+1350,PL08,Bydgoszcz
+1351,PL09,Lublin
+1352,PL10,Katowice
+1353,PL11,Bialystok
+1355,PL13,Czestochowa
+1356,PL14,Radom
+1358,PL16,Torun
+1359,PL17,Kielce
+1360,PT01,Lisbon
+1361,PT02,Porto
+1362,PT03,Braga
+1363,PT04,Coimbra
+1364,PT05,Funchal
+1365,PU01,Lima
+1366,PU02,Arequipa
+1367,PU03,Trujillo
+1368,PU04,Chiclayo
+1369,PU05,Piura
+1370,PU06,Iquitos
+1371,PU07,Cusco
+1372,PU08,Chimbote
+1373,PU09,Huancayo
+1374,PU10,Tacna
+1375,PU11,Sullana
+1376,PU12,Pucallpa
+1377,QT01,Doha
+1378,RI01,San Jose
+1379,RO01,Bucharest
+1380,RO02,Iasi
+1381,RO03,Cluj-Napoca
+1382,RO04,Timisoara
+1383,RO05,Constanta
+1384,RO06,Craiova
+1385,RO07,Galati
+1386,RO08,Brasov
+1387,RO09,Ploiesti
+1388,RO10,Braila
+1389,RS01,Belgrade
+1390,RS02,Novi Sad
+1391,RS03,Niš
+1392,RS04,Kragujevac
+1393,RS05,Subotica
+1394,RU03,Novosibirsk
+1395,RU04,Nizhny Novgorod
+1396,RU05,Yekaterinburg
+1397,RU06,Samara
+1398,RU07,Omsk
+1399,RU08,Kazan
+1400,RU09,Chelyabinsk
+1401,RU10,Rostov-on-Don
+1402,RU11,Ufa
+1403,RU12,Volgograd
+1404,RU13,Perm
+1405,RU14,Krasnojarsk
+1406,RU15,Voronezh
+1407,RU16,Saratov
+1408,RU17,Toljatti
+1409,RU18,Krasnodar
+1410,RU19,Izhevsk
+1411,RU20,Uljanovsk
+1412,RU21,Yaroslavl
+1413,RU22,Tyumen
+1414,RU23,Barnaul
+1415,RU24,Khabarovsk
+1416,RU25,Vladivostok
+1417,RU26,Irkutsk
+1418,SA01,Riyadh
+1419,SA02,Jeddah
+1420,SA03,Mecca
+1421,SA04,Medina
+1422,SA05,Dammam
+1423,SA06,Ta'if
+1424,SA07,Tabuk
+1425,SA08,Buraydah
+1426,SA09,Khamis Mushait
+1427,SA10,Hofuf
+1428,SA11,Jubail
+1429,SA12,Najran
+1430,SA13,Ha'il
+1431,SE01,Stockholm
+1432,SE02,Gothenburg
+1433,SE03,Malmö
+1434,SE04,Uppsala
+1435,SE05,Linköping
+1436,SE06,Västerås
+1437,SE07,Örebro 
+1438,SE08,Norrköping
+1439,SE09,Helsingborg
+1440,SE10,Jönköping
+1441,SK01,Bratislava
+1442,SK02,Košice
+1443,SK03,Prešov
+1444,SK04,Nitra
+1445,SK05,Žilina
+1446,SK06,Banská Bystrica
+1447,SV01,Ljubljana
+1448,SV02,Maribor
+1449,TH01,Bangkok
+1450,TH02,Udon Thani
+1451,TH03,Nakhon Ratchasima
+1452,TH04,Chonburi
+1453,TH05,Chiang Mai
+1455,TH07,Hat Yai
+1456,TH08,Khon Kaen
+1457,TH09,Rayong
+1460,TM01,Ashgabat
+1461,TM02,Turkmenabat
+1464,TR01,Istanbul
+1465,TR02,Ankara
+1466,TR03,Izmir
+1467,TR04,Bursa
+1468,TR05,Adana
+1469,TR06,Gaziantep
+1470,TR07,Konya
+1471,TR08,Antalya
+1472,TR09,Kayseri
+1473,TR10,Mersin
+1474,TR11,Diyarbakir
+1475,TR12,Eskisehir
+1476,TR13,Urfa
+1477,TR14,Samsun
+1478,TR15,Adapazari
+1479,TR16,Kahramanmaras
+1480,TU01,Tunis
+1481,TU02,Safaqis
+1482,TU03,Sousse 
+1483,TU04,Kairouan
+1484,TU05,Gabès
+1485,TU06,Binzart
+1486,TU07,Gafsa
+1487,TW01,Taipei
+1488,TW02,Kaohsiung
+1489,TW03,Taichung
+1490,TW04,Tainan
+1491,TW05,Hsinchu
+1492,TW06,Chiayi City
+1493,UA01,Dubai
+1494,UA02,Abu Dhabi
+1495,UA03,Al Ain
+1496,UA04,Fujairah
+1498,UA06,Ras al-Khaimah
+1499,UK01,Kiev
+1500,UK02,Kharkov
+1501,UK03,Dnepropetrovsk
+1502,UK04,Odessa
+1504,UK06,Zaporozhye 
+1505,UK07,Lvov
+1506,UK08,Kryvyy Rih
+1507,UK09,Mykolayiv
+1508,UK10,Mariupol
+1510,UK12,Vinnytsia
+1513,US20,New York
+1514,US21,Los Angeles
+1515,US22,Chicago
+1516,US23,Houston
+1517,US24,Phoenix
+1518,US25,Philadelphia
+1519,US26,"San Diego, CA"
+1520,US27,"Dallas, TX"
+1521,US28,"San Antonio, TX"
+1522,US29,"Detroit, MI"
+1523,US30,San Francisco
+1524,US31,"Jacksonville, FL"
+1525,US32,"Indianapolis, IN"
+1526,US33,"Austin, TX"
+1527,US34,"Columbus, OH"
+1528,US35,"Charlotte, NC-SC"
+1529,US36,"Louisville, KY-IN"
+1530,US37,"El paso, TX"
+1531,US38,"Memphis, TN-MS-AR"
+1532,US39,"Nashville, TN"
+1533,US40,Boston
+1534,US41,"Seattle, WA"
+1535,US42,Washington
+1536,US43,"Las Vegas, NV"
+1537,US44,"Denver, CO"
+1538,US45,"Portland, OR-WA"
+1539,US46,"Oklahoma City, OK"
+1540,US47,"Milwaukee, WI"
+1541,US48,"Albuquerque, NM"
+1542,US49,"Tucson, AZ"
+1543,US50,"Fresno, CA"
+1544,US51,"Sacramento, CA"
+1545,US52,"Kansas City, MO-KS"
+1546,US53,"Norfolk-Virginia Beach, VA-NC"
+1547,US54,"Raleigh, NC"
+1548,US55,"Atlanta, GA"
+1549,US56,Miami
+1550,US57,"Saint Louis, MO-IL"
+1551,US58,"Honolulu, HI"
+1552,US59,"New Orleans, LA"
+1553,US60,"Minneapolis-Saint Paul, MN-WI"
+1554,US61,"Cleveland, OH"
+1555,US62,"Colorado Springs, CO"
+1556,US63,"Omaha, NE-IA"
+1557,US64,"Tulsa, OK"
+1558,UY01,Montevideo
+1559,UY02,Salto
+1560,UY03,Paysandú
+1561,UZ01,Tashkent
+1562,UZ02,Namangan
+1563,UZ03,Samarkand
+1564,UZ04,Andijon
+1565,UZ05,Nukus
+1566,UZ06,Qarshi
+1567,UZ07,Buhoro
+1568,UZ08,Kokand
+1569,VE01,Caracas
+1570,VE02,Maracaibo
+1571,VE03,Valencia
+1572,VE04,Barquisimeto
+1573,VE05,Guayana City
+1574,VE06,Maracay
+1575,VE07,Barcelona
+1576,VE08,Maturín
+1577,VE09,Ciudad Bolívar
+1578,VE10,San Cristóbal
+1579,VE11,Barinas
+1580,VN01,Ho Chi Minh City
+1581,VN02,Hanoi
+1582,VN03,Da Nang
+1583,VN04,Hai Phong
+1584,VN05,Nha Trang
+1585,VN06,Can Tho
+1586,VN07,Hue
+1587,VN08,Qui Nhon
+1588,VN09,Vung Tau
+1589,VN10,Rach Gia
+1590,VN11,Nam Dinh
+1591,ZA01,Johannesburg
+1592,ZA02,Cape Town
+1593,ZA03,Durban
+1594,ZA04,Pretoria
+1595,ZA05,Port Elizabeth
+1596,ZA06,East London
+1597,ZA07,Vereeniging
+1598,ZA08,Pietermaritzburg
+1599,ZA09,Bloemfontein
+1600,ZA10,Welkom
+1603,ZA13,Richards Bay
+1604,ZA14,Emalahleni
+1605,US65,"Tampa, FL"
+1606,US66,"Riverside, CA"
+1607,US67,"Baltimore, MD"
+1608,US68,"Pittsburgh, PA"
+1609,US69,"Cincinnati, OH"
+1610,US70,"Orlando, FL"
+1611,US71,"San Jose, CA"
+1612,US72,"Providence, RI-MA"
+1613,US73,"Richmond, VA"
+1614,US74,"Hartford, CT"
+1615,US75,"Birmingham, AL"
+1616,US76,"Salt Lake City, UT"
+1617,US77,"Buffalo, NY"
+1618,US78,"Rochester, NY"
+1873,AU10,Hobart
+1874,CA15,Oshawa
+1875,CA16,Windsor
+1876,CA17,Saskatoon
+1877,CA18,Regina
+1878,CA19,Sherbrooke
+1879,CA20,St. John's
+1881,JP14,Matsuyama
+1882,JP11,Kumamoto
+1883,JP12,Kagoshima
+1884,TW07,Taoyuan
+1885,TH13,Buriram
+1886,TH16,Maha Sarakham
+1887,TH12,Nakhon Si Thammarat
+1888,TH15,Phuket
+1889,TH14,Surin
+1890,US79,"Abilene, TX"
+1891,US80,"Akron, OH"
+1892,US81,"Albany, GA"
+1893,US82,"Albany, OR"
+1894,US83,"Albany, NY"
+1895,US84,"Alexandria, LA"
+1896,US85,"Allentown, PA-NJ"
+1897,US86,"Altoona, PA"
+1898,US87,"Amarillo, TX"
+1899,US88,"Anchorage, AK"
+1900,US89,"Ann Arbor, MI"
+1901,US90,"Anniston, AL"
+1902,US91,"Appleton, WI"
+1903,US92,"Asheville, NC"
+1904,US93,"Athens, GA"
+1905,US94,"Atlantic City, NJ"
+1906,US95,"Auburn, AL"
+1907,US96,"Augusta, GA-SC"
+1908,U370,"Bakersfield, CA"
+1909,U371,"Bangor, ME"
+1910,U372,"Barnstable Town, MA"
+1911,U100,"Baton Rouge, LA"
+1912,U101,"Battle Creek, MI"
+1913,U102,"Bay City, MI"
+1914,U103,"Beaumont, TX"
+1915,U104,"Beckley, WV"
+1916,U105,"Bellingham, WA"
+1917,U106,"Bend, OR"
+1918,U107,"Billings, MT"
+1919,U108,"Binghamton, NY"
+1920,U109,"Bismarck, ND"
+1921,U110,"Blacksburg, VA"
+1922,U111,"Bloomington, IL"
+1923,U112,"Bloomington, IN"
+1924,U113,"Boise City, ID"
+1925,U114,"Boulder, CO"
+1926,U115,"Bowling Green, KY"
+1927,U116,"Bremerton, WA"
+1928,U117,"Bridgeport, CT"
+1929,U118,"Brownsville, TX"
+1930,U119,"Brunswick, GA"
+1931,U120,"Burlington, NC"
+1932,U121,"Burlington, VT"
+1933,U122,"California, MD"
+1934,U123,"Canton, OH"
+1935,U124,"Cape Coral, FL"
+1936,U125,"Carbondale, IL"
+1937,U126,"Cedar Rapids, IA"
+1938,U127,"Chambersburg, PA"
+1939,U128,"Champaign, IL"
+1940,U129,"Charleston, WV"
+1941,U130,"Charleston, SC"
+1942,U131,"Charlottesville, VA"
+1943,U132,"Chattanooga, TN-GA"
+1944,U133,"Chico, CA"
+1945,U134,"Clarksville, TN-KY"
+1946,U135,"Cleveland, TN"
+1947,U136,"Coeur d'Alene, ID"
+1948,U137,"College Station, TX"
+1949,U138,"Columbia, MO"
+1950,U139,"Columbia, SC"
+1951,U140,"Columbus, GA-AL"
+1952,U141,"Corpus Christi, TX"
+1953,U142,"Crestview, FL"
+1954,U143,"Cumberland, MD-WV"
+1955,U144,"Dalton, GA"
+1956,U145,"Daphne, AL"
+1957,U146,"Davenport, IA-IL"
+1958,U147,"Dayton, OH"
+1959,U148,"Decatur, AL"
+1960,U149,"Decatur, IL"
+1961,U150,"Deltona, FL"
+1962,U151,"Des Moines, IA"
+1963,U152,"Dothan, AL"
+1964,U153,"Dover, DE"
+1965,U154,"Duluth, MN-WI"
+1966,U155,"Durham, NC"
+1967,U156,"East Stroudsburg, PA"
+1968,U157,"Eau Claire, WI"
+1969,U158,"El Centro, CA"
+1970,U159,"Elizabethtown, KY"
+1971,U160,"Elkhart, IN"
+1972,U161,"Erie, PA"
+1973,U162,"Eugene, OR"
+1974,U163,"Evansville, IN-KY"
+1975,U164,"Fargo, ND-MN"
+1976,U165,"Farmington, NM"
+1977,U166,"Fayetteville, NC"
+1978,U167,"Fayetteville, AR-MO"
+1979,U168,"Flagstaff, AZ"
+1980,U169,"Flint, MI"
+1981,U170,"Florence, SC"
+1982,U171,"Florence, AL"
+1983,U172,"Fond du Lac, WI"
+1984,U173,"Fort Collins, CO"
+1985,U174,"Fort Smith, AR-OK"
+1986,U175,"Fort Wayne, IN"
+1987,U176,"Gadsden, AL"
+1988,U177,"Gainesville, FL"
+1989,U178,"Gainesville, GA"
+1990,U179,"Gettysburg, PA"
+1991,U180,"Glens Falls, NY"
+1992,U181,"Goldsboro, NC"
+1993,U182,"Grand Junction, CO"
+1994,U183,"Grand Rapids, MI"
+1995,U184,"Greeley, CO"
+1996,U185,"Green Bay, WI"
+1997,U186,"Greensboro, NC"
+1998,U187,"Greenville, NC"
+1999,U188,"Greenville, SC"
+2000,U189,"Gulfport, MS"
+2001,U190,"Hagerstown, MD-WV"
+2002,U191,"Hammond, LA"
+2003,U192,"Hanford, CA"
+2004,U193,"Harrisburg, PA"
+2005,U194,"Harrisonburg, VA"
+2006,U195,"Hattiesburg, MS"
+2007,U196,"Hickory, NC"
+2008,U197,"Hilton Head Island, SC"
+2009,U198,"Homosassa Springs, FL"
+2010,U199,"Houma, LA"
+2011,U200,"Huntington, WV-KY-OH"
+2012,U201,"Huntsville, AL"
+2013,U202,"Idaho Falls, ID"
+2014,U203,"Iowa City, IA"
+2015,U204,"Ithaca, NY"
+2016,U205,"Jackson, MI"
+2017,U206,"Jackson, MS"
+2018,U207,"Jackson, TN"
+2019,U208,"Jacksonville, NC"
+2020,U209,"Janesville, WI"
+2021,U210,"Jefferson City, MO"
+2022,U211,"Johnson City, TN"
+2023,U212,"Johnstown, PA"
+2024,U213,"Jonesboro, AR"
+2025,U214,"Joplin, MO"
+2026,U215,"Kahului, HI"
+2027,U216,"Kalamazoo, MI"
+2028,U217,"Kankakee, IL"
+2029,U218,"Kennewick, WA"
+2030,U219,"Killeen, TX"
+2031,U220,"Kingsport, TN-VA"
+2032,U221,"Kingston, NY"
+2033,U222,"Knoxville, TN"
+2034,U223,"La Crosse, WI-MN"
+2035,U224,"Lafayette, LA"
+2036,U225,"Lafayette, IN"
+2037,U226,"Lake Charles, LA"
+2038,U227,"Lake Havasu City, AZ"
+2039,U228,"Lakeland, FL"
+2040,U229,"Lancaster, PA"
+2041,U230,"Lansing, MI"
+2042,U231,"Laredo, TX"
+2043,U232,"Las Cruces, NM"
+2044,U233,"Lawrence, KS"
+2045,U234,"Lawton, OK"
+2046,U235,"Lebanon, PA"
+2047,U236,"Lewiston, ME"
+2048,U237,"Lexington, KY"
+2049,U238,"Lima, OH"
+2050,U239,"Lincoln, NE"
+2051,U240,"Little Rock, AR"
+2052,U241,"Logan, UT-ID"
+2053,U242,"Longview, TX"
+2054,U243,"Longview, WA"
+2055,U244,"Lubbock, TX"
+2056,U245,"Lynchburg, VA"
+2057,U246,"Macon, GA"
+2058,U247,"Madera, CA"
+2059,U248,"Madison, WI"
+2060,U249,"Manchester, NH"
+2061,U250,"Mansfield, OH"
+2062,U251,"McAllen, TX"
+2063,U252,"Medford, OR"
+2064,U253,"Merced, CA"
+2065,U254,"Michigan City, IN"
+2066,U255,"Midland, TX"
+2067,U256,"Missoula, MT"
+2068,U257,"Mobile, AL"
+2069,U258,"Modesto, CA"
+2070,U259,"Monroe, LA"
+2071,U260,"Monroe, MI"
+2072,U261,"Montgomery, AL"
+2073,U262,"Morgantown, WV"
+2074,U263,"Morristown, TN"
+2075,U264,"Mount Vernon, WA"
+2076,U265,"Muncie, IN"
+2077,U266,"Muskegon, MI"
+2078,U267,"Myrtle Beach, SC-NC"
+2079,U268,"Napa, CA"
+2080,U269,"Naples, FL"
+2081,U270,"New Bern, NC"
+2082,U271,"New Haven, CT"
+2083,U272,"Niles, MI"
+2084,U273,"North Port, FL"
+2085,U274,"Norwich, CT"
+2086,U275,"Ocala, FL"
+2087,U276,"Odessa, TX"
+2088,U277,"Ogden, UT"
+2089,U278,"Olympia, WA"
+2090,U279,"Oshkosh, WI"
+2091,U280,"Owensboro, KY"
+2092,U281,"Oxnard, CA"
+2093,U282,"Palm Bay, FL"
+2094,U283,"Panama City, FL"
+2095,U284,"Pensacola, FL"
+2096,U285,"Peoria, IL"
+2097,U286,"Pine Bluff, AR"
+2098,U287,"Pittsfield, MA"
+2099,U288,"Portland, ME"
+2100,U289,"Port St. Lucie, FL"
+2101,U290,"Prescott, AZ"
+2102,U291,"Provo, UT"
+2103,U292,"Pueblo, CO"
+2104,U293,"Punta Gorda, FL"
+2105,U294,"Racine, WI"
+2106,U295,"Rapid City, SD"
+2107,U296,"Reading, PA"
+2108,U297,"Redding, CA"
+2109,U298,"Reno, NV"
+2110,U299,"Roanoke, VA"
+2111,U300,"Rochester, MN"
+2112,U301,"Rockford, IL"
+2113,U302,"Rocky Mount, NC"
+2114,U303,"Saginaw, MI"
+2115,U304,"St. Cloud, MN"
+2116,U305,"St. George, UT"
+2117,U306,"St. Joseph, MO-KS"
+2118,U307,"Salem, OR"
+2119,U308,"Salinas, CA"
+2120,U309,"Salisbury, MD-DE"
+2121,U310,"San Angelo, TX"
+2122,U311,"San Luis Obispo, CA"
+2123,U312,"Santa Cruz, CA"
+2124,U313,"Santa Fe, NM"
+2125,U314,"Santa Maria, CA"
+2126,U315,"Santa Rosa, CA"
+2127,U316,"Savannah, GA"
+2128,U317,"Scranton, PA"
+2129,U318,"Sebastian, FL"
+2130,U319,"Sheboygan, WI"
+2131,U320,"Sherman, TX"
+2132,U321,"Shreveport, LA"
+2133,U322,"Sierra Vista, AZ"
+2134,U323,"Sioux City, IA-NE-SD"
+2135,U324,"Sioux Falls, SD"
+2136,U325,"South Bend, IN-MI"
+2137,U326,"Spartanburg, SC"
+2138,U327,"Spokane, WA"
+2139,U328,"Springfield, IL"
+2140,U329,"Springfield, MA"
+2141,U330,"Springfield, MO"
+2142,U331,"Springfield, OH"
+2143,U332,"State College, PA"
+2144,U333,"Staunton, VA"
+2145,U334,"Stockton, CA"
+2146,U335,"Sumter, SC"
+2147,U336,"Syracuse, NY"
+2148,U337,"Tallahassee, FL"
+2149,U338,"Terre Haute, IN"
+2150,U339,"Texarkana, TX-AR"
+2151,U340,"Toledo, OH"
+2152,U341,"Topeka, KS"
+2153,U342,"Trenton, NJ"
+2154,U343,"Tuscaloosa, AL"
+2155,U344,"Tyler, TX"
+2156,U345,"Utica, NY"
+2157,U346,"Valdosta, GA"
+2158,U347,"Vallejo, CA"
+2159,U348,"Vineland, NJ"
+2160,U349,"Visalia, CA"
+2161,U350,"Waco, TX"
+2162,U351,"Warner Robins, GA"
+2163,U352,"Waterloo, IA"
+2164,U353,"Watertown, NY"
+2165,U354,"Wausau, WI"
+2166,U355,"Weirton, WV-OH"
+2167,U356,"Wenatchee, WA"
+2168,U357,"Wheeling, WV-OH"
+2169,U358,"Wichita, KS"
+2170,U359,"Wichita Falls, TX"
+2171,U360,"Williamsport, PA"
+2172,U361,"Wilmington, NC"
+2173,U362,"Winchester, VA-WV"
+2174,U363,"Winston, NC"
+2175,U364,"Worcester, MA-CT"
+2176,U365,"Yakima, WA"
+2177,U366,"York, PA"
+2178,U367,"Youngstown, OH-PA"
+2179,U368,"Yuba City, CA"
+2180,U369,"Yuma, AZ"
+3245,IN55,Ghaziabad
+3246,IN56,Kozhikode
+3247,IN57,Thrissur
+3248,IN58,Malappuram
+3249,IN59,Thriruvanthapuram
+3250,IN60,Kannur
+3251,JP15,Utsunomiya
+3252,NZ08,Napier-Hastings
+3254,MY09,George Town
+3255,MY10,Malacca

@@ -1,0 +1,907 @@
+Country,CountryCode,Region,RegionCode,RegionCodeOld
+Azerbaijan,AJ,Absheron,R001,AJR1
+Azerbaijan,AJ,Aran,R002,AJR35
+Azerbaijan,AJ,Baku city,R003,AJR59
+Azerbaijan,AJ,Ganja-Gazakh,R004,AJR187
+Azerbaijan,AJ,Guba-Khachmaz,R005,AJR211
+Azerbaijan,AJ,Kalbajar-Lachin,R006,AJR289
+Azerbaijan,AJ,Lankaran,R007,AJR329
+Azerbaijan,AJ,Mountain Shirvan,R008,AJR394
+Azerbaijan,AJ,Nakhchivan,R009,AJR400
+Azerbaijan,AJ,Sheki-Zagatala,R010,AJR604
+Azerbaijan,AJ,Upper Garabagh,R011,AJR699
+Algeria,AL,High Plateau Centre,R012,ALR235
+Algeria,AL,High Plateau East,R013,ALR236
+Algeria,AL,High Plateau West,R014,ALR237
+Algeria,AL,North Centre,R015,ALR437
+Algeria,AL,North East,R016,ALR431
+Algeria,AL,North West,R017,ALR442
+Algeria,AL,South East,R018,ALR624
+Algeria,AL,South West,R019,ALR628
+Argentina,AR,Cuyo,R020,ARR145
+Argentina,AR,Gran Buenos Aires,R021,ARR199
+Argentina,AR,Noreste,R022,ARR429
+Argentina,AR,Noroeste,R023,ARR430
+Argentina,AR,Pampeana,R024,ARR488
+Argentina,AR,Patagonica,R025,ARR493
+Austria,AT,Burgenland,R026,ATR86
+Austria,AT,Karnten,R027,ATR303
+Austria,AT,Niederosterreich,R028,ATR416
+Austria,AT,Oberosterreich,R029,ATR468
+Austria,AT,Salzburg,R030,ATR583
+Austria,AT,Steiermark,R031,ATR639
+Austria,AT,Tirol,R032,ATR691
+Austria,AT,Vorarlberg,R033,ATR718
+Austria,AT,Wien,R034,ATR736
+Australia,AU,Australian Capital Territory,R035,AUR52
+Australia,AU,New South Wales,R036,AUR413
+Australia,AU,Northern Territory,R037,AUR456
+Australia,AU,Other Territories,R038,AUR483
+Australia,AU,Queensland,R039,AUR518
+Australia,AU,South Australia,R040,AUR619
+Australia,AU,Tasmania,R041,AUR679
+Australia,AU,Victoria,R042,AUR710
+Australia,AU,Western Australia,R043,AUR732
+Belgium,BE,Brussels-Capital,R044,BER531
+Belgium,BE,Flemish,R045,BER532
+Belgium,BE,Walloon,R046,BER559
+Belarus,BL,Brest,R047,BLR83
+Belarus,BL,Gomel,R048,BLR194
+Belarus,BL,Grodno,R049,BLR204
+Belarus,BL,Minsk,R050,BLR385
+Belarus,BL,Minsk city,R051,BLR386
+Belarus,BL,Mogilev,R052,BLR390
+Belarus,BL,Vitebsk,R053,BLR716
+Brazil,BR,Central-West,R054,BRR114
+Brazil,BR,Northeast,R055,BRR424
+Brazil,BR,North,R056,BRR432
+Brazil,BR,Southeast,R057,BRR648
+Brazil,BR,South,R058,BRR652
+Bosnia-Herzegovina,BS,Brcko District,R059,BSR2098
+Bosnia-Herzegovina,BS,Federation of Bosnia and Herzegovina,R060,BSR2
+Bosnia-Herzegovina,BS,Republika Srpska,R061,BSR3
+Bulgaria,BU,North Central,R062,BUR435
+Bulgaria,BU,North-East,R063,BUR444
+Bulgaria,BU,North-West,R064,BUR457
+Bulgaria,BU,South Central,R065,BUR621
+Bulgaria,BU,South-East,R066,BUR629
+Bulgaria,BU,South-West,R067,BUR636
+Bolivia,BV,Beni,R068,BVR74
+Bolivia,BV,Chuquisaca,R069,BVR132
+Bolivia,BV,Cochabamba,R070,BVR134
+Bolivia,BV,La Paz,R071,BVR324
+Bolivia,BV,Oruro,R072,BVR479
+Bolivia,BV,Pando,R073,BVR489
+Bolivia,BV,Potosi,R074,BVR506
+Bolivia,BV,Santa Cruz,R075,BVR585
+Bolivia,BV,Tarija,R076,BVR677
+Canada,CA,Alberta,R077,CAR15
+Canada,CA,British Columbia,R078,CAR84
+Canada,CA,Manitoba,R079,CAR361
+Canada,CA,New Brunswick,R080,CAR409
+Canada,CA,Newfoundland and Labrador,R081,CAR415
+Canada,CA,Northwest Territories,R082,CAR458
+Canada,CA,Nova Scotia,R083,CAR461
+Canada,CA,Nunavut,R084,CAR463
+Canada,CA,Ontario,R085,CAR474
+Canada,CA,Prince Edward Island,R086,CAR508
+Canada,CA,Quebec,R087,CAR517
+Canada,CA,Saskatchewan,R088,CAR587
+Canada,CA,Yukon,R089,CAR744
+Switzerland,CH,Espace Mittelland,R090,CHR175
+Switzerland,CH,Northwestern Switzerland,R091,CHR428
+Switzerland,CH,Eastern Switzerland,R092,CHR482
+Switzerland,CH,Lake Geneva,R093,CHR540
+Switzerland,CH,Ticino,R094,CHR690
+Switzerland,CH,Central Switzerland,R095,CHR754
+Switzerland,CH,Zurich,R096,CHR759
+Chile,CL,Aisen del General Carlos Ibanez del Campo,R097,CLR8
+Chile,CL,Antofagasta,R098,CLR30
+Chile,CL,Araucania,R099,CLR36
+Chile,CL,Arica-Parinacota,R100,CLR2025
+Chile,CL,Atacama,R101,CLR48
+Chile,CL,Bio-Bio,R102,CLR78
+Chile,CL,Coquimbo,R103,CLR139
+Chile,CL,Libertador General Bernardo O'Higgins,R104,CLR335
+Chile,CL,Los Lagos,R105,CLR341
+Chile,CL,Magallanes y de la Antartica Chilena,R106,CLR353
+Chile,CL,Maule,R107,CLR368
+Chile,CL,Metropolitana,R108,CLR541
+Chile,CL,Tarapaca,R109,CLR676
+Chile,CL,Valparaiso,R110,CLR706
+Chile,CL,Los Rios,R111,
+China,CN,Anhui,R112,CNR29
+China,CN,Beijing,R113,CNR72
+China,CN,Chongqing,R114,CNR127
+China,CN,Fujian,R115,CNR184
+China,CN,Gansu,R116,CNR188
+China,CN,Guangdong,R117,CNR207
+China,CN,Guangxi,R118,CNR208
+China,CN,Guizhou,R119,CNR214
+China,CN,Hainan,R120,CNR223
+China,CN,Hebei,R121,CNR228
+China,CN,Heilongjiang,R122,CNR230
+China,CN,Henan,R123,CNR232
+China,CN,Hubei,R124,CNR247
+China,CN,Hunan,R125,CNR248
+China,CN,Inner Mongolia,R126,CNR254
+China,CN,Jiangsu,R127,CNR279
+China,CN,Jiangxi,R128,CNR280
+China,CN,Jilin,R129,CNR283
+China,CN,Liaoning,R130,CNR333
+China,CN,Ningxia,R131,CNR418
+China,CN,Qinghai,R132,CNR515
+China,CN,Shaanxi,R133,CNR597
+China,CN,Shandong,R134,CNR598
+China,CN,Shanghai,R135,CNR599
+China,CN,Shanxi,R136,CNR600
+China,CN,Sichuan,R137,CNR608
+China,CN,Tianjin,R138,CNR688
+China,CN,Tibet,R139,CNR689
+China,CN,Xinjiang,R140,CNR739
+China,CN,Yunnan,R141,CNR746
+China,CN,Zhejiang,R142,CNR755
+Colombia,CO,Amazonia,R143,COR2083
+Colombia,CO,Atlantica,R144,COR49
+Colombia,CO,Bogota,R145,COR79
+Colombia,CO,Central,R146,COR98
+Colombia,CO,Oriental,R147,COR477
+Colombia,CO,Pacifica,R148,COR486
+Croatia,CR,Central Croatia,R149,CRR101
+Croatia,CR,Dalmatia,R150,CRR149
+Croatia,CR,Istria and Northern seacoast,R151,CRR263
+Croatia,CR,Slavonia,R152,CRR614
+Czech Republic,CS,Prague,R161,CSR240
+Czech Republic,CS,South Moravia,R163,CSR281
+Czech Republic,CS,South Bohemia,R162,CSR282
+Czech Republic,CS,Karlovy Vary,R155,CSR301
+Czech Republic,CS,Hradec Kr?lové,R154,CSR318
+Czech Republic,CS,Liberec,R156,CSR334
+Czech Republic,CS,Moravia-Silesia,R157,CSR392
+Czech Republic,CS,Olomouc,R158,CSR473
+Czech Republic,CS,Pardubice,R159,CSR491
+Czech Republic,CS,Plzen,R160,CSR501
+Czech Republic,CS,Central Bohemia,R153,CSR641
+Czech Republic,CS,?st? nad Labem,R164,CSR701
+Czech Republic,CS,Vysocina,R165,CSR720
+Czech Republic,CS,Zl?n,R166,CSR757
+Germany,DE,Baden-Württemberg,R167,DER56
+Germany,DE,Bavaria,R168,DER69
+Germany,DE,Berlin,R169,DER76
+Germany,DE,Brandenburg,R170,DER81
+Germany,DE,Bremen,R171,DER82
+Germany,DE,Hamburg,R172,DER224
+Germany,DE,Hesse,R173,DER233
+Germany,DE,Mecklenburg-Vorpommern,R175,DER369
+Germany,DE,Lower Saxony,R174,DER417
+Germany,DE,North Rhine-Westphalia,R176,DER427
+Germany,DE,Rhineland-Palatinate,R177,DER570
+Germany,DE,Saarland,R178,DER579
+Germany,DE,Saxony,R179,DER581
+Germany,DE,Saxony-Anhalt,R180,DER582
+Germany,DE,Schleswig-Holstein,R181,DER589
+Germany,DE,Thuringia,R182,DER687
+Denmark,DK,Capital,R183,DKR533
+Denmark,DK,Central,R184,DKR542
+Denmark,DK,North,R185,DKR543
+Denmark,DK,Zealand,R186,DKR553
+Denmark,DK,Southern,R187,DKR554
+Dominican Republic,DR,Cibao Nordeste,R188,DRR2119
+Dominican Republic,DR,Cibao Noroeste,R189,DRR2120
+Dominican Republic,DR,Cibao Norte,R190,DRR2121
+Dominican Republic,DR,Cibao Sur,R191,DRR2122
+Dominican Republic,DR,Del Yuma,R192,DRR2123
+Dominican Republic,DR,El Valle,R193,DRR2124
+Dominican Republic,DR,Enriquillo,R194,DRR2125
+Dominican Republic,DR,Higuamo,R195,DRR2126
+Dominican Republic,DR,Ozama,R196,DRR2127
+Dominican Republic,DR,Valdesia,R197,DRR2128
+Ecuador,EC,Amazonia,R198,ECR2083
+Ecuador,EC,Cuenca,R199,ECR144
+Ecuador,EC,Guayaquil,R200,ECR210
+Ecuador,EC,Machala,R201,ECR347
+Ecuador,EC,Quito,R202,ECR521
+Ecuador,EC,Resto Costa,R203,ECR568
+Ecuador,EC,Resto Sierra,R204,ECR569
+Egypt,EG,Alexsandria,R205,EGR17
+Egypt,EG,Aswan,R206,EGR46
+Egypt,EG,Asyout,R207,EGR47
+Egypt,EG,Behera,R208,EGR71
+Egypt,EG,Beni-Suef,R209,EGR75
+Egypt,EG,Cairo,R210,EGR88
+Egypt,EG,Dakahlia,R211,EGR148
+Egypt,EG,Damietta,R212,EGR151
+Egypt,EG,El Wadi El Gidid,R213,EGR174
+Egypt,EG,Fayoum,R214,EGR179
+Egypt,EG,Gharbia,R215,EGR192
+Egypt,EG,Giza,R216,EGR193
+Egypt,EG,Ismailia,R217,EGR260
+Egypt,EG,Kafr El Sheikh,R218,EGR288
+Egypt,EG,Kalyoubia,R219,EGR294
+Egypt,EG,Luxur,R220,EGR344
+Egypt,EG,Matrouh,R221,EGR367
+Egypt,EG,Menia,R222,EGR375
+Egypt,EG,Menoufia,R223,EGR376
+Egypt,EG,North Sinai,R224,EGR441
+Egypt,EG,Port Said,R225,EGR507
+Egypt,EG,Qena,R226,EGR514
+Egypt,EG,Red Sea,R227,EGR530
+Egypt,EG,Sharkia,R228,EGR602
+Egypt,EG,South Sinai,R229,EGR626
+Egypt,EG,Suez,R230,EGR650
+Egypt,EG,Suhag,R231,EGR651
+Spain,ES,Andalucia,R232,ESR26
+Spain,ES,Aragon,R233,ESR34
+Spain,ES,Canarias,R234,ESR91
+Spain,ES,Cantabria,R235,ESR92
+Spain,ES,Castilla la Mancha,R236,ESR96
+Spain,ES,Castilla y Leon,R237,ESR95
+Spain,ES,Cataluna,R238,ESR97
+Spain,ES,Ceuta y Melilla,R239,ESR116
+Spain,ES,Comunidad de Madrid,R240,ESR351
+Spain,ES,Comunidad Foral de Navarra,R241,ESR404
+Spain,ES,Comunidad Valenciana,R242,ESR137
+Spain,ES,Extremadura,R243,ESR177
+Spain,ES,Galicia,R244,ESR185
+Spain,ES,Illes Balears,R245,ESR60
+Spain,ES,La Rioja,R246,ESR574
+Spain,ES,Pais Vasco,R247,ESR487
+Spain,ES,Principado de Asturias,R248,ESR45
+Spain,ES,Murcia,R249,ESR396
+Estonia,ET,Harju,R250,ETR225
+Estonia,ET,Hiiu,R251,ETR238
+Estonia,ET,Ida-Viru,R252,ETR250
+Estonia,ET,Jarva,R253,ETR269
+Estonia,ET,Jogeva,R254,ETR284
+Estonia,ET,Laane,R255,ETR325
+Estonia,ET,Laane-Viru,R256,ETR326
+Estonia,ET,Parnu,R257,ETR492
+Estonia,ET,Polva,R258,ETR504
+Estonia,ET,Rapla,R259,ETR527
+Estonia,ET,Saare,R260,ETR578
+Estonia,ET,Tartu,R261,ETR678
+Estonia,ET,Valga,R262,ETR705
+Estonia,ET,Viljandi,R263,ETR712
+Estonia,ET,Voru,R264,ETR719
+Finland,FI,Aland,R265,FIR1056
+Finland,FI,Northern and Eastern Finland,R266,FIR172
+Finland,FI,Helsinki-Uusimaa,R267,FIR2033
+Finland,FI,Northern and Eastern Finland,R266,FIR451
+Finland,FI,Southern Finland,R268,FIR2069
+Finland,FI,Western Finland,R269,FIR2077
+France,FR,Bassin Parisien,R270,FRR67
+France,FR,Centre-East,R271,FRR109
+France,FR,East,R272,FRR176
+France,FR,Mediterranean,R274,FRR372
+France,FR,North,R275,FRR419
+France,FR,West,R277,FRR485
+France,FR,Island of France,R273,FRR552
+France,FR,South-West,R276,FRR649
+UK,GB,East,R278,GBR166
+UK,GB,East Midlands,R279,GBR169
+UK,GB,London,R280,GBR340
+UK,GB,North East,R281,GBR439
+UK,GB,North West,R282,GBR442
+UK,GB,Northern Ireland,R283,GBR454
+UK,GB,Scotland,R284,GBR590
+UK,GB,South East,R285,GBR624
+UK,GB,South West,R286,GBR628
+UK,GB,Wales,R287,GBR721
+UK,GB,West Midlands,R288,GBR730
+UK,GB,Yorks and The Humber,R289,GBR742
+Georgia,GG,Abkhazia,R290,GGR2139
+Georgia,GG,Adjara,R291,GGR2140
+Georgia,GG,Guria,R292,GGR2141
+Georgia,GG,Imereti,R293,GGR2142
+Georgia,GG,Kakheti,R294,GGR2143
+Georgia,GG,Kvemo Kartli,R295,GGR2144
+Georgia,GG,Mtskheta-Mtianeti,R296,GGR2145
+Georgia,GG,Racha-Lechkhumi and Kvemo Svaneti,R297,GGR2146
+Georgia,GG,Samegrelo-Zemo Svaneti,R298,GGR2147
+Georgia,GG,Samtskhe-Javakheti,R299,GGR2148
+Georgia,GG,Shida Kartli,R300,GGR2149
+Georgia,GG,Tbilisi,R301,GGR2150
+Greece,GR,East Macedonia and Thrace ,R306,GRR2096
+Greece,GR,Attica,R302,GRR2023
+Greece,GR,West Greece ,R313,GRR2021
+Greece,GR,West Macedonia ,R314,GRR2090
+Greece,GR,Ionian Islands,R308,GRR2015
+Greece,GR,Epirus,R307,GRR2065
+Greece,GR,Central Macedonia ,R304,GRR203
+Greece,GR,Crete,R305,GRR2013
+Greece,GR,North Aegean ,R309,GRR2009
+Greece,GR,Peloponnese,R310,GRR2027
+Greece,GR,Central Greece ,R303,GRR2002
+Greece,GR,Thessaly,R312,GRR2067
+Greece,GR,South Aegean ,R311,GRR1166
+Guatemala,GT,Central,R315,GTR98
+Guatemala,GT,Metropolitana,R316,GTR2163
+Guatemala,GT,Noroccidente,R317,GTR2164
+Guatemala,GT,Nororiente,R318,GTR2165
+Guatemala,GT,Norte,R319,GTR432
+Guatemala,GT,Peten,R320,GTR2166
+Guatemala,GT,Suroccidente,R321,GTR2167
+Guatemala,GT,Suroriente,R322,GTR2168
+Hungary,HU,Central Hungary,R323,HUR103
+Hungary,HU,Central Transdanubia,R324,HUR105
+Hungary,HU,Northern Great Plain,R325,HUR452
+Hungary,HU,Northern Hungary,R326,HUR453
+Hungary,HU,Southern Great Plain,R327,HUR632
+Hungary,HU,Southern Transdanubia,R328,HUR635
+Hungary,HU,Western Transdanubia,R329,HUR735
+Indonesia,ID,Aceh,R330,IDR2081
+Indonesia,ID,Bali,R331,IDR61
+Indonesia,ID,Banten,R332,IDR66
+Indonesia,ID,Bengkulu,R333,IDR73
+Indonesia,ID,DI Yogyakarta,R334,IDR155
+Indonesia,ID,Dki Jakarta,R335,IDR159
+Indonesia,ID,Gorontalo,R336,IDR197
+Indonesia,ID,Jambi,R337,IDR266
+Indonesia,ID,Jawa Barat,R338,IDR270
+Indonesia,ID,Jawa Tengah,R339,IDR271
+Indonesia,ID,Jawa Timur,R340,IDR272
+Indonesia,ID,Kalimantan Barat,R341,IDR290
+Indonesia,ID,Kalimantan Selatan,R342,IDR291
+Indonesia,ID,Kalinamtan Tengah,R343,IDR292
+Indonesia,ID,Kalinamtan Timur,R344,IDR293
+Indonesia,ID,Kepulauan Bangka Belitung,R345,IDR65
+Indonesia,ID,Kepulauan Riau,R346,IDR2035
+Indonesia,ID,Lampung,R347,IDR328
+Indonesia,ID,Maluku,R348,IDR357
+Indonesia,ID,Maluku Utara,R349,IDR358
+Indonesia,ID,Nusa Tenggara Barat,R350,IDR464
+Indonesia,ID,Nusa Tenggara Timur,R351,IDR465
+Indonesia,ID,Papua,R352,IDR2005
+Indonesia,ID,Papua Barat,R353,IDR1072
+Indonesia,ID,Riau,R354,IDR572
+Indonesia,ID,Sulawesi Tenggara,R355,IDR591
+Indonesia,ID,Sulawesi Barat,R356,IDR2045
+Indonesia,ID,Sulawesi Selatah,R357,IDR653
+Indonesia,ID,Sulawesi Tengah,R358,IDR654
+Indonesia,ID,Sulawesi Utara,R359,IDR655
+Indonesia,ID,Sumatera Barat,R360,IDR656
+Indonesia,ID,Sumatera Selatan,R361,IDR657
+Indonesia,ID,Sumatera Utara,R362,IDR658
+Ireland,IE,Border,R363,IER80
+Ireland,IE,Dublin,R364,IER164
+Ireland,IE,Mid-East,R365,IER381
+Ireland,IE,Mid-West,R366,IER383
+Ireland,IE,Midlands,R367,IER382
+Ireland,IE,South-East,R368,IER624
+Ireland,IE,South-West,R369,IER628
+Ireland,IE,West,R370,IER724
+India,IN,Andhra Pradesh,R371,INR28
+India,IN,Arunachal Pradesh,R372,INR39
+India,IN,Assam,R373,INR43
+India,IN,Bihar,R374,INR77
+India,IN,Chhattisgarh,R375,INR122
+India,IN,Delhi,R376,INR154
+India,IN,Goa,R377,INR2019
+India,IN,Group of Union Territories ,R378,INR205
+India,IN,Gujarat,R379,INR215
+India,IN,Haryana,R380,INR226
+India,IN,Himachal Pradesh,R381,INR239
+India,IN,Jammu and Kashmir,R382,INR267
+India,IN,Jharkhand,R383,INR278
+India,IN,Karnataka,R384,INR302
+India,IN,Kerala,R385,INR308
+India,IN,Madhya Pradesh,R386,INR349
+India,IN,Maharashtra,R387,INR354
+India,IN,Manipur,R388,INR360
+India,IN,Meghalaya,R389,INR2011
+India,IN,Mizoram,R390,INR389
+India,IN,Nagaland,R391,INR2047
+India,IN,Orissa,R392,INR478
+India,IN,Punjab,R393,INR511
+India,IN,Rajasthan,R394,INR524
+India,IN,Sikkim,R395,INR2094
+India,IN,Tamil Nadu,R396,INR673
+India,IN,Tripura,R397,INR695
+India,IN,Uttar Pradesh,R398,INR704
+India,IN,Uttarakhand,R399,INR2000
+India,IN,West Bengal,R400,INR726
+Iran,IR,Alborz,R401,
+Iran,IR,Ardabil,R402,IRR2175
+Iran,IR,Bushehr,R403,IRR2176
+Iran,IR,Chaharmahal and Bakhtiari,R404,IRR2177
+Iran,IR,East Azerbaijan,R405,IRR2178
+Iran,IR,Isfahan,R412,IRR2179
+Iran,IR,Fars,R406,IRR2180
+Iran,IR,Gilan,R407,IRR2181
+Iran,IR,Golestan,R408,IRR2182
+Iran,IR,Hamadan,R409,IRR2183
+Iran,IR,Hormozgan,R410,IRR2184
+Iran,IR,Ilam,R411,IRR2185
+Iran,IR,Kerman,R413,IRR2186
+Iran,IR,Kermanshah,R414,IRR2187
+Iran,IR,Razavi Khorasan,R424,IRR2188
+Iran,IR,Khuzestan,R415,IRR2189
+Iran,IR,Kohgiluyeh and Boyer-Ahmad,R416,IRR2190
+Iran,IR,Kordestan,R417,IRR2191
+Iran,IR,Lorestan,R418,IRR2192
+Iran,IR,Markazi,R419,IRR2193
+Iran,IR,Mazandaran,R420,IRR2194
+Iran,IR,North Khorasan,R421,IRR2195
+Iran,IR,Qazvin,R422,IRR2196
+Iran,IR,Qom,R423,IRR2197
+Iran,IR,Semnan,R425,IRR2198
+Iran,IR,Sistan and Baluchestan ,R426,IRR2199
+Iran,IR,South Khorasan,R427,IRR2200
+Iran,IR,Tehran,R428,IRR2201
+Iran,IR,West Azerbaijan,R429,IRR2202
+Iran,IR,Yazd,R430,IRR2203
+Iran,IR,Zanjan,R431,IRR2204
+Israel,IS,Akko,R432,ISR11
+Israel,IS,Ashqelon,R433,ISR41
+Israel,IS,Beer Sheva,R434,ISR70
+Israel,IS,Hadera,R435,ISR220
+Israel,IS,Haifa,R436,ISR221
+Israel,IS,Jerusalem,R438,ISR277
+Israel,IS,Judea and Samaria Area,R439,ISR285
+Israel,IS,Kinneret and Golan,R440,ISR313
+Israel,IS,Petah Tikva,R441,ISR498
+Israel,IS,Ramla,R443,ISR526
+Israel,IS,Rehovot,R444,ISR564
+Israel,IS,Sharon,R445,ISR603
+Israel,IS,Tel Aviv,R446,ISR682
+Israel,IS,Zefat,R437,
+Israel,IS,Yizre'el,R442,
+Italy,IT,Centre,R447,ITR113
+Italy,IT,Islands,R448,ITR261
+Italy,IT,North-East,R449,ITR423
+Italy,IT,North-West,R450,ITR426
+Italy,IT,South,R451,ITR642
+Jordan,JO,Ajlun,R452,JOR9
+Jordan,JO,Amman,R453,JOR25
+Jordan,JO,Aqaba,R454,JOR31
+Jordan,JO,Balqa,R455,JOR64
+Jordan,JO,Irbid,R456,JOR257
+Jordan,JO,Jarash,R457,JOR268
+Jordan,JO,Karak,R458,JOR300
+Jordan,JO,Maan,R459,JOR346
+Jordan,JO,Madaba,R460,JOR348
+Jordan,JO,Mafraq,R461,JOR352
+Jordan,JO,Tafiela,R462,JOR664
+Jordan,JO,Zarqa,R463,JOR751
+Japan,JP,Chubu,R464,JPR2086
+Japan,JP,Chugoku,R465,JPR128
+Japan,JP,Hokkaido,R466,JPR241
+Japan,JP,Kansai,R467,JPR2039
+Japan,JP,Kanto,R468,JPR2037
+Japan,JP,Kyushu,R469,JPR323
+Japan,JP,Okinawa,R470,JPR471
+Japan,JP,Shikoku,R471,JPR605
+Japan,JP,Tohoku,R472,JPR693
+Kazakhstan,KK,Almaty,R475,KKR20
+Kazakhstan,KK,Almaty city,R476,KKR21
+Kazakhstan,KK,Akmola,R473,KKR32
+Kazakhstan,KK,Aktobe,R474,KKR33
+Kazakhstan,KK,Astana,R477,KKR44
+Kazakhstan,KK,Atyrau,R478,KKR50
+Kazakhstan,KK,Western Kazakhstan,R488,KKR68
+Kazakhstan,KK,Mangystau,R484,KKR359
+Kazakhstan,KK,Southern Kazakhstan,R487,KKR475
+Kazakhstan,KK,Pavlodar,R486,KKR494
+Kazakhstan,KK,Karagandy,R481,KKR512
+Kazakhstan,KK,Kostanay,R482,KKR516
+Kazakhstan,KK,Kyzylorda,R483,KKR522
+Kazakhstan,KK,Northern Kazakhstan,R485,KKR615
+Kazakhstan,KK,Eastern Kazakhstan,R479,KKR660
+Kazakhstan,KK,Jambyl,R480,KKR2079
+South Korea,KR,Busan,R489,KRR87
+South Korea,KR,Chungcheongbuk-do,R490,KRR130
+South Korea,KR,Chungcheongnam-do,R491,KRR131
+South Korea,KR,Daegu,R492,KRR146
+South Korea,KR,Daejeon,R493,KRR147
+South Korea,KR,Gangwon-do,R494,KRR186
+South Korea,KR,Gwangju,R495,KRR216
+South Korea,KR,Gyeonggi-do,R496,KRR217
+South Korea,KR,Gyeongsangbuk-do,R497,KRR218
+South Korea,KR,Gyeongsangnam-do,R498,KRR219
+South Korea,KR,Incheon,R499,KRR252
+South Korea,KR,Jeju-do,R500,KRR274
+South Korea,KR,Jeollabuk-do,R501,KRR275
+South Korea,KR,Jeollanam-do,R502,KRR276
+South Korea,KR,Seoul,R503,KRR594
+South Korea,KR,Ulsan,R504,KRR697
+Kenya,KY,Central,R512,KYR98
+Kenya,KY,Coast,R505,KYR2235
+Kenya,KY,Eastern,R506,KYR1
+Kenya,KY,Nairobi,R507,KYR2236
+Kenya,KY,North Eastern,R508,KYR440
+Kenya,KY,Nyanza,R509,KYR2237
+Kenya,KY,Rift Valley,R510,KYR2238
+Kenya,KY,Western,R511,KYR2239
+Latvia,LA,Kurzeme,R513,LAR319
+Latvia,LA,Latgale,R514,LAR331
+Latvia,LA,Pieriga,R515,LAR499
+Latvia,LA,Riga,R516,LAR573
+Latvia,LA,Vidzeme,R517,LAR711
+Latvia,LA,Zemgale,R518,LAR753
+Lithuania,LT,Alytus,R520,LTR22
+Lithuania,LT,Kaunas,R521,LTR304
+Lithuania,LT,Klaipeda,R522,LTR316
+Lithuania,LT,Marijampole,R523,LTR362
+Lithuania,LT,Paneveþys,R524,LTR490
+Lithuania,LT,Ðiauliai,R519,LTR606
+Lithuania,LT,Taurage,R525,LTR680
+Lithuania,LT,Telðiai,R526,LTR683
+Lithuania,LT,Utena,R527,LTR703
+Lithuania,LT,Vilnius,R528,LTR713
+Macedonia,MD,Eastern,R536,MDR1
+Macedonia,MD,NorthEastern,R529,MDR2
+Macedonia,MD,Pelagonia,R530,MDR3
+Macedonia,MD,Polog,R531,MDR2504
+Macedonia,MD,Skopje,R532,MDR5
+Macedonia,MD,SouthEastern,R533,MDR6
+Macedonia,MD,SouthWestern,R534,MDR7
+Macedonia,MD,Vardar,R535,MDR8
+Morocco,MO,Chaouia - Ouardigha,R538,MOR118
+Morocco,MO,Doukkala - Abda,R539,MOR162
+Morocco,MO,Fes - Boulemane,R540,MOR180
+Morocco,MO,Gharb - Chrarda - Beni-Hsen,R541,MOR191
+Morocco,MO,Grand Casablanca,R542,MOR200
+Morocco,MO,Guelmim,R543,MOR212
+Morocco,MO,Laayoune,R544,MOR327
+Morocco,MO,Marrakech - Tensift - El-Haouz,R545,MOR363
+Morocco,MO,Meknes - Tafilalt,R546,MOR373
+Morocco,MO,Oriental,R537,MOR477
+Morocco,MO,Oued Ed-Dahab-Lagouira,R547,MOR484
+Morocco,MO,Rabat - Sale - Zemmour - Zaer,R548,MOR523
+Morocco,MO,Sous - Massa - Draa,R549,MOR617
+Morocco,MO,Tadla - Azilal,R550,MOR663
+Morocco,MO,Tanger - Tetouan,R551,MOR674
+Morocco,MO,Taza - Al-Hoceima - Taounate,R552,MOR681
+Mexico,MX,Aguascalientes,R553,MXR6
+Mexico,MX,Baja California,R554,MXR57
+Mexico,MX,Baja California Sur,R555,MXR58
+Mexico,MX,Campeche,R556,MXR90
+Mexico,MX,Chiapas,R557,MXR123
+Mexico,MX,Chihuahua,R558,MXR126
+Mexico,MX,Coahuila de Zaragoza,R559,MXR133
+Mexico,MX,Colima,R560,MXR135
+Mexico,MX,Federal District of Mexico City,R561,MXR158
+Mexico,MX,Durango,R562,MXR165
+Mexico,MX,Guanajuato,R563,MXR206
+Mexico,MX,Guerrero,R564,MXR213
+Mexico,MX,Hidalgo,R565,MXR234
+Mexico,MX,Jalisco,R566,MXR265
+Mexico,MX,Mexico,R567,MXR377
+Mexico,MX,Michoacan de Ocampo,R568,MXR380
+Mexico,MX,Morelos,R569,MXR393
+Mexico,MX,Nayarit,R570,MXR405
+Mexico,MX,Nuevo Leon,R571,MXR462
+Mexico,MX,Oaxaca,R572,MXR466
+Mexico,MX,Puebla,R573,MXR510
+Mexico,MX,Queretaro  Arteaga,R574,MXR519
+Mexico,MX,Quintana Roo,R575,MXR520
+Mexico,MX,San Luis Potosi,R576,MXR584
+Mexico,MX,Sinaloa,R577,MXR612
+Mexico,MX,Sonora,R578,MXR616
+Mexico,MX,Tabasco,R579,MXR661
+Mexico,MX,Tamaulipas,R580,MXR672
+Mexico,MX,Tlaxcala,R581,MXR692
+Mexico,MX,Veracruz de Ignacio de la Llave,R582,MXR707
+Mexico,MX,Yucatan,R583,MXR743
+Mexico,MX,Zacatecas,R584,MXR747
+Malaysia,MY,Peninsular,R585,MYR496
+Malaysia,MY,Sabah,R586,MYR580
+Malaysia,MY,Sarawak,R587,MYR586
+Nigeria,NG,North Central,R588,NGR435
+Nigeria,NG,North East,R589,NGR439
+Nigeria,NG,North West,R590,NGR442
+Nigeria,NG,South East,R591,NGR624
+Nigeria,NG,South South,R592,NGR627
+Nigeria,NG,South West,R593,NGR628
+Netherlands,NL,East,R594,NLR166
+Netherlands,NL,North,R595,NLR433
+Netherlands,NL,South,R596,NLR618
+Netherlands,NL,West,R597,NLR724
+Norway,NO,Agder and Rogaland,R598,NOR5
+Norway,NO,Hedmark and Oppland,R599,NOR229
+Norway,NO,Northern Norway,R600,NOR455
+Norway,NO,Oslo and Akershus,R601,NOR480
+Norway,NO,South Eastern Norway,R602,NOR625
+Norway,NO,Trondelag,R603,NOR2075
+Norway,NO,Western Norway,R604,NOR734
+New Zealand,NZ,Auckland,R605,NZR51
+New Zealand,NZ,Canterbury,R606,NZR93
+New Zealand,NZ,Rest of North,R607,NZR565
+New Zealand,NZ,Rest of South,R608,NZR566
+New Zealand,NZ,Wellington,R609,NZR723
+Cameroon,OO,Adamawa,R610,OOR2099
+Cameroon,OO,Centre,R611,OOR2100
+Cameroon,OO,East,R612,OOR176
+Cameroon,OO,Far North,R613,OOR2101
+Cameroon,OO,Littoral,R614,OOR2102
+Cameroon,OO,North,R615,OOR419
+Cameroon,OO,Northwest,R616,OOR2103
+Cameroon,OO,West,R619,OOR485
+Cameroon,OO,South,R617,OOR642
+Cameroon,OO,Southwest,R618,OOR649
+Philippines,PH,Autonomous in Muslim Mindanao,R620,PHR53
+Philippines,PH,Cordillera Administrative,R621,PHR140
+Philippines,PH,National Capital,R622,PHR402
+Philippines,PH,Ilocos,R623,PHR534
+Philippines,PH,Cagayan Valley,R624,PHR535
+Philippines,PH,Central Luzon,R625,PHR536
+Philippines,PH,Calabarzon,R626,PHR537
+Philippines,PH,Mimaropa,R627,PHR538
+Philippines,PH,Zamboanga Peninsula,R628,PHR539
+Philippines,PH,Bicol,R629,PHR555
+Philippines,PH,Western Visayas,R630,PHR556
+Philippines,PH,Central Visayas,R631,PHR557
+Philippines,PH,Eastern Visayas,R632,PHR558
+Philippines,PH,Northern Mindanao,R633,PHR560
+Philippines,PH,Davao,R634,PHR561
+Philippines,PH,Soccsksargen,R635,PHR562
+Philippines,PH,Caraga,R636,PHR563
+Pakistan,PK,Azad Kashmir,R638,PKR55
+Pakistan,PK,Balochistan,R639,PKR63
+Pakistan,PK,FATA,R640,PKR178
+Pakistan,PK,Islamabad,R641,PKR259
+Pakistan,PK,North-West Frontier,R642,PKR398
+Pakistan,PK,Northern Areas,R643,PKR449
+Pakistan,PK,Punjab,R637,PKR511
+Pakistan,PK,Sindh,R644,PKR613
+Poland,PL,Central,R645,PLR104
+Poland,PL,Eastern,R646,PLR173
+Poland,PL,North-Western,R647,PLR459
+Poland,PL,Northern,R648,PLR447
+Poland,PL,South-Western,R649,PLR637
+Poland,PL,Southern,R650,PLR634
+Portugal,PT,Azores,R653,PTR3
+Portugal,PT,Alentejo,R651,PTR16
+Portugal,PT,Algarve,R652,PTR18
+Portugal,PT,Centro,R654,PTR113
+Portugal,PT,Lisboa,R655,PTR338
+Portugal,PT,Medeira,R656,PTR370
+Portugal,PT,Norte,R657,PTR432
+Peru,PU,Costa Centro,R658,PUR141
+Peru,PU,Costa Norte,R659,PUR142
+Peru,PU,Costa Sur,R660,PUR143
+Peru,PU,Lima Metropolitana,R661,PUR336
+Peru,PU,Selva,R662,PUR592
+Peru,PU,Sierra Centro,R663,PUR609
+Peru,PU,Sierra Norte,R664,PUR610
+Peru,PU,Sierra Sur,R665,PUR611
+Costa Rica,RI,Brunca,R666,RIR2109
+Costa Rica,RI,Central,R671,RIR98
+Costa Rica,RI,Chorotega,R667,RIR2110
+Costa Rica,RI,Huetar Altantica,R668,RIR2111
+Costa Rica,RI,Huetar Norte,R669,RIR2112
+Costa Rica,RI,Pacifico Central,R670,RIR2113
+Romania,RO,Bucuresti-Ilfov,R672,ROR85
+Romania,RO,Centre,R673,ROR115
+Romania,RO,North-East,R674,ROR420
+Romania,RO,North-West,R675,ROR421
+Romania,RO,South-East,R676,ROR643
+Romania,RO,South,R677,ROR644
+Romania,RO,South-West,R678,ROR645
+Romania,RO,West,R679,ROR709
+Serbia,RS,Central Serbia,R680,RSR2245
+Serbia,RS,Vojvodina,R681,RSR2246
+Russia,RU,Central,R682,RUR108
+Russia,RU,Far Eastern,R683,RUR150
+Russia,RU,Southern,R687,RUR287
+Russia,RU,Volga,R689,RUR509
+Russia,RU,North Caucasian,R684,RUR2276
+Russia,RU,Northwestern,R685,RUR596
+Russia,RU,Siberian,R686,RUR607
+Russia,RU,Ural,R688,RUR700
+Saudi Arabia,SA,Al-Baha,R690,SAR14
+Saudi Arabia,SA,Al-Jouf,R691,SAR19
+Saudi Arabia,SA,Asir,R692,SAR42
+Saudi Arabia,SA,Eastern,R693,SAR170
+Saudi Arabia,SA,Hail,R694,SAR222
+Saudi Arabia,SA,Jazan,R695,SAR273
+Saudi Arabia,SA,Madinah,R696,SAR350
+Saudi Arabia,SA,Makkah,R697,SAR356
+Saudi Arabia,SA,Najran,R698,SAR399
+Saudi Arabia,SA,Northern,R699,SAR448
+Saudi Arabia,SA,Qasim,R700,SAR513
+Saudi Arabia,SA,Riyadh,R701,SAR576
+Saudi Arabia,SA,Tabuk,R702,SAR662
+Sweden,SE,Commuter municipalities,R703,SER2091
+Sweden,SE,Large cities,R704,SER2049
+Sweden,SE,Metropolitan municipalities,R705,SER198
+Sweden,SE,Other municipalities,R706,SER2070
+Sweden,SE,Suburban municipalities,R707,SER2043
+Slovakia,SK,Banska Bystrica,R708,SKR544
+Slovakia,SK,Bratislava,R709,SKR545
+Slovakia,SK,Kosice,R710,SKR546
+Slovakia,SK,Nitra,R711,SKR547
+Slovakia,SK,Presov,R712,SKR2055
+Slovakia,SK,Trencin,R713,SKR2057
+Slovakia,SK,Zilina,R714,SKR2059
+Slovakia,SK,Trnava,R715,SKR551
+Slovenia,SV,Gorenjska,R716,SVR195
+Slovenia,SV,Goriska,R717,SVR196
+Slovenia,SV,Jugovzhodna Slovenija,R718,SVR286
+Slovenia,SV,Koroska,R719,SVR2041
+Slovenia,SV,Notranjsko-kraska,R720,SVR2051
+Slovenia,SV,Obalno-kraska,R721,SVR2053
+Slovenia,SV,Osrednjeslovenska,R722,SVR481
+Slovenia,SV,Podravska,R723,SVR502
+Slovenia,SV,Pomurska,R724,SVR505
+Slovenia,SV,Savinjska,R725,SVR588
+Slovenia,SV,Spodnjeposavska,R726,SVR638
+Slovenia,SV,Zasavska,R727,SVR752
+Thailand,TH,Central,R728,THR98
+Thailand,TH,Greater Bangkok,R729,THR202
+Thailand,TH,North,R730,THR433
+Thailand,TH,Northeast,R731,THR443
+Thailand,TH,South,R732,THR618
+Turkmenistan,TM,Ahal,R733,TMR7
+Turkmenistan,TM,Ashgabat city,R734,TMR40
+Turkmenistan,TM,Balkan,R735,TMR62
+Turkmenistan,TM,Dashhowuz,R736,TMR152
+Turkmenistan,TM,Lebap,R737,TMR332
+Turkmenistan,TM,Mary,R738,TMR364
+Turkey,TR,Aegean,R739,TRR4
+Turkey,TR,Central Anatolia,R740,TRR100
+Turkey,TR,Central-East Anatolia,R741,TRR107
+Turkey,TR,East Black Sea,R742,TRR167
+Turkey,TR,East Marmara,R743,TRR168
+Turkey,TR,Istanbul,R744,TRR262
+Turkey,TR,Mediterranean,R750,TRR371
+Turkey,TR,North-East Anatolia,R745,TRR445
+Turkey,TR,South-East Anatolia,R746,TRR630
+Turkey,TR,West Anatolia,R747,TRR725
+Turkey,TR,West Black Sea,R748,TRR727
+Turkey,TR,West Marmara,R749,TRR729
+Tunisia,TU,Centre-East,R751,TUR110
+Tunisia,TU,Centre-West,R752,TUR111
+Tunisia,TU,District Tunis,R753,TUR157
+Tunisia,TU,North-East,R754,TUR422
+Tunisia,TU,North-West,R755,TUR425
+Tunisia,TU,South-East,R756,TUR646
+Tunisia,TU,South-West,R757,TUR2073
+Taiwan,TW,Changhua County,R758,TWR117
+Taiwan,TW,Chiayi City,R759,TWR124
+Taiwan,TW,Chiayi County,R760,TWR125
+Taiwan,TW,Hsinchu City,R761,TWR244
+Taiwan,TW,Hsinchu County,R762,TWR245
+Taiwan,TW,Hualien County,R763,TWR246
+Taiwan,TW,Kaohsiung City,R764,TWR298
+Taiwan,TW,Keelung City,R765,TWR305
+Taiwan,TW,Miaoli County,R766,TWR378
+Taiwan,TW,Natou County,R767,TWR403
+Taiwan,TW,Penghu County,R768,TWR495
+Taiwan,TW,Pingtung County,R769,TWR500
+Taiwan,TW,Taichung City,R770,TWR665
+Taiwan,TW,Kinmen county,R771,
+Taiwan,TW,Tainan City,R772,TWR667
+Taiwan,TW,Lienchiang county,R773,
+Taiwan,TW,Taipei City,R774,TWR669
+Taiwan,TW,New Taipei city,R775,TWR670
+Taiwan,TW,Taitung County,R776,TWR671
+Taiwan,TW,Taoyuan County,R777,TWR675
+Taiwan,TW,Yilan County,R778,TWR740
+Taiwan,TW,Yunlin County,R779,TWR745
+UAE,UA,Abu Dhabi,R780,UAR2
+UAE,UA,Ajman,R781,UAR10
+UAE,UA,Dubai,R782,UAR163
+UAE,UA,Fujairah,R783,UAR183
+UAE,UA,Ras Al Khaimah,R784,UAR528
+UAE,UA,Sharjah,R785,UAR601
+UAE,UA,Umm Al Quwain,R786,UAR698
+Ukraine,UK,Autonomous Republic of Crimea,R787,UKR54
+Ukraine,UK,Cherkasy,R788,UKR119
+Ukraine,UK,Chernihiv,R789,UKR120
+Ukraine,UK,Chernivtsi,R790,UKR121
+Ukraine,UK,Dnipropetrovsk,R791,UKR160
+Ukraine,UK,Donetsk,R792,UKR161
+Ukraine,UK,Ivano-Frankivsk,R793,UKR264
+Ukraine,UK,Kharkiv,R794,UKR309
+Ukraine,UK,Kherson,R795,UKR310
+Ukraine,UK,Khmelnytskiy,R796,UKR311
+Ukraine,UK,Kirovohrad,R797,UKR314
+Ukraine,UK,Kyiv city,R798,UKR321
+Ukraine,UK,Kyiv,R799,UKR322
+Ukraine,UK,Luhansk,R800,UKR343
+Ukraine,UK,Lviv,R801,UKR345
+Ukraine,UK,Mykolayiv,R802,UKR397
+Ukraine,UK,Odesa,R803,UKR469
+Ukraine,UK,Poltava,R804,UKR503
+Ukraine,UK,Rivne,R805,UKR575
+Ukraine,UK,Sevastopol city,R806,UKR595
+Ukraine,UK,Sumy,R807,UKR659
+Ukraine,UK,Ternopil,R808,UKR685
+Ukraine,UK,Vinnytsya,R809,UKR714
+Ukraine,UK,Volyn,R810,UKR717
+Ukraine,UK,Zakarpattya,R811,UKR748
+Ukraine,UK,Zaporizhzhya,R812,UKR750
+Ukraine,UK,Zhytomyr,R813,UKR756
+USA,US,Alabama,R814,USR12
+USA,US,Alaska,R815,USR13
+USA,US,Arizona,R816,USR37
+USA,US,Arkansas,R817,USR38
+USA,US,California,R818,USR89
+USA,US,Colorado,R819,USR136
+USA,US,Connecticut,R820,USR138
+USA,US,Delaware,R821,USR153
+USA,US,District of Columbia,R822,USR156
+USA,US,Florida,R823,USR181
+USA,US,Georgia,R824,USR190
+USA,US,Hawaii,R825,USR227
+USA,US,Idaho,R826,USR249
+USA,US,Illinois,R827,USR251
+USA,US,Indiana,R828,USR253
+USA,US,Iowa,R829,USR256
+USA,US,Kansas,R830,USR295
+USA,US,Kentucky,R831,USR307
+USA,US,Louisiana,R832,USR342
+USA,US,Maine,R833,USR355
+USA,US,Maryland,R834,USR365
+USA,US,Massachusetts,R835,USR366
+USA,US,Michigan,R836,USR379
+USA,US,Minnesota,R837,USR384
+USA,US,Mississippi,R838,USR387
+USA,US,Missouri,R839,USR388
+USA,US,Montana,R840,USR391
+USA,US,Nebraska,R841,USR407
+USA,US,Nevada,R842,USR408
+USA,US,New Hampshire,R843,USR410
+USA,US,New Jersey,R844,USR411
+USA,US,New Mexico,R845,USR412
+USA,US,New York,R846,USR414
+USA,US,North Carolina,R847,USR434
+USA,US,North Dakota,R848,USR438
+USA,US,Ohio,R849,USR470
+USA,US,Oklahoma,R850,USR472
+USA,US,Oregon,R851,USR476
+USA,US,Pennsylvania,R852,USR497
+USA,US,Rhode Island,R853,USR571
+USA,US,South Carolina,R854,USR620
+USA,US,South Dakota,R855,USR623
+USA,US,Tennessee,R856,USR684
+USA,US,Texas,R857,USR686
+USA,US,Utah,R858,USR702
+USA,US,Vermont,R859,USR708
+USA,US,Virginia,R860,USR715
+USA,US,Washington,R861,USR722
+USA,US,West Virginia,R862,USR731
+USA,US,Wisconsin,R863,USR737
+USA,US,Wyoming,R864,USR738
+Uruguay,UY,Montevideo,R865,UYR2249
+Uruguay,UY,The Interior,R866,UYR2250
+Uzbekistan,UZ,Andijan,R867,UZR2253
+Uzbekistan,UZ,Bukhara,R868,UZR2254
+Uzbekistan,UZ,Djizak,R869,UZR2255
+Uzbekistan,UZ,Ferghana,R870,UZR2256
+Uzbekistan,UZ,Karakalpakstan,R871,UZR2257
+Uzbekistan,UZ,Kashkadarya,R872,UZR2258
+Uzbekistan,UZ,Khorezm,R873,UZR2259
+Uzbekistan,UZ,Namangan,R874,UZR2260
+Uzbekistan,UZ,Navoiy,R875,UZR2261
+Uzbekistan,UZ,Samarkand,R876,UZR2262
+Uzbekistan,UZ,Surkhandarya,R877,UZR2263
+Uzbekistan,UZ,Syrdarya,R878,UZR2264
+Uzbekistan,UZ,Tashkent,R879,UZR2265
+Venezuela,VE,Andean,R880,VER2088
+Venezuela,VE,Capital,R881,VER94
+Venezuela,VE,Central,R882,VER98
+Venezuela,VE,Central Western,R883,VER106
+Venezuela,VE,Guayana,R884,VER209
+Venezuela,VE,Insular,R885,VER255
+Venezuela,VE,Llanos,R886,VER339
+Venezuela,VE,North Eastern,R887,VER440
+Venezuela,VE,Zulian,R888,VER758
+Vietnam,VN,Central Highland,R889,VNR102
+Vietnam,VN,Mekong River Delta,R890,VNR374
+Vietnam,VN,North Central Coast,R891,VNR436
+Vietnam,VN,North East,R892,VNR439
+Vietnam,VN,North West,R893,VNR442
+Vietnam,VN,Red River Delta,R894,VNR529
+Vietnam,VN,South Central Coast,R895,VNR622
+Vietnam,VN,South East,R896,VNR624
+South Africa,ZA,Eastern Cape,R897,ZAR171
+South Africa,ZA,Free State,R898,ZAR182
+South Africa,ZA,Gauteng,R899,ZAR189
+South Africa,ZA,KwaZulu-Natal,R900,ZAR320
+South Africa,ZA,Limpopo,R901,ZAR337
+South Africa,ZA,Mpumalanga,R902,ZAR395
+South Africa,ZA,North West,R905,ZAR442
+South Africa,ZA,Northern Cape,R903,ZAR450
+South Africa,ZA,Western Cape,R904,ZAR733

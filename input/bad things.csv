@@ -1,0 +1,118 @@
+CountryCode,City,ProductName,Issue,arg
+IN,all,Possession of Mobile Telephone,originals.other.method,
+NG,all,Possession of Mobile Telephone,originals.other.method,
+TH,all,Possession of Mobile Telephone,originals.other.method,
+US,all,Possession of Mobile Telephone,originals.other.method,
+BV,all,Possession of Mobile Telephone,smooth,
+CN,all,Possession of Mobile Telephone,smooth,
+DR,all,Possession of Mobile Telephone,smooth,
+IN,all,Possession of Mobile Telephone,smooth,
+UK,all,Possession of Mobile Telephone,smooth,
+AJ,Baku,Possession of Vacuum Cleaner,originals.other.method,
+AJ,Baku,Possession of Washing Machine,originals.other.method,
+AT,Graz,Possession of Broadband Internet Enabled Computer,originals.other.method,
+AT,Graz,Possession of Internet Enabled Computer,originals.other.method,
+AT,Graz,Possession of Personal Computer,originals.other.method,
+AT,all,Possession of Personal Computer,smooth,
+BV,Tarija,Possession of Personal Computer,originals.other.method,
+BV,Tarija,Possession of Internet Enabled Computer,originals.other.method,
+CH,all,Possession of Broadband Internet Enabled Computer,originals.other.method,
+CH,all,Possession of Internet Enabled Computer,originals.other.method,
+CH,all,Possession of Mobile Telephone,originals.other.method,
+CH,all,Possession of Personal Computer,originals.other.method,
+DR,San Francisco de Macorís,Possession of Motorcycle,smooth,
+DR,Higüey,Possession of Motorcycle,smooth,
+EC,all,Possession of Colour TV Set,originals.other.method,
+EG,Port Said,Possession of Mobile Telephone,originals.other.method,
+ET,Tartu,Possession of Refrigerator,originals.other.method,
+GB,all,Possession of Passenger Car,smooth,
+IT,all,Possession of Personal Computer,originals.other.method,
+IT,Genoa,Possession of Personal Computer,smooth,
+JO,all,Possession of Satellite TV System,originals.other.method,
+JP,all,Possession of Mobile Telephone,originals.other.method,
+LT,Panev?žys,Possession of Microwave Oven,originals.other.method,
+LT,all,Possession of Mobile Telephone,originals.other.method,
+MY,all,Possession of Mobile Telephone,originals.other.method,
+MY,all,Possession of Personal Computer,originals.other.method,
+MY,all,Possession of Internet Enabled Computer,originals.other.method,
+MY,all,Possession of Broadband Internet Enabled Computer,originals.other.method,
+MO,Rabat,Possession of Mobile Telephone,stretch,100
+MO,Casablanca,Possession of Mobile Telephone,stretch,100
+NL,Groningen,Possession of Colour TV Set,originals.other.method,
+NL,Groningen,Possession of Refrigerator,originals.other.method,
+NL,Groningen,Possession of Washing Machine,originals.other.method,
+PH,Bacolod,Possession of Personal Computer,originals.other.method,
+PH,Bacolod,Possession of Telephone,stretch,15
+PU,Cusco,Possession of Colour TV Set,originals.other.method,
+PU,Cusco,Possession of Personal Computer,originals.other.method,
+PU,Cusco,Possession of Hi-Fi Stereo,stretch,60
+RU,all,Possession of Air Conditioner,originals.other.method,
+SK,all,Possession of Personal Computer,originals.other.method,
+SK,all,Possession of Internet Enabled Computer,originals.other.method,
+SK,all,Possession of Broadband Internet Enabled Computer,originals.other.method,
+UK,all,Possession of Telephone,smooth,
+UK,all,Possession of Vacuum Cleaner,smooth,
+UK,Kiev,Possession of Mobile Telephone,stretch,100
+VN,all,Possession of Broadband Internet Enabled Computer,originals.other.method,
+VN,all,Possession of Internet Enabled Computer,originals.other.method,
+VN,all,Possession of Personal Computer,originals.other.method,
+VN,all,Possession of Colour TV Set,originals.other.method,
+VN,Hue,Possession of Telephone,smooth,
+VN,Ho Chi Minh City,Possession of Washing Machine,stretch,64
+IN,Patna,Possession of Refrigerator,stretch,25
+PU,Cusco,Possession of Satellite TV System,stretch,3.5
+CN,all,Possession of Telephone,originals.other.method,
+DE,all,Possession of Personal Computer,originals.other.method,
+IN,all,Possession of Personal Computer,originals.other.method,
+IN,all,Possession of Internet Enabled Computer,originals.other.method,
+IN,all,Possession of Broadband Internet Enabled Computer,originals.other.method,
+RU,all,Possession of DVD Player/Recorder,originals.other.method,
+RU,all,Possession of Personal Computer,originals.other.method,
+AL,Djelfa,Possession of Personal Computer,originals.other.method,
+AL,Sétif,Possession of Personal Computer,originals.other.method,
+HU,Budapest,Possession of Personal Computer,originals.other.method,
+HU,Budapest,Possession of Internet Enabled Computer,originals.other.method,
+HU,Budapest,Possession of Broadband Internet Enabled Computer,originals.other.method,
+HU,Debrecen,Possession of Personal Computer,originals.other.method,
+HU,Budapest,Possession of Colour TV Set,originals.other.method,
+IR,Isfahan,Possession of Personal Computer,originals.other.method,
+MD,all,Possession of Personal Computer,originals.other.method,
+PK,all,Possession of Colour TV Set,originals.other.method,
+PK,all,Possession of Colour TV Set,smooth,
+PK,Quetta,Possession of Passenger Car,originals.other.method,
+RO,Bucharest,Possession of Mobile Telephone,stretch,99
+CN,Henan,Possession of Telephone,total.ratio,2015
+CN,Zhengzhou,Possession of Telephone,total.ratio,2015
+CN,Gansu,Possession of Telephone,total.ratio,2015
+AL,all,Possession of Passenger Car,total.ratio,2009
+PK,all,Possession of Colour TV Set,total.ratio,2009
+IR,Isfahan,Possession of Personal Computer,total.ratio,2010
+BV,Santa Cruz,Possession of Mobile Telephone,smooth,
+BV,Santa Cruz,Possession of Mobile Telephone,stretch,97
+BV,La Paz,Possession of Mobile Telephone,stretch,97
+BV,Sucre,Possession of Mobile Telephone,originals.other.method,
+BV,Potosí,Possession of Mobile Telephone,originals.other.method,
+BV,Cochabamba,Possession of Mobile Telephone,originals.other.method,
+BV,La Paz,Possession of Colour TV Set,stretch,94.8
+BV,Cochabamba,Possession of Colour TV Set,stretch,94.6
+BV,Oruro,Possession of Colour TV Set,stretch,94.4
+BV,Sucre,Possession of Colour TV Set,stretch,94.2
+BV,Potosí,Possession of Colour TV Set,stretch,94
+BV,La Paz,Possession of Colour TV Set,smooth,
+BV,Cochabamba,Possession of Colour TV Set,smooth,
+BV,Oruro,Possession of Colour TV Set,smooth,
+BV,Sucre,Possession of Colour TV Set,smooth,
+BV,Potosí,Possession of Colour TV Set,smooth,
+IT,all,Possession of Broadband Internet Enabled Computer,originals.other.method,
+IT,all,Possession of Internet Enabled Computer,originals.other.method,
+ID,all,Possession of Broadband Internet Enabled Computer,originals.other.method,
+ID,all,Possession of Internet Enabled Computer,originals.other.method,
+ID,all,Possession of Personal Computer,originals.other.method,
+ID,all,Possession of Mobile Telephone,originals.other.method,
+AL,Djelfa,Possession of Broadband Internet Enabled Computer,originals.other.method,
+AL,Sétif,Possession of Broadband Internet Enabled Computer,originals.other.method,
+AL,Djelfa,Possession of Internet Enabled Computer,originals.other.method,
+AL,Sétif,Possession of Internet Enabled Computer,originals.other.method,
+NG,all,Possession of Colour TV Set,originals.other.method,
+EC,,TV,dont.make.fakes,
+CO,all,Possession of Mobile Telephone,total.ratio,2008

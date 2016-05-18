@@ -1,0 +1,14 @@
+groups,variable
+Food and Non-alcoholic Beverages,g01
+Alcoholic Beverages and Tobacco,g02
+Clothing and Footwear,g03
+Housing,g04
+Household Goods and Services,g05
+Health Goods and Medical Services,g06
+Transport,g07
+Communications,g08
+Leisure and Recreation,g09
+Education,g10
+Hotels and Catering,g11
+Miscellaneous Goods and Services,g12
+Total Consumer Expenditure,CE_pHHUSD
