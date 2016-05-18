@@ -1,0 +1,206 @@
+  [1] City changed because of Region: IN40; because of R371; Possession of Colour TV Set; 1.26238920533501; 1.17828614046839; 76.57219936; 70.3056562608005; 64.57219936             
+  [2] City changed because of Region: IN50; because of R380; Possession of Colour TV Set; 1.15292376280705; 1.10387367197007; 78.57219936; 79.1111603148304; 64.57219936             
+  [3] City changed because of Region: IN39; because of R385; Possession of Air Conditioner; 1.54082942278093; 3.08521450335685; 6.04908339; 16.9352063033075; 12.04908339            
+  [4] City changed because of Region: IN58; because of R385; Possession of Air Conditioner; 0.669412541567295; 0.455777338141208; 6.04908339; 16.9352063033075; 12.04908339          
+  [5] City changed because of Region: IN34; because of R386; Possession of Air Conditioner; 3.13618683824587; 2.43165423933706; 23.04908339; 5.71285500479827; 12.04908339           
+  [6] City changed because of Region: IN37; because of R386; Possession of Air Conditioner; 2.60585833384885; 2.3501686302446; 23.04908339; 5.71285500479827; 12.04908339            
+  [7] City changed because of Region: IN47; because of R386; Possession of Air Conditioner; 1.94156509126339; 1.63407693972399; 23.04908339; 5.71285500479827; 12.04908339           
+  [8] City changed because of Region: IN32; because of R387; Possession of Air Conditioner; 1.15621164121874; 1.20906959432302; 17.04908339; 18.2053971922629; 12.04908339           
+  [9] City changed because of Region: IN45; because of R387; Possession of Air Conditioner; 0.968475005355418; 0.693498006336951; 17.04908339; 18.2053971922629; 12.04908339         
+ [10] City changed because of Region: IN27; because of R387; Possession of Air Conditioner; 1.874831882125; 2.0814934173564; 17.04908339; 18.2053971922629; 12.04908339              
+ [11] City changed because of Region: IN20; because of R387; Possession of Air Conditioner; 1.91711134570547; 2.27899664602189; 17.04908339; 18.2053971922629; 12.04908339           
+ [12] City changed because of Region: IN53; because of R393; Possession of Air Conditioner; 0.88202680092827; 0.771557253046691; 43.04908339; 15.8639411663858; 12.04908339          
+ [13] City changed because of Region: IN46; because of R383; Possession of Colour TV Set; 1.35134509373903; 1.30212382490919; 45.57219936; 54.6803197894194; 64.57219936             
+ [14] City changed because of Region: IN38; because of R393; Possession of Air Conditioner; 1.29148009352687; 1.14752506894637; 43.04908339; 15.8639411663858; 12.04908339           
+ [15] City changed because of Region: IN30; because of R394; Possession of Air Conditioner; 1.805359720791; 1.67777289217117; 27.04908339; 9.59230832204728; 12.04908339             
+ [16] City changed because of Region: IN36; because of R396; Possession of Air Conditioner; 0.906701957562182; 0.66688413903216; 5.04908339; 17.5820916191346; 12.04908339           
+ [17] City changed because of Region: IN43; because of R396; Possession of Air Conditioner; 1.01003876700237; 1.07965883396674; 5.04908339; 17.5820916191346; 12.04908339            
+ [18] City changed because of Region: IN24; because of R396; Possession of Air Conditioner; 0.99995831776344; 1.36516839109862; 5.04908339; 17.5820916191346; 12.04908339            
+ [19] City changed because of Region: IN31; because of R398; Possession of Air Conditioner; 2.1752055334906; 2.75227935289346; 13.04908339; 4.72266669160792; 12.04908339            
+ [20] City changed because of Region: IN29; because of R398; Possession of Air Conditioner; 1.76727679287239; 2.49576901459306; 13.04908339; 4.72266669160792; 12.04908339           
+ [21] City changed because of Region: IN44; because of R398; Possession of Air Conditioner; 2.02780371166592; 2.68465277067254; 13.04908339; 4.72266669160792; 12.04908339           
+ [22] City changed because of Region: IN41; because of R398; Possession of Air Conditioner; 1.36460872270794; 1.952457175642; 13.04908339; 4.72266669160792; 12.04908339             
+ [23] City changed because of Region: IN55; because of R398; Possession of Air Conditioner; 1.62791733019308; 2.54902804642695; 13.04908339; 4.72266669160792; 12.04908339           
+ [24] City changed because of Region: IN49; because of R383; Possession of Colour TV Set; 1.26454421785868; 1.37428171994075; 45.57219936; 54.6803197894194; 64.57219936             
+ [25] City changed because of Region: IN51; because of R398; Possession of Air Conditioner; 0.909815559761277; 0.824816741502333; 13.04908339; 4.72266669160792; 12.04908339         
+ [26] City changed because of Region: IN42; because of R398; Possession of Air Conditioner; 0.945169515418572; 0.618312543158541; 13.04908339; 4.72266669160792; 12.04908339         
+ [27] City changed because of Region: IN23; because of R400; Possession of Air Conditioner; 1.55783719678193; 1.34769719664072; 3.04908339; 9.40313802525594; 12.04908339            
+ [28] City changed because of Region: IN48; because of R400; Possession of Air Conditioner; 1.4290448135995; 1.14823730350335; 3.04908339; 9.40313802525594; 12.04908339             
+ [29] City changed because of Region: IN40; because of R371; Possession of Satellite TV System; 1.21132415582236; 1.05767964060464; 25.3827511675424; 23.3200741816932; 21.60755723  
+ [30] City changed because of Region: IN52; because of R371; Possession of Satellite TV System; 1.13536227241664; 1.03273912890182; 25.3827511675424; 23.3200741816932; 21.60755723  
+ [31] City changed because of Region: IN25; because of R371; Possession of Satellite TV System; 1.170004221826; 1.06322639750046; 25.3827511675424; 23.3200741816932; 21.60755723    
+ [32] City changed because of Region: IN33; because of R374; Possession of Satellite TV System; 1.586407017269; 2.0005701533019; 12.6368351353156; 15.6304636371806; 21.60755723     
+ [33] City changed because of Region: IN21; because of R376; Possession of Satellite TV System; 1.00054266093175; 1; 24.3150158753992; 28.2079271853883; 21.60755723                 
+ [34] City changed because of Region: IN54; because of R379; Possession of Satellite TV System; 1.28764447351516; 1.22086762319688; 22.4788345981546; 23.377355802474; 21.60755723   
+ [35] City changed because of Region: IN22; because of R384; Possession of Colour TV Set; 1.43024660727127; 1.26193714643762; 73.57219936; 61.0749093341421; 64.57219936             
+ [36] City changed because of Region: IN35; because of R379; Possession of Satellite TV System; 1.27268137499291; 1.22086762318305; 22.4788345981546; 23.377355802474; 21.60755723   
+ [37] City changed because of Region: IN26; because of R379; Possession of Satellite TV System; 1.25088914304277; 1.19888323232669; 22.4788345981546; 23.377355802474; 21.60755723   
+ [38] City changed because of Region: IN28; because of R379; Possession of Satellite TV System; 1.28918120112218; 1.22086762316763; 22.4788345981546; 23.377355802474; 21.60755723   
+ [39] City changed because of Region: IN50; because of R380; Possession of Satellite TV System; 1.13004926736516; 1.044594627589; 25.0400427253715; 25.2932767031157; 21.60755723    
+ [40] City changed because of Region: IN46; because of R383; Possession of Satellite TV System; 1.31680842542934; 1.30129887321755; 15.8293877452848; 18.9190397077458; 21.60755723  
+ [41] City changed because of Region: IN49; because of R383; Possession of Satellite TV System; 1.23004969196321; 1.33879984009699; 15.8293877452848; 18.9190397077458; 21.60755723  
+ [42] City changed because of Region: IN22; because of R384; Possession of Satellite TV System; 1.37891870108137; 1.12455202733283; 25.1188481287933; 20.8235545546363; 21.60755723  
+ [43] City changed because of Region: IN56; because of R385; Possession of Satellite TV System; 1.03783089099562; 0.990523958143063; 26.6648862955892; 24.3648816226266; 21.60755723 
+ [44] City changed because of Region: IN60; because of R385; Possession of Satellite TV System; 1.041899664565; 0.997279184495845; 26.6648862955892; 24.3648816226266; 21.60755723   
+ [45] City changed because of Region: IN57; because of R385; Possession of Satellite TV System; 0.990074268797917; 1.00549799848711; 26.6648862955892; 24.3648816226266; 21.60755723 
+ [46] City changed because of Region: IN56; because of R385; Possession of Colour TV Set; 1.03361631783187; 0.975939654169911; 82.57219936; 75.2816506519409; 64.57219936            
+ [47] City changed because of Region: IN59; because of R385; Possession of Satellite TV System; 1.00815313510253; 1.00705347444269; 26.6648862955892; 24.3648816226266; 21.60755723  
+ [48] City changed because of Region: IN39; because of R385; Possession of Satellite TV System; 1.0986287110621; 1.02722536122727; 26.6648862955892; 24.3648816226266; 21.60755723   
+ [49] City changed because of Region: IN58; because of R385; Possession of Satellite TV System; 0.960984702402042; 0.904569373444803; 26.6648862955892; 24.3648816226266; 21.60755723
+ [50] City changed because of Region: IN34; because of R386; Possession of Satellite TV System; 1.44038882093525; 1.24712274463621; 20.4513144138554; 18.2997396416989; 21.60755723  
+ [51] City changed because of Region: IN37; because of R386; Possession of Satellite TV System; 1.31647711856709; 1.23905372223843; 20.4513144138554; 18.2997396416989; 21.60755723  
+ [52] City changed because of Region: IN47; because of R386; Possession of Satellite TV System; 1.40785422058461; 1.13069163062629; 20.4513144138554; 18.2997396416989; 21.60755723  
+ [53] City changed because of Region: IN32; because of R387; Possession of Satellite TV System; 1.13464699977497; 1.01987495905589; 23.5338863156147; 24.4113774908957; 21.60755723  
+ [54] City changed because of Region: IN45; because of R387; Possession of Satellite TV System; 0.988696344421624; 0.962806466167386; 23.5338863156147; 24.4113774908957; 21.60755723
+ [55] City changed because of Region: IN27; because of R387; Possession of Satellite TV System; 1.17057670068257; 1.10101125627686; 23.5338863156147; 24.4113774908957; 21.60755723  
+ [56] City changed because of Region: IN20; because of R387; Possession of Satellite TV System; 1.17647463806891; 1.12104100994264; 23.5338863156147; 24.4113774908957; 21.60755723  
+ [57] City changed because of Region: IN60; because of R385; Possession of Colour TV Set; 1.04870556787961; 0.995026115425645; 82.57219936; 75.2816506519409; 64.57219936            
+ [58] City changed because of Region: IN53; because of R393; Possession of Satellite TV System; 1.00840452605269; 0.959771247449823; 26.9150868050309; 24.0967627211732; 21.60755723 
+ [59] City changed because of Region: IN38; because of R393; Possession of Satellite TV System; 1.09629225813651; 1.00840681481485; 26.9150868050309; 24.0967627211732; 21.60755723  
+ [60] City changed because of Region: IN30; because of R394; Possession of Satellite TV System; 1.11867506638764; 1.23348977072067; 18.257293501932; 21.3811372493435; 21.60755723   
+ [61] City changed because of Region: IN36; because of R396; Possession of Satellite TV System; 1.02160874803204; 0.982396466391641; 27.7400648049791; 24.5146157361395; 21.60755723 
+ [62] City changed because of Region: IN43; because of R396; Possession of Satellite TV System; 1.00140262822584; 1.00238446441011; 27.7400648049791; 24.5146157361395; 21.60755723  
+ [63] City changed because of Region: IN24; because of R396; Possession of Satellite TV System; 1.03334212711266; 1.01093075292358; 27.7400648049791; 24.5146157361395; 21.60755723  
+ [64] City changed because of Region: IN31; because of R398; Possession of Satellite TV System; 1.35729101698993; 1.38625005804603; 15.2446312849504; 17.1976703866006; 21.60755723  
+ [65] City changed because of Region: IN29; because of R398; Possession of Satellite TV System; 1.20888869939932; 1.34340985174437; 15.2446312849504; 17.1976703866006; 21.60755723  
+ [66] City changed because of Region: IN44; because of R398; Possession of Satellite TV System; 1.40103446897445; 1.37495563321693; 15.2446312849504; 17.1976703866006; 21.60755723  
+ [67] City changed because of Region: IN41; because of R398; Possession of Satellite TV System; 1.2586207944967; 1.22554969299757; 15.2446312849504; 17.1976703866006; 21.60755723   
+ [68] City changed because of Region: IN57; because of R385; Possession of Colour TV Set; 0.994256710871875; 1.01333976163511; 82.57219936; 75.2816506519409; 64.57219936            
+ [69] City changed because of Region: IN55; because of R398; Possession of Satellite TV System; 1.31912429391746; 1.35230472875521; 15.2446312849504; 17.1976703866006; 21.60755723  
+ [70] City changed because of Region: IN51; because of R398; Possession of Satellite TV System; 0.968648418585944; 0.940741002565286; 15.2446312849504; 17.1976703866006; 21.60755723
+ [71] City changed because of Region: IN42; because of R398; Possession of Satellite TV System; 1.16764033268764; 0.869460602582403; 15.2446312849504; 17.1976703866006; 21.60755723 
+ [72] City changed because of Region: IN23; because of R400; Possession of Satellite TV System; 1.17129678280128; 1.11283145611073; 19.0379624102425; 21.0374252779781; 21.60755723  
+ [73] City changed because of Region: IN48; because of R400; Possession of Satellite TV System; 1.10547043944482; 1.05839168702123; 19.0379624102425; 21.0374252779781; 21.60755723  
+ [74] City changed because of Region: IN40; because of R371; Possession of Cable TV; 1.13643581016818; NA; 37.0044268510312; 34.0264346004694; 31.9044553                            
+ [75] City changed because of Region: IN52; because of R371; Possession of Cable TV; 1.10152767713846; NA; 37.0044268510312; 34.0264346004694; 31.9044553                            
+ [76] City changed because of Region: IN25; because of R371; Possession of Cable TV; 1.10636740197764; NA; 37.0044268510312; 34.0264346004694; 31.9044553                            
+ [77] City changed because of Region: IN33; because of R374; Possession of Cable TV; 1.40974665114206; 1.68165499487931; 20.0154185372797; 24.5461437823396; 31.9044553              
+ [78] City changed because of Region: IN21; because of R376; Possession of Cable TV; 1.00066759891133; 1; 32.0411753040663; 37.4823945208691; 31.9044553                             
+ [79] City changed because of Region: IN59; because of R385; Possession of Colour TV Set; 1.01079558096432; 1.02463084292564; 82.57219936; 75.2816506519409; 64.57219936             
+ [80] City changed because of Region: IN54; because of R379; Possession of Cable TV; 1.15623040904916; 1.09298547647466; 32.2516005543798; 33.6137882824306; 31.9044553              
+ [81] City changed because of Region: IN35; because of R379; Possession of Cable TV; 1.14413024280647; 1.09298547647425; 32.2516005543798; 33.6137882824306; 31.9044553              
+ [82] City changed because of Region: IN26; because of R379; Possession of Cable TV; 1.14580692400708; 1.09234592491559; 32.2516005543798; 33.6137882824306; 31.9044553              
+ [83] City changed because of Region: IN28; because of R379; Possession of Cable TV; 1.155746945972; 1.0929854764738; 32.2516005543798; 33.6137882824306; 31.9044553                 
+ [84] City changed because of Region: IN50; because of R380; Possession of Cable TV; 1.08113860453606; 1.00920917825947; 34.9113879114039; 35.4052655554696; 31.9044553              
+ [85] City changed because of Region: IN46; because of R383; Possession of Cable TV; 1.25678050382434; 1.30744135656096; 24.0945441448078; 28.7086305949079; 31.9044553              
+ [86] City changed because of Region: IN49; because of R383; Possession of Cable TV; 1.17347509719675; 1.35261679304221; 24.0945441448078; 28.7086305949079; 31.9044553              
+ [87] City changed because of Region: IN22; because of R384; Possession of Cable TV; 1.25450034976772; NA; 37.4083129922075; 30.9936866393785; 31.9044553                            
+ [88] City changed because of Region: IN56; because of R385; Possession of Cable TV; 1.04753949596007; NA; 38.0363077912175; 34.8332713634504; 31.9044553                            
+ [89] City changed because of Region: IN60; because of R385; Possession of Cable TV; 1.03079249814726; NA; 38.0363077912175; 34.8332713634504; 31.9044553                            
+ [90] City changed because of Region: IN39; because of R385; Possession of Colour TV Set; 1.11799789223415; 1.11588004515719; 82.57219936; 75.2816506519409; 64.57219936             
+ [91] City changed because of Region: IN57; because of R385; Possession of Cable TV; 0.980835233643749; NA; 38.0363077912175; 34.8332713634504; 31.9044553                           
+ [92] City changed because of Region: IN59; because of R385; Possession of Cable TV; 0.999864412288204; NA; 38.0363077912175; 34.8332713634504; 31.9044553                           
+ [93] City changed because of Region: IN39; because of R385; Possession of Cable TV; 1.05563610062357; NA; 38.0363077912175; 34.8332713634504; 31.9044553                            
+ [94] City changed because of Region: IN58; because of R385; Possession of Cable TV; 0.985612779478236; NA; 38.0363077912175; 34.8332713634504; 31.9044553                           
+ [95] City changed because of Region: IN34; because of R386; Possession of Cable TV; 1.31479349819013; 1.09850434321356; 31.7782648297025; 28.3196483176458; 31.9044553              
+ [96] City changed because of Region: IN37; because of R386; Possession of Cable TV; 1.22912457268812; 1.09730613578077; 31.7782648297025; 28.3196483176458; 31.9044553              
+ [97] City changed because of Region: IN47; because of R386; Possession of Cable TV; 1.32489252928288; 1.07446587890219; 31.7782648297025; 28.3196483176458; 31.9044553              
+ [98] City changed because of Region: IN32; because of R387; Possession of Cable TV; 1.10373275325751; 1.00873642642016; 33.4092341222482; 34.7544929860164; 31.9044553              
+ [99] City changed because of Region: IN45; because of R387; Possession of Cable TV; 0.992274698976644; 0.948467283172244; 33.4092341222482; 34.7544929860164; 31.9044553            
+[100] City changed because of Region: IN27; because of R387; Possession of Cable TV; 1.09871817257996; 1.03692347108853; 33.4092341222482; 34.7544929860164; 31.9044553              
+[101] City changed because of Region: IN58; because of R385; Possession of Colour TV Set; 0.954142972943211; 0.768302022304108; 82.57219936; 75.2816506519409; 64.57219936           
+[102] City changed because of Region: IN20; because of R387; Possession of Cable TV; 1.10176389219119; 1.04159910196351; 33.4092341222482; 34.7544929860164; 31.9044553              
+[103] City changed because of Region: IN53; because of R393; Possession of Cable TV; 1.01204111312898; NA; 38.6459726521511; 34.661276356931; 31.9044553                             
+[104] City changed because of Region: IN38; because of R393; Possession of Cable TV; 1.0668907191685; NA; 38.6459726521511; 34.661276356931; 31.9044553                              
+[105] City changed because of Region: IN30; because of R394; Possession of Cable TV; 1.06796039201338; 1.22177861483469; 27.4075213078351; 32.0493100236854; 31.9044553              
+[106] City changed because of Region: IN36; because of R396; Possession of Cable TV; 1.02564449796799; NA; 39.4979761949212; 34.9847497189797; 31.9044553                            
+[107] City changed because of Region: IN43; because of R396; Possession of Cable TV; 1.00051626236337; NA; 39.4979761949212; 34.9847497189797; 31.9044553                            
+[108] City changed because of Region: IN24; because of R396; Possession of Cable TV; 1.03268500134441; NA; 39.4979761949212; 34.9847497189797; 31.9044553                            
+[109] City changed because of Region: IN31; because of R398; Possession of Cable TV; 1.29149313263863; 1.36876004217721; 23.8627108347204; 26.7573023557851; 31.9044553              
+[110] City changed because of Region: IN29; because of R398; Possession of Cable TV; 1.17245733326638; 1.33141122145477; 23.8627108347204; 26.7573023557851; 31.9044553              
+[111] City changed because of Region: IN44; because of R398; Possession of Cable TV; 1.34221892334998; 1.36536121311283; 23.8627108347204; 26.7573023557851; 31.9044553              
+[112] City changed because of Region: IN52; because of R371; Possession of Colour TV Set; 1.15036914630024; 1.09267504210635; 76.57219936; 70.3056562608005; 64.57219936             
+[113] City changed because of Region: IN34; because of R386; Possession of Colour TV Set; 1.51753308630304; 1.50501291899476; 57.57219936; 51.7740408083394; 64.57219936             
+[114] City changed because of Region: IN41; because of R398; Possession of Cable TV; 1.25025518246426; 1.23202805744969; 23.8627108347204; 26.7573023557851; 31.9044553              
+[115] City changed because of Region: IN55; because of R398; Possession of Cable TV; 1.28450422561988; 1.3433825644636; 23.8627108347204; 26.7573023557851; 31.9044553               
+[116] City changed because of Region: IN51; because of R398; Possession of Cable TV; 0.972182012250378; 0.937967189223209; 23.8627108347204; 26.7573023557851; 31.9044553            
+[117] City changed because of Region: IN42; because of R398; Possession of Cable TV; 1.17723902280362; 0.864843558744306; 23.8627108347204; 26.7573023557851; 31.9044553             
+[118] City changed because of Region: IN23; because of R400; Possession of Cable TV; 1.12658008027088; 1.12495131335494; 28.6354627895747; 31.5923652393079; 31.9044553              
+[119] City changed because of Region: IN48; because of R400; Possession of Cable TV; 1.07008890312654; 1.07428861491514; 28.6354627895747; 31.5923652393079; 31.9044553              
+[120] City changed because of Region: IN37; because of R386; Possession of Colour TV Set; 1.35945073695839; 1.48341076257553; 57.57219936; 51.7740408083394; 64.57219936             
+[121] City changed because of Region: IN47; because of R386; Possession of Colour TV Set; 1.45098192103706; 1.23930163043183; 57.57219936; 51.7740408083394; 64.57219936             
+[122] City changed because of Region: IN32; because of R387; Possession of Colour TV Set; 1.15555688101119; 1.03854728915032; 72.57219936; 75.1114233278399; 64.57219936             
+[123] City changed because of Region: IN45; because of R387; Possession of Colour TV Set; 0.991532100297931; 0.92731111521941; 72.57219936; 75.1114233278399; 64.57219936            
+[124] City changed because of Region: IN27; because of R387; Possession of Colour TV Set; 1.20463207523932; 1.21704552990309; 72.57219936; 75.1114233278399; 64.57219936             
+[125] City changed because of Region: IN20; because of R387; Possession of Colour TV Set; 1.20867500713842; 1.2561098824634; 72.57219936; 75.1114233278399; 64.57219936              
+[126] City changed because of Region: IN53; because of R393; Possession of Colour TV Set; 1.01434939260779; 0.864158434612682; 82.57219936; 73.8048687197891; 64.57219936            
+[127] City changed because of Region: IN38; because of R393; Possession of Colour TV Set; 1.11701122117897; 1.05640014418485; 82.57219936; 73.8048687197891; 64.57219936             
+[128] City changed because of Region: IN30; because of R394; Possession of Colour TV Set; 1.14126345581872; 1.33859987993418; 53.57219936; 62.8431598098667; 64.57219936             
+[129] City changed because of Region: IN25; because of R371; Possession of Colour TV Set; 1.19609489105226; 1.19588346072789; 76.57219936; 70.3056562608005; 64.57219936             
+[130] City changed because of Region: IN36; because of R396; Possession of Colour TV Set; 1.02343678137011; 0.886271673465633; 85.57219936; 75.4771834669164; 64.57219936            
+[131] City changed because of Region: IN43; because of R396; Possession of Colour TV Set; 1.00340814927844; 1.01170310433033; 85.57219936; 75.4771834669164; 64.57219936             
+[132] City changed because of Region: IN24; because of R396; Possession of Colour TV Set; 1.03474083517238; 1.05364883674986; 85.57219936; 75.4771834669164; 64.57219936             
+[133] City changed because of Region: IN31; because of R398; Possession of Colour TV Set; 1.40808746558671; 1.43493897916692; 42.57219936; 48.3847507297544; 64.57219936             
+[134] City changed because of Region: IN29; because of R398; Possession of Colour TV Set; 1.23187073144109; 1.35102997882339; 42.57219936; 48.3847507297544; 64.57219936             
+[135] City changed because of Region: IN44; because of R398; Possession of Colour TV Set; 1.43619702997208; 1.4128171459948; 42.57219936; 48.3847507297544; 64.57219936              
+[136] City changed because of Region: IN41; because of R398; Possession of Colour TV Set; 1.26653225313593; 1.21129541465295; 42.57219936; 48.3847507297544; 64.57219936             
+[137] City changed because of Region: IN55; because of R398; Possession of Colour TV Set; 1.35925660621224; 1.36845193596577; 42.57219936; 48.3847507297544; 64.57219936             
+[138] City changed because of Region: IN51; because of R398; Possession of Colour TV Set; 0.968027164361969; 0.944056477442853; 42.57219936; 48.3847507297544; 64.57219936           
+[139] City changed because of Region: IN42; because of R398; Possession of Colour TV Set; 1.16258782551111; 0.874382971851268; 42.57219936; 48.3847507297544; 64.57219936            
+[140] City changed because of Region: IN33; because of R374; Possession of Colour TV Set; 1.69382472548933; 2.46166145860143; 34.57219936; 43.2583789808506; 64.57219936             
+[141] City changed because of Region: IN23; because of R400; Possession of Colour TV Set; 1.19843222052748; 1.13896659843921; 55.57219936; 61.5358071029624; 64.57219936             
+[142] City changed because of Region: IN48; because of R400; Possession of Colour TV Set; 1.12938418878866; 1.06295089335115; 55.57219936; 61.5358071029624; 64.57219936             
+[143] City changed because of Region: IN40; because of R371; Possession of Refrigerator; 1.68161752747171; 1.74199501109357; 16.46851622; 24.6759800160774; 21.46851622              
+[144] City changed because of Region: IN52; because of R371; Possession of Refrigerator; 1.32307536121165; 1.36719337649099; 16.46851622; 24.6759800160774; 21.46851622              
+[145] City changed because of Region: IN25; because of R371; Possession of Refrigerator; 1.58732117829235; 1.94231670458076; 16.46851622; 24.6759800160774; 21.46851622              
+[146] City changed because of Region: IN33; because of R374; Possession of Refrigerator; 4.00609556974002; 8.83597291201799; -1.53148378; 7.92491142014013; 21.46851622              
+[147] City changed because of Region: IN21; because of R376; Possession of Refrigerator; 0.999257779346581; 1; 57.46851622; 50.2554408577518; 21.46851622                            
+[148] City changed because of Region: IN54; because of R379; Possession of Refrigerator; 2.10029772637336; 2.05976876306185; 30.46851622; 27.4219119610598; 21.46851622              
+[149] City changed because of Region: IN35; because of R379; Possession of Refrigerator; 2.07959823304628; 2.0597687628976; 30.46851622; 27.4219119610598; 21.46851622               
+[150] City changed because of Region: IN26; because of R379; Possession of Refrigerator; 1.89616550761497; 1.7987270219103; 30.46851622; 27.4219119610598; 21.46851622               
+[151] City changed because of Region: IN21; because of R376; Possession of Colour TV Set; 1.00064155144259; 1; 79.57219936; 91.754858592446; 64.57219936                             
+[152] City changed because of Region: IN28; because of R379; Possession of Refrigerator; 2.12472024587614; 2.05976876271451; 30.46851622; 27.4219119610598; 21.46851622              
+[153] City changed because of Region: IN50; because of R380; Possession of Refrigerator; 1.40723891220613; 1.11301532640751; 50.46851622; 34.730116429; 21.46851622                  
+[154] City changed because of Region: IN46; because of R383; Possession of Refrigerator; 1.80027419729943; 2.16855935856293; 3.46851622; 14.5723984654574; 21.46851622               
+[155] City changed because of Region: IN49; because of R383; Possession of Refrigerator; 1.72543358867261; 2.54632581667414; 3.46851622; 14.5723984654574; 21.46851622               
+[156] City changed because of Region: IN22; because of R384; Possession of Refrigerator; 2.29078115256523; 2.8185668294052; 13.46851622; 19.0643302218478; 21.46851622               
+[157] City changed because of Region: IN56; because of R385; Possession of Refrigerator; 0.956328481173096; 0.980184443164654; 46.46851622; 29.5794691966307; 21.46851622            
+[158] City changed because of Region: IN60; because of R385; Possession of Refrigerator; 1.10320564502258; 0.994310443635113; 46.46851622; 29.5794691966307; 21.46851622             
+[159] City changed because of Region: IN57; because of R385; Possession of Refrigerator; 1.053274183134; 1.01525916506154; 46.46851622; 29.5794691966307; 21.46851622                
+[160] City changed because of Region: IN59; because of R385; Possession of Refrigerator; 1.06098414028904; 1.02817487359128; 46.46851622; 29.5794691966307; 21.46851622              
+[161] City changed because of Region: IN39; because of R385; Possession of Refrigerator; 1.36735601866721; 1.19566972252753; 46.46851622; 29.5794691966307; 21.46851622              
+[162] City changed because of Region: IN54; because of R379; Possession of Colour TV Set; 1.31695438898124; 1.34875598719362; 68.57219936; 71.2046025117639; 64.57219936             
+[163] City changed because of Region: IN58; because of R385; Possession of Refrigerator; 0.813139604029624; 0.717820028094693; 46.46851622; 29.5794691966307; 21.46851622            
+[164] City changed because of Region: IN34; because of R386; Possession of Refrigerator; 2.67295234844406; 2.64329900751146; 11.46851622; 12.0492216196881; 21.46851622              
+[165] City changed because of Region: IN37; because of R386; Possession of Refrigerator; 2.16497400064947; 2.60584461910625; 11.46851622; 12.0492216196881; 21.46851622              
+[166] City changed because of Region: IN47; because of R386; Possession of Refrigerator; 2.08120486907196; 1.8699578177561; 11.46851622; 12.0492216196881; 21.46851622               
+[167] City changed because of Region: IN32; because of R387; Possession of Refrigerator; 1.24985470072465; 1.09463038965738; 26.46851622; 30.3029046702586; 21.46851622              
+[168] City changed because of Region: IN45; because of R387; Possession of Refrigerator; 0.972962038932821; 0.808335318691319; 26.46851622; 30.3029046702586; 21.46851622            
+[169] City changed because of Region: IN27; because of R387; Possession of Refrigerator; 1.62527873861417; 1.48282498024045; 26.46851622; 30.3029046702586; 21.46851622              
+[170] City changed because of Region: IN20; because of R387; Possession of Refrigerator; 1.63458531398087; 1.53939961704742; 26.46851622; 30.3029046702586; 21.46851622              
+[171] City changed because of Region: IN53; because of R393; Possession of Refrigerator; 0.982638642453324; NA; 64.46851622; 28.0457043464439; 21.46851622                           
+[172] City changed because of Region: IN38; because of R393; Possession of Refrigerator; 1.27063587239586; NA; 64.46851622; 28.0457043464439; 21.46851622                            
+[173] City changed because of Region: IN35; because of R379; Possession of Colour TV Set; 1.29696038781815; 1.3487559871865; 68.57219936; 71.2046025117639; 64.57219936              
+[174] City changed because of Region: IN30; because of R394; Possession of Refrigerator; 1.52001519201123; 1.75759427800574; 20.46851622; 18.9158992762835; 21.46851622              
+[175] City changed because of Region: IN36; because of R396; Possession of Refrigerator; 0.990718188140863; 0.625105555895285; 21.46851622; 29.9677269001923; 21.46851622            
+[176] City changed because of Region: IN43; because of R396; Possession of Refrigerator; 1.01175423394723; 1.05225542907868; 21.46851622; 29.9677269001923; 21.46851622              
+[177] City changed because of Region: IN24; because of R396; Possession of Refrigerator; 1.02428467572852; 1.22191420790015; 21.46851622; 29.9677269001923; 21.46851622              
+[178] City changed because of Region: IN31; because of R398; Possession of Refrigerator; 2.11006381246133; 2.37502737979597; 9.46851622; 10.4742569645486; 21.46851622               
+[179] City changed because of Region: IN29; because of R398; Possession of Refrigerator; 1.64047927345976; 2.09498306835787; 9.46851622; 10.4742569645486; 21.46851622               
+[180] City changed because of Region: IN44; because of R398; Possession of Refrigerator; 2.04534782836256; 2.30119628285675; 9.46851622; 10.4742569645486; 21.46851622               
+[181] City changed because of Region: IN41; because of R398; Possession of Refrigerator; 1.44288089040998; 1.61449458580872; 9.46851622; 10.4742569645486; 21.46851622               
+[182] City changed because of Region: IN55; because of R398; Possession of Refrigerator; 1.70978923738926; 2.15312843979438; 9.46851622; 10.4742569645486; 21.46851622               
+[183] City changed because of Region: IN51; because of R398; Possession of Refrigerator; 0.925540759670973; 0.861744704149699; 9.46851622; 10.4742569645486; 21.46851622             
+[184] City changed because of Region: IN26; because of R379; Possession of Colour TV Set; 1.28038214808825; 1.33744706738446; 68.57219936; 71.2046025117639; 64.57219936             
+[185] City changed because of Region: IN42; because of R398; Possession of Refrigerator; 1.14206950754542; 0.729931709189656; 9.46851622; 10.4742569645486; 21.46851622              
+[186] City changed because of Region: IN23; because of R400; Possession of Refrigerator; 1.50003676513096; 1.47813289190197; 13.46851622; 18.2705983249523; 21.46851622              
+[187] City changed because of Region: IN48; because of R400; Possession of Refrigerator; 1.37418293639202; 1.2100243293595; 13.46851622; 18.2705983249523; 21.46851622               
+[188] City changed because of Region: IN40; because of R371; Possession of Air Conditioner; 1.75338189390004; 2.06490984747888; 16.04908339; 13.4278437854988; 12.04908339           
+[189] City changed because of Region: IN52; because of R371; Possession of Air Conditioner; 1.32281569375516; 1.58549433758932; 16.04908339; 13.4278437854988; 12.04908339           
+[190] City changed because of Region: IN25; because of R371; Possession of Air Conditioner; 1.81001589037363; 2.25462546911746; 16.04908339; 13.4278437854988; 12.04908339           
+[191] City changed because of Region: IN33; because of R374; Possession of Air Conditioner; 6.1773789295425; 22.8912620266827; 2.04908339; 3.36104413046161; 12.04908339             
+[192] City changed because of Region: IN21; because of R376; Possession of Air Conditioner; 0.996767235258959; 1; 52.04908339; 36.1979137552127; 12.04908339                         
+[193] City changed because of Region: IN54; because of R379; Possession of Air Conditioner; 2.81398898041483; 11.4639533285435; 4.04908339; 16.3087848874844; 12.04908339            
+[194] City changed because of Region: IN35; because of R379; Possession of Air Conditioner; 2.88294528158411; 11.4639533270152; 4.04908339; 16.3087848874844; 12.04908339            
+[195] City changed because of Region: IN28; because of R379; Possession of Colour TV Set; 1.31809786012164; 1.34875598717857; 68.57219936; 71.2046025117639; 64.57219936             
+[196] City changed because of Region: IN26; because of R379; Possession of Air Conditioner; 2.3876712849677; 9.03507810624764; 4.04908339; 16.3087848874844; 12.04908339             
+[197] City changed because of Region: IN28; because of R379; Possession of Air Conditioner; 2.88959592524156; 11.4639533253116; 4.04908339; 16.3087848874844; 12.04908339            
+[198] City changed because of Region: IN50; because of R380; Possession of Air Conditioner; 1.49930989959451; 1.23940778243499; 44.04908339; 21.8873791259398; 12.04908339           
+[199] City changed because of Region: IN46; because of R383; Possession of Air Conditioner; 1.7937934471269; 2.69440458961797; 4.04908339; 7.10633279540888; 12.04908339             
+[200] City changed because of Region: IN49; because of R383; Possession of Air Conditioner; 1.90220114822076; 3.45077424479005; 4.04908339; 7.10633279540888; 12.04908339            
+[201] City changed because of Region: IN22; because of R384; Possession of Air Conditioner; 2.76217324187425; 11.4012055472186; 2.04908339; 10.4529974694226; 12.04908339            
+[202] City changed because of Region: IN56; because of R385; Possession of Air Conditioner; 0.864288501202117; 0.889910446558289; 6.04908339; 16.9352063033075; 12.04908339          
+[203] City changed because of Region: IN60; because of R385; Possession of Air Conditioner; 1.08952412379307; 0.968390455807199; 6.04908339; 16.9352063033075; 12.04908339           
+[204] City changed because of Region: IN57; because of R385; Possession of Air Conditioner; 1.10318007571625; 1.08477554688354; 6.04908339; 16.9352063033075; 12.04908339            
+[205] City changed because of Region: IN59; because of R385; Possession of Air Conditioner; 1.10177797180761; 1.15653152105259; 6.04908339; 16.9352063033075; 12.04908339            
+205 Levels: City changed because of Region: IN40; because of R371; Possession of Colour TV Set; 1.26238920533501; 1.17828614046839; 76.57219936; 70.3056562608005; 64.57219936 ...
