@@ -2866,7 +2866,10 @@ issue.stretch.f <- function(bt, rposout){
       matplotf(t(xframe[years]),main=paste("AFTER",cityname),abline=c(0,100)) 
       rposout[rposout$CountryCode==x$CountryCode & rposout$Possession==x$ProductName & rposout$City %in% unique(xframe$City),] <- xframe
     }
+    
   }
+  
+  return(rposout)
 }
 
 
@@ -3141,5 +3144,32 @@ make.fakes <- function(hpregion, hp, dont.make, possession_codes){
   return(hp)
 }
 
+#sukuriam tokios strukturos final_poss_by_decile.RData naudojant naujausius poss by decile is csv file'o
+
+create.possessions.by.decile.RData <- function(dirname1, dirname2){
+  
+  possf <- read.csv(lastinput(dirname1), stringsAsFactors = F)
+  load(lastinput(dirname2))
+  possr <- final.pbd
+  
+  possf <- possf[,c("SubSector", "CountryCode", "ProductParentID", paste0("X", 2005:2030))]
+  possf <- melt(possf, id=c("SubSector", "CountryCode", "ProductParentID"))
+  possf <- rename(possf, c(SubSector='Decile.No', ProductParentID="ProductID", 
+                           variable="Year", value="est.Pos.norm"))
+  possf$Year <- sub("X", "", possf$Year)
+  possf$Decile.No <- as.numeric(sub("Decile ", "", possf$Decile.No))
+  
+  possr <- possr[,c("Year", "Decile.No", "CountryCode", "CountryName", 
+                    "Possession", "ProductID", "Average.income")]
+  possf <- merge(possf, possr, by=c("Year", "Decile.No", "CountryCode", "ProductID"))
+  
+  possf <- possf[,c("Year", "Decile.No", "CountryCode", "CountryName", "Possession", "ProductID", 
+                    "est.Pos.norm", "Average.income")]
+  
+  final.pbd <- possf
+  
+  save(final.pbd, file=paste0("input/Possessions by Decile/final_poss_by_decile RData/final_poss_by_decile ", Sys.Date(), ".RData"))
+  
+}
 
 
