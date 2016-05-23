@@ -1,14 +1,23 @@
 source("mid108(2).R")
 source("functions.R")
 library("grid")
-emibase()
+
+#emibase()
+load("input/EMI base.RData")
+
 
 options(scipen = 7)
 
 # INPUT -------------------------------------------------------------------
 # inputas pasiima pacias naujausias versijas
 
-load(lastinput("input/Possessions by Decile"))
+# is possessions by decile csv file'o, padarome Rdata file'a, 
+# # kuriame idedam naujus possessions by decile (is csv) ir Average income by decile is senesnio Rdata file'o.
+# dirname1 <- "input/Possessions by Decile/final_poss_by_decile csv/"
+# dirname2 <- "input/Possessions by Decile/final_poss_by_decile RData/"
+# create.possessions.by.decile.RData(dirname1, dirname2)
+
+load(lastinput("input/Possessions by Decile/final_poss_by_decile RData"))
 pd <- arrange(final.pbd,Decile.No,Year,CountryName) # possessions by decile
 kof <- read.csv(file=lastinput("input/Income abq"),check.names=F,stringsAsFactors=F)
 possession_codes <- read.csv("input/possession_codes.csv", check.names=F, stringsAsFactors = F)
@@ -213,7 +222,7 @@ qwe <- rposout
 
 save(s2rposout,file=paste0("temp/","s2rposout only after income",gsub(":","-",Sys.time()),".Rdata"))
 # 
-# load("temp/s2rposout only after income2015-11-24 23-46-44.Rdata") # sita reikia uzsiloadint, jei norim daryt nuo tos stadijos, kai jau turim susimodeliave pagal income
+# load("temp/s2rposout only after income2016-05-21 11-07-21.RData") # sita reikia uzsiloadint, jei norim daryt nuo tos stadijos, kai jau turim susimodeliave pagal income
 # rposout <- s2rposout
 # 
 
