@@ -3173,3 +3173,50 @@ create.possessions.by.decile.RData <- function(dirname1, dirname2){
 }
 
 
+#graphs to compare old and new data
+comparing.old.new.data <- function(bigdata, savedir, filename){
+  
+  pdftitle <- paste0(savedir,filename,gsub(":","-",Sys.time()),".pdf")
+  
+  pdf(pdftitle,width=16 * 0.8,height=13 * 0.7)
+  
+  print(titlepage(title = "Possessions of HH durables. Cities", sub = "Comparing old and new data", date = Sys.Date(), author = "JP", size=15))
+  
+  for (cc in unique(bigdata$CountryCode)){
+    
+    print(cc)
+    ccd <- bigdata[(bigdata$CountryCode %in% cc),]
+    
+    for (pp in unique(ccd$ProductName)){
+      
+      print(pp)
+      
+      years <- as.character(c(2005:2030))
+      maintitle <- paste0(cc, " - ", pp)
+      
+      frame <- ccd[(ccd$ProductName %in% pp),]
+      
+      frame1 <- frame[,c("Year", "City", "new")]
+      frame1 <- dcast(frame1, Year~City, value.var = "new")
+      row.names(frame1) <- frame1$Year
+      frame1$Year <- NULL
+      
+      frame2 <- frame[,c("Year", "City", "old")]
+      frame2 <- dcast(frame2, Year~City, value.var = "old")
+      row.names(frame2) <- frame2$Year
+      frame2$Year <- NULL
+      
+      total.new <- frame[frame$CityCode==frame$CityCode[1], c("Year", "t.new")]
+      total.old <- frame[frame$CityCode==frame$CityCode[1], c("Year", "t.old")]
+      
+      matplotf(frame1,legend = F,abline=c(0,100),stx=2005,lty=1,turnoffpar = T,main=maintitle,text = T)
+      matplotf(frame2,legend = F,abline=c(0,100),stx=2005,lty=2,turnoffpar = T,main=maintitle,text = F, add=T)
+      lines(2005:2030,total.new[,2],lwd=4, lty=1)
+      lines(2005:2030,total.old[,2],lwd=4, lty=2)
+      
+      
+    }
+  }
+  
+  dev.off()
+}
