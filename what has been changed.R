@@ -22,7 +22,7 @@
 # 
 # write.csv(changed, paste0("output/cities changed_", Sys.Date(),".csv"), row.names=F)
 
-d.new <- read.csv("output/cities output final 2016-05-23 00-45-51.csv", stringsAsFactors=F)
+d.new <- read.csv("output/cities output final 2016-06-06 09-30-13.csv", stringsAsFactors=F)
 d.old <- read.csv("input/PossData2016-05-03.csv", stringsAsFactors = F)
 
 d.new <- melt(d.new, id=c("CityCode", "CountryCode", "City", "ProductID", "Possession", "CityCodeID"))
@@ -50,10 +50,10 @@ write.csv(data.out, paste0("output/Compare_old_and_new ", Sys.Date(), ".csv"), r
 
 
 #add totals (old and new) to data
-load("input/Possessions by Decile/final_poss_by_decile RData/final_poss_by_decile 2016-05-20.RData")
+load("input/Possessions by Decile/final_poss_by_decile RData/final_poss_by_decile 2016-06-03.RData")
 tnew <- final.pbd
 
-load("input/Possessions by Decile/final_poss_by_decile RData//final_poss_by_decile 2015-12-10.RData")
+load("input/Possessions by Decile/final_poss_by_decile RData/final_poss_by_decile 2015-12-10.RData")
 told <- final.pbd
 
 tnew$pos <- "new"
@@ -61,9 +61,10 @@ told$pos <- "old"
 
 tt <- rbind(tnew, told)
 tt <- tt[,c("Year", "Decile.No", "CountryCode", "ProductID", "est.Pos.norm", "pos")]
-tt <- ddply(tt, .(Year, CountryCode, ProductID, pos), summarise, t.poss=mean(est.Pos.norm))
 
+tt <- ddply(tt, .(Year, CountryCode, ProductID, pos), summarise, t.poss=mean(est.Pos.norm))
 tt <- dcast(tt, Year+CountryCode+ProductID~pos, value.var="t.poss")
+
 tt <- rename(tt, c(new="t.new", old="t.old"))
 
 data <- merge(data, tt, by=c("Year", "CountryCode", "ProductID"), all.x=T)

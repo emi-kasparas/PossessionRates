@@ -3161,10 +3161,13 @@ create.possessions.by.decile.RData <- function(dirname1, dirname2){
   
   possr <- possr[,c("Year", "Decile.No", "CountryCode", "CountryName", 
                     "Possession", "ProductID", "Average.income")]
+  
   possf <- merge(possf, possr, by=c("Year", "Decile.No", "CountryCode", "ProductID"))
+
   
   possf <- possf[,c("Year", "Decile.No", "CountryCode", "CountryName", "Possession", "ProductID", 
                     "est.Pos.norm", "Average.income")]
+  
   
   final.pbd <- possf
   
