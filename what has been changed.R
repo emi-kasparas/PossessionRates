@@ -22,7 +22,7 @@
 # 
 # write.csv(changed, paste0("output/cities changed_", Sys.Date(),".csv"), row.names=F)
 
-d.new <- read.csv("output/cities output final 2016-06-06 09-30-13.csv", stringsAsFactors=F)
+d.new <- read.csv("output/cities output final 2016-06-10 00-56-45.csv", stringsAsFactors=F)
 d.old <- read.csv("input/PossData2016-05-03.csv", stringsAsFactors = F)
 
 d.new <- melt(d.new, id=c("CityCode", "CountryCode", "City", "ProductID", "Possession", "CityCodeID"))

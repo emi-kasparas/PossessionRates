@@ -21,7 +21,7 @@ load(lastinput("input/Possessions by Decile/final_poss_by_decile RData"))
 pd <- arrange(final.pbd,Decile.No,Year,CountryName) # possessions by decile
 kof <- read.csv(file=lastinput("input/Income abq"),check.names=F,stringsAsFactors=F)
 possession_codes <- read.csv("input/possession_codes.csv", check.names=F, stringsAsFactors = F)
-bt <- read.csv(file="input/bad things.csv",check.names=F,stringsAsFactors=F)
+bt <- read.csv(file="input/bad things.csv",check.names=F,stringsAsFactors=F, sep=";")
 
 # kodėl reikalingas šitas kof koregavimas? imi 1,3,4 stulpelį ir ten pridedi kažkokius minusus???
 kof <- kof[which(!(duplicated(apply(kof[,c(1,3,4)],1,function(x){paste(x,collapse="-")})))),]
@@ -589,7 +589,7 @@ cities.possession.graphs.grubus(bigdata=rposout,filename="plots/5. Forecasted po
 
 
 save(rposout,file=paste0("temp/","s4rposout after conditions and original adjustion",gsub(":","-",Sys.time()),".Rdata"))
-# load("temp/s4rposout after conditions and original adjustion2015-11-20 19-10-13.RData")
+# load("temp/s4rposout after conditions and original adjustion2016-06-06 08-54-08.RData")
 
 
 ###########################################################################

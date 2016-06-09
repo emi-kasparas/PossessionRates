@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Instrukcija\"\nauthor: \"SM-Route\"\ndate: \"24 March 2015\"\noutput:\n  html_document:\n    theme: cosmo\n---\n\n------------------------------------------------------------\n\n**Sitas failas skirtas zmogui, kuris paleidines visa sita koda. Daryk viska paeiliui ir nesiblaskyk, nes tik tu esi atsakingas, kad viskas gautusi gerai! Sekmes!**\n\n1. Atsidaryti \"Possession Rates\" projekta, naudojant R-Studio.\n\n2. Greiciausiai bus atnaujinti originalus duomenys, tai reikia juo pasiimti is \"Research/Research data all countries.xlsx\", persiverciant tuos duomenis i CSV formata, ir uzdedant atitinkama data. Visa sita patalpinti i \"input/Original data\" folderi.\n\n3. Kai issisaugosi CSV faila, jis vistiek dar gali buti netvarkingas, todel reikes isstrint nereikalingus (apie 20, bet gali ir daugiau istrint) stulpelius po paskutinio duomenu stulpelio, kad nepridetu nereikalingu NA stulpeliu (neaisku kodel taip padaro). Tada uzseivinam ir isjungiam.\n\n4. Atsidarom \"regions durables.R\" skritpa ir jei mus lydi sekme, spaudziame \"source\", bet is tikruju, tai geriau viska daryti pazingsniui.\n\n5. Jei atsinaujino tik originalus duomenys, viso kodo nuo pradziu leisti nereikia (aisku galima leisti, bet tada tiesiog bereikalingai skaiciuos prognozes, o tai uzima kazkiek laiko). Tereikia uzsiloadint paskutini prognoziu masyva, kuris buvo padarytas naudojant income. Taigi reikia nueiti i \"temp\" kataloga ir susirasti naujausia s2rposout.Rdata faila (na jis bus su data, tai neturetum pasiklysti) ir ji reik uzloadint ten kazkurioj eilutej (s2rposout pasearchink ir rasi).\n\n6. Grafikai visi suzymeti pagal eiliskuma, tai is esmes, jei nenorim ziureti tarpiniu, tai reiketu ziuret \"7. Forecasted possessions after exeptions\" folderyje esanti naujausia grafika ir jei norime tik miestu tai \"8. Forecasted possessions only cities mapping\" folderio grafika.\n\n7. Galutinis outputas padedamas i \"output\" folderi. Reiketu issirikiuoti pagal data, tada turetu likti tik 3 failai, tai galima ziureti tik pacius naujausius 3. Pagrindinis failas yra \"rposout\" - jame sudeti ir miestu ir regionu forecastai. Jei reikia tik miestu, tai ir pasiimam su prierasu Cities, o jei jau keliame i duombaze, tai reikia pasiimti tuos, kur yra prierasas ID.\n\n8. \n",
+    "created" : 1463642977740.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2255303770",
+    "id" : "3FE6CF3F",
+    "lastKnownWriteTime" : 1463642046,
+    "last_content_update" : 1463642046,
+    "path" : "C:/Users/Domantas/Desktop/justes/PossessionRates/instrukcija.Rmd",
+    "project_path" : "instrukcija.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
